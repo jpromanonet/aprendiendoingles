@@ -1,0 +1,656 @@
+[
+  {
+    "number": 1,
+    "title": "Política en Westminster",
+    "summary": "Parliament, Prime Minister, MP, referendum y cómo funciona el gobierno británico.",
+    "body": [
+      "El Reino Unido es una monarquía parlamentaria. El Parliament se reúne en Westminster y tiene dos cámaras: la de los Comunes y la de los Lores. Cada MP (Member of Parliament) representa a una constituency, un distrito electoral, y es elegido en una election general cada cinco años como máximo.",
+      "El jefe del gobierno es el Prime Minister, líder del partido con más escaños. El government forma un cabinet, un grupo de ministros principales. El partido que pierde pasa a ser la opposition. Antes de una elección, cada partido publica su manifesto, la lista de promesas.",
+      "Dos palabras marcaron la política reciente: referendum (consulta popular) y Brexit, la salida del Reino Unido de la Unión Europea, votada en 2016. Y devolution es el traspaso de poderes a Escocia, Gales e Irlanda del Norte, que tienen parlamentos o asambleas propias."
+    ],
+    "pins": [
+      "Parliament",
+      "Prime Minister",
+      "government",
+      "constituency",
+      "opposition",
+      "cabinet",
+      "manifesto",
+      "referendum",
+      "Brexit",
+      "devolution",
+      "MP",
+      "election"
+    ],
+    "quiz": [
+      {
+        "prompt": "MP significa…",
+        "options": [
+          "Member of Parliament",
+          "Minister of Police",
+          "Main Politician",
+          "Mayor of Paris"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "El jefe del gobierno británico es…",
+        "options": [
+          "el Prime Minister",
+          "el rey",
+          "el alcalde de Londres",
+          "el presidente"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Opposition es…",
+        "options": [
+          "el partido que no gobierna",
+          "la mayoría",
+          "el rey",
+          "una elección"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Manifesto en política es…",
+        "options": [
+          "una lista de promesas electorales",
+          "un manifiesto de protesta",
+          "un debate en televisión",
+          "una ley"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Devolution se refiere a…",
+        "options": [
+          "traspaso de poderes a las regiones",
+          "devolver dinero",
+          "una reforma económica",
+          "una elección local"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "title": "Economía y negocios",
+    "summary": "Inflation, profit, recession y cómo hablar del dinero a gran escala.",
+    "body": [
+      "La economy británica es una de las más grandes del mundo, y Londres es un centro financiero global. Cada empresa o company busca un profit, una ganancia. Los shareholders, es decir, los accionistas, esperan beneficios. Un start-up es una empresa joven, de base tecnológica.",
+      "Cuando los precios suben se habla de inflation. Cuando la economía se contrae, hay una recession, y suele subir el unemployment (desempleo). Cada año, el gobierno presenta su budget, el presupuesto. Para vender al exterior se usa export y para la logística, la supply chain, la cadena de suministro.",
+      "Un tema que domina los titulares es el cost of living, el aumento del costo de vida: alquiler, energía y comida. Una frase de los diarios: «Inflation is eating into household budgets», «La inflación se come los presupuestos de los hogares»."
+    ],
+    "pins": [
+      "inflation",
+      "economy",
+      "profit",
+      "company",
+      "shareholder",
+      "recession",
+      "budget",
+      "unemployment",
+      "export",
+      "supply chain",
+      "start-up",
+      "cost of living"
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Ciencia e investigación",
+    "summary": "Research, experiment, evidence y la tradición científica británica.",
+    "body": [
+      "El Reino Unido tiene una larga tradición científica: Newton, Darwin, Hawking, Fleming. Hoy sigue siendo líder en research, la investigación. Un scientist trabaja en un laboratory y desarrolla un experiment para probar una theory o una hypothesis.",
+      "Para que un hallazgo sea aceptado se necesita evidence, es decir, pruebas, y data, datos. Antes de publicarse, un trabajo pasa por una peer review, la revisión por parte de otros expertos. Un discovery importante cambia lo que sabemos, y un breakthrough es un avance decisivo.",
+      "Un ejemplo reciente: la vaccine contra el COVID-19 fue desarrollada en la Universidad de Oxford. Una frase de periódico: «Researchers have made a major breakthrough in cancer treatment»."
+    ],
+    "pins": [
+      "research",
+      "experiment",
+      "evidence",
+      "theory",
+      "breakthrough",
+      "laboratory",
+      "vaccine",
+      "data",
+      "hypothesis",
+      "peer review",
+      "discovery",
+      "scientist"
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Arte y literatura",
+    "summary": "Novel, playwright, theatre, West End y la cultura británica en escena.",
+    "body": [
+      "Gran Bretaña tiene una tradición literaria que enorgullece al país. Shakespeare es el playwright más famoso de la historia. Un poet escribe poemas y un autor escribe novels, es decir, novelas. Un bestseller es un libro que vende masivamente, y una review es una reseña en un diario.",
+      "El theatre británico se escribe con «re» al final (en Estados Unidos, theater). El West End de Londres es el barrio de los teatros más célebres, equivalente al Broadway de Nueva York. Una función se hace en el stage y atrae a una audience, el público.",
+      "Los museos son famosos, y muchos son gratuitos. Una gallery exhibe pinturas y una exhibition es una muestra temporal. Para hablar de arte con un inglés: «Have you seen the new exhibition at the Tate?»."
+    ],
+    "pins": [
+      "novel",
+      "playwright",
+      "poet",
+      "theatre",
+      "gallery",
+      "exhibition",
+      "bestseller",
+      "stage",
+      "review",
+      "audience",
+      "Shakespeare",
+      "West End"
+    ],
+    "quiz": [
+      {
+        "prompt": "Theatre con «re» es la ortografía…",
+        "options": [
+          "británica",
+          "norteamericana",
+          "francesa",
+          "antigua"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "West End en Londres es…",
+        "options": [
+          "el barrio de los teatros",
+          "un puerto",
+          "un estadio",
+          "una universidad"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Bestseller es…",
+        "options": [
+          "un libro muy vendido",
+          "un libro viejo",
+          "una reseña negativa",
+          "un autor famoso"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Audience es…",
+        "options": [
+          "el público",
+          "el escenario",
+          "el guion",
+          "la obra"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Playwright es…",
+        "options": [
+          "dramaturgo",
+          "poeta",
+          "novelista",
+          "periodista"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "title": "Phrasal verbs",
+    "summary": "Look after, give up, carry on y los verbos compuestos más usados.",
+    "body": [
+      "Los phrasal verbs son verbos seguidos de una partícula que cambian de significado: look after (cuidar a alguien), give up (rendirse; dejar de hacer algo), put off (postergar), carry on (seguir adelante). Son muy frecuentes en el habla británica y un hispanohablante los suele evitar, pero son la clave para sonar natural.",
+      "Hay otros esenciales: turn up (aparecer, llegar), set up (establecer, fundar), work out (resolver, o hacer ejercicio), run out of (quedarse sin) y find out (descubrir, averiguar). Con break down se dice que un auto se averió; con get over, que superaste una enfermedad o una pena. Y look forward to expresa que esperás algo con ganas; después va un verbo con -ing: I'm looking forward to seeing you.",
+      "Algunos phrasal verbs admiten objeto en el medio (put it off), otros no (look after her). La mejor técnica es aprenderlos en frases completas, no como listas sueltas de palabras."
+    ],
+    "pins": [
+      "look after",
+      "give up",
+      "put off",
+      "carry on",
+      "turn up",
+      "set up",
+      "work out",
+      "run out of",
+      "find out",
+      "get over",
+      "break down",
+      "look forward to"
+    ],
+    "dialogue": [
+      {
+        "zh": "Are you coming tonight?",
+        "py": "aa yuu KA-ming tə-NAIT",
+        "es": "¿Venís esta noche?"
+      },
+      {
+        "zh": "I'd love to, but my car broke down.",
+        "py": "aid lav tuu bat mai kaa brəuk daun",
+        "es": "Me encantaría, pero se me averió el auto."
+      },
+      {
+        "zh": "Don't give up! We can work something out.",
+        "py": "dəunt giv ap wii kan wəək SAM-thing aut",
+        "es": "¡No te rindas! Podemos resolver algo."
+      },
+      {
+        "zh": "Thanks. I'm looking forward to seeing everyone.",
+        "py": "thangks aim LU-king FOO-wəd tuu SII-ing EV-ri-wan",
+        "es": "Gracias. Tengo muchas ganas de ver a todos."
+      },
+      {
+        "zh": "Let me find out when the next bus leaves.",
+        "py": "let mii faind aut wen dhə nekst bas liivz",
+        "es": "Dejame averiguar cuándo sale el próximo colectivo."
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "title": "Regiones e identidad",
+    "summary": "England, Scotland, Wales, accents y la diversidad del Reino Unido.",
+    "body": [
+      "Hay una confusión frecuente entre England, Great Britain y United Kingdom. England es solo una de las naciones. Great Britain es la isla que incluye a England, Scotland y Wales. El United Kingdom suma además a Northern Ireland. Los británicos son muy sensibles a esta diferencia: nunca digas «English» para referirte a un escocés.",
+      "Cada región tiene su identidad y su accent, el acento. El cockney es el habla tradicional del este de Londres. Los de Newcastle son geordie, y los de Liverpool son scouse. Un dialect es una variedad de la lengua con vocabulario propio. El acento tradicional de las elites y de la BBC es Received Pronunciation, el que se enseña en este curso.",
+      "Hay otra distinción cultural clara: the North y the South. Los del norte son vistos como cálidos y directos; los del sur, como más reservados. Un pequeño consejo: aprender a distinguir acentos regionales es la forma más rápida de entender cómo hablan realmente los ingleses."
+    ],
+    "pins": [
+      "England",
+      "Scotland",
+      "Wales",
+      "Northern Ireland",
+      "Great Britain",
+      "United Kingdom",
+      "accent",
+      "dialect",
+      "cockney",
+      "Geordie",
+      "Scouse",
+      "Received Pronunciation"
+    ],
+    "quiz": [
+      {
+        "prompt": "Great Britain incluye…",
+        "options": [
+          "England, Scotland y Wales",
+          "solo England",
+          "Irlanda del Norte y Gales",
+          "Irlanda e Inglaterra"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Un geordie es de…",
+        "options": [
+          "Newcastle",
+          "Liverpool",
+          "Londres",
+          "Cardiff"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Cockney es el habla del…",
+        "options": [
+          "este de Londres",
+          "norte de Escocia",
+          "sur de Gales",
+          "oeste de Irlanda"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Received Pronunciation es…",
+        "options": [
+          "el acento estándar de elite",
+          "el acento del norte",
+          "un dialecto escocés",
+          "un idioma celta"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "United Kingdom incluye…",
+        "options": [
+          "las cuatro naciones",
+          "solo tres",
+          "solo England",
+          "Irlanda del Sur"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "title": "Verbos de reporte",
+    "summary": "Claim, suggest, deny, insist y cómo contar lo que dijo otro.",
+    "body": [
+      "En los diarios y en la charla seria se cuenta lo que otros dijeron con verbos específicos. Claim significa afirmar algo que puede ser cierto o no; suggest, sugerir; admit, admitir; deny, negar; insist, insistir; warn, advertir; announce, anunciar; explain, explicar. Con point out se llama la atención sobre un hecho.",
+      "Para citar una fuente se usa according to: according to the report. Para algo que se dice pero no está probado, se usa allegedly (supuestamente). Un spokesperson es el portavoz de una institución. En el estilo indirecto se retrocede un tiempo verbal: «I'm tired» pasa a «He said he was tired».",
+      "Los verbos de reporte te dan matices que «said» no puede dar. Compará: «He said he was innocent» y «He insisted he was innocent». La segunda frase transmite firmeza. Un buen periodista británico elige con cuidado el verbo: no es lo mismo claim que explain."
+    ],
+    "pins": [
+      "claim",
+      "suggest",
+      "admit",
+      "deny",
+      "insist",
+      "warn",
+      "announce",
+      "explain",
+      "according to",
+      "allegedly",
+      "spokesperson",
+      "point out"
+    ]
+  },
+  {
+    "number": 8,
+    "title": "Condicionales e hipótesis",
+    "summary": "If only, unless, provided that y cómo hablar de lo que podría pasar.",
+    "body": [
+      "El condicional se usa para hablar de situaciones posibles o imaginarias. If it rains, we'll stay in (posible, real). If it rained, we would stay in (poco probable, imaginario). If I had known, I would have come (pasado, ya no se puede cambiar). Cada tipo usa una estructura distinta.",
+      "Hay conectores muy útiles: unless significa «a menos que» (unless you hurry, you'll miss the train). Provided that y as long as significan «siempre que». In case equivale a «por si acaso»: take an umbrella in case it rains. Supposing es «suponiendo», y what if, «¿y si…?».",
+      "Para expresar un deseo o un arrepentimiento: I wish I had more time (ojalá tuviera más tiempo), if only I had listened (si tan solo hubiera escuchado). Además, would rather (preferiría) y had better (más vale que): You had better go now. Dominar estas fórmulas es lo que separa a un B1 de un B2."
+    ],
+    "pins": [
+      "if only",
+      "wish",
+      "unless",
+      "provided that",
+      "supposing",
+      "otherwise",
+      "in case",
+      "as long as",
+      "would rather",
+      "had better",
+      "what if",
+      "even if"
+    ],
+    "quiz": [
+      {
+        "prompt": "Unless significa…",
+        "options": [
+          "a menos que",
+          "siempre que",
+          "además",
+          "después"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "In case equivale a…",
+        "options": [
+          "por si acaso",
+          "en caso de que sí",
+          "en otro caso",
+          "en cualquier caso"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "«I wish I could swim» expresa…",
+        "options": [
+          "un deseo",
+          "una orden",
+          "una obligación",
+          "una certeza"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Had better es…",
+        "options": [
+          "más vale que",
+          "habría mejor",
+          "mejor tarde",
+          "no mejor"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Provided that significa…",
+        "options": [
+          "siempre que",
+          "solo en caso",
+          "a menos que",
+          "desde que"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "title": "Ciudades del Reino Unido",
+    "summary": "London, Manchester, Edinburgh y el vocabulario urbano.",
+    "body": [
+      "London es la capital y la ciudad más grande, con más de ocho millones de habitantes. Se divide en boroughs, distritos administrativos. El centro se llama city centre. Fuera de él, los suburbs son las zonas residenciales, con casas bajas y jardines. Una ciudad británica combina lo antiguo y lo moderno.",
+      "Los símbolos de Londres son conocidos: Big Ben (el reloj de la torre del Parlamento), el río Thames, el London Eye. Cada landmark atrae a millones de visitantes. El skyline londinense incluye el rascacielos llamado The Shard. Los double-decker, los colectivos rojos de dos pisos, y los black cab, los taxis negros, son parte del paisaje.",
+      "Otras ciudades importantes son Manchester, famosa por su música y su fútbol, y Edinburgh, la capital de Escocia, con su castillo medieval. Cada ciudad tiene su carácter: Londres es cosmopolita, Manchester industrial y creativa, y Edimburgo histórica."
+    ],
+    "pins": [
+      "London",
+      "Manchester",
+      "Edinburgh",
+      "suburb",
+      "city centre",
+      "borough",
+      "landmark",
+      "skyline",
+      "Thames",
+      "double-decker",
+      "black cab",
+      "Big Ben"
+    ]
+  },
+  {
+    "number": 10,
+    "title": "Cuestiones sociales",
+    "summary": "Inequality, welfare, police, law y los debates de la sociedad británica.",
+    "body": [
+      "Un país tiene sus debates internos. En Gran Bretaña los más frecuentes son la inequality (desigualdad) y la poverty (pobreza). Se habla de homelessness, la situación de quienes no tienen vivienda, y de immigration, un tema político central desde hace décadas.",
+      "El Estado ayuda con el welfare, el bienestar social, que incluye los benefits (subsidios). El NHS, el sistema público de salud, es uno de los orgullos nacionales pero sufre por la falta de fondos. Para hacer cumplir las normas están la police y la court, el tribunal; cada ciudadano, o citizen, tiene derechos y deberes, entre ellos el de vote, es decir, votar.",
+      "La law británica se basa en el common law, un sistema de precedentes, distinto al derecho civil que conocés en América Latina. Una frase típica de debate: «We need a fairer society for everyone». Entender estos temas te ayuda a seguir una conversación seria con un británico."
+    ],
+    "pins": [
+      "inequality",
+      "poverty",
+      "homelessness",
+      "immigration",
+      "welfare",
+      "benefits",
+      "NHS",
+      "law",
+      "police",
+      "court",
+      "citizen",
+      "vote"
+    ],
+    "quiz": [
+      {
+        "prompt": "Welfare significa…",
+        "options": [
+          "bienestar social",
+          "buen viaje",
+          "buena comida",
+          "buena vida"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "NHS es…",
+        "options": [
+          "el sistema público de salud",
+          "un banco",
+          "una universidad",
+          "un periódico"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Homelessness es…",
+        "options": [
+          "la falta de vivienda",
+          "un lugar para vivir",
+          "un barrio",
+          "una casa grande"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Citizen es…",
+        "options": [
+          "ciudadano",
+          "ciudad",
+          "civil",
+          "cítrico"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Court es…",
+        "options": [
+          "tribunal",
+          "campo de tenis",
+          "patio",
+          "corte de pelo"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "title": "Argumentar y persuadir",
+    "summary": "Argue, persuade, fair enough y las fórmulas de un debate educado.",
+    "body": [
+      "Un buen debate necesita las palabras justas. Argue es discutir o argumentar; debate es discutir formalmente; convince y persuade son dos formas de lograr que otro cambie de idea: convince es lograr que alguien crea, persuade es lograr que alguien actúe. Para explicar tu postura se dice point of view.",
+      "Los británicos tienen fórmulas muy educadas para discrepar: I take your point (entiendo lo que decís), to be fair (para ser justos), it depends (depende) y to some extent (hasta cierto punto). On balance sirve para dar una conclusión equilibrada: On balance, I think it's a good idea.",
+      "Dos expresiones muy cotidianas: fair enough significa «está bien, tenés razón» y I see what you mean es «te entiendo». Se usan para cerrar discusiones sin conflicto. Un debate en inglés británico nunca debe subirse de tono; la ironía es más valorada que la crítica directa."
+    ],
+    "pins": [
+      "argue",
+      "convince",
+      "persuade",
+      "debate",
+      "point of view",
+      "on balance",
+      "to be fair",
+      "fair enough",
+      "I take your point",
+      "it depends",
+      "to some extent",
+      "I see what you mean"
+    ],
+    "dialogue": [
+      {
+        "zh": "I think the government should invest more in trains.",
+        "py": "ai thingk dhə GA-vən-mənt shud in-VEST moo in treinz",
+        "es": "Creo que el gobierno debería invertir más en trenes."
+      },
+      {
+        "zh": "I take your point, but it depends on the cost.",
+        "py": "ai teik yoo point bat it di-PENDZ on dhə kost",
+        "es": "Entiendo tu argumento, pero depende del costo."
+      },
+      {
+        "zh": "To be fair, it would save money in the long run.",
+        "py": "tuu bii feə it wud seiv MA-ni in dhə long ran",
+        "es": "Para ser justos, ahorraría plata a largo plazo."
+      },
+      {
+        "zh": "To some extent, yes. On balance, I agree.",
+        "py": "tuu sam ik-STENT yes on BA-ləns ai ə-GRII",
+        "es": "Hasta cierto punto, sí. En definitiva, estoy de acuerdo."
+      },
+      {
+        "zh": "Fair enough. Shall we have a pint?",
+        "py": "feə i-NAF shal wii hav ə paint",
+        "es": "Está bien. ¿Tomamos una pinta?"
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "title": "Vivienda y propiedad",
+    "summary": "Terraced house, semi-detached, tenant y el mercado inmobiliario británico.",
+    "body": [
+      "En el Reino Unido, la property se divide en tipos muy reconocibles. Una terraced house es una casa en hilera, pegada a las vecinas; una semi-detached comparte una pared con una sola; una detached es independiente y un bungalow es una casa de un solo piso. La council house es una vivienda social que pertenece al municipio.",
+      "Para alquilar, el tenant (inquilino) firma un contrato con el landlord. Para comprar, se contrata a un estate agent (inmobiliario). Los first-time buyers, quienes compran su primera casa, reciben beneficios. El housing market está muy caro, sobre todo en Londres.",
+      "Existen dos formas de propiedad: freehold, donde el dueño tiene la casa y el terreno, y leasehold, donde se compra por un plazo largo (a veces 99 años) y el terreno pertenece a otro. Es una diferencia poco conocida que puede afectar mucho el valor de una vivienda."
+    ],
+    "pins": [
+      "property",
+      "terraced house",
+      "semi-detached",
+      "detached",
+      "bungalow",
+      "council house",
+      "tenant",
+      "estate agent",
+      "first-time buyer",
+      "freehold",
+      "leasehold",
+      "housing market"
+    ],
+    "quiz": [
+      {
+        "prompt": "Semi-detached es…",
+        "options": [
+          "una casa pareada",
+          "una casa independiente",
+          "un departamento",
+          "un monoambiente"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Bungalow es…",
+        "options": [
+          "una casa de una sola planta",
+          "una casa de campo",
+          "un castillo",
+          "una cabaña de madera"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Estate agent es…",
+        "options": [
+          "un inmobiliario",
+          "un abogado",
+          "un notario",
+          "un arquitecto"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Freehold significa…",
+        "options": [
+          "propiedad plena (casa y terreno)",
+          "alquiler barato",
+          "casa gratis",
+          "casa sin dueño"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Council house es…",
+        "options": [
+          "vivienda social municipal",
+          "casa del alcalde",
+          "oficina del ayuntamiento",
+          "casa de gobierno"
+        ],
+        "correct": 0
+      }
+    ]
+  }
+]

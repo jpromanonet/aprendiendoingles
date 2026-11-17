@@ -1,0 +1,500 @@
+[
+  {
+    "number": 1,
+    "title": "La casa por dentro",
+    "summary": "Sofa, fridge, lift y los muebles y cosas de una casa británica.",
+    "body": [
+      "En A1 viste flat, kitchen y bedroom. Ahora entrás: en el living hay un sofa y quizás un armchair (un sillón individual). La ropa va en el wardrobe (placard) y el piso suele estar cubierto por un carpet que llega de pared a pared. Las curtains se corren por la noche porque las ventanas inglesas casi siempre dan a la calle.",
+      "En la cocina están el cooker (la cocina con hornallas y horno) y el fridge (la heladera). Fijate que en inglés británico el ascensor se llama lift, no elevator. Y las stairs son la escalera: upstairs es arriba y downstairs es abajo. El ground floor es la planta baja; el first floor, en el Reino Unido, es el piso de arriba.",
+      "Window y door se abren y se cierran con los verbos open y close. La key abre la puerta. Una frase muy usada en cualquier casa: «Could you close the door, please?». Con estas palabras ya podés describir tu casa en una charla."
+    ],
+    "pins": [
+      "sofa",
+      "armchair",
+      "wardrobe",
+      "cooker",
+      "fridge",
+      "carpet",
+      "curtains",
+      "stairs",
+      "lift",
+      "window",
+      "door",
+      "key"
+    ]
+  },
+  {
+    "number": 2,
+    "title": "Alquilar un lugar",
+    "summary": "Rent, landlord, deposit y cómo leer un aviso de alquiler.",
+    "body": [
+      "Buscar dónde vivir en el Reino Unido empieza con un advert en internet o en la vidriera de una inmobiliaria. En los carteles vas a ver «To let», que significa «se alquila». Antes de decidir se pide un viewing, es decir, una visita para ver el lugar.",
+      "El rent se paga por mes: per month. El landlord es el dueño (la landlady, si es mujer). Un lugar furnished viene con muebles; unfurnished, vacío. Siempre preguntá si las bills (luz, gas, agua) están incluidas, y cuánto es el deposit, que por ley es de unas cinco semanas de alquiler.",
+      "Otras palabras útiles: heating es la calefacción (muy importante en invierno) y spare room es una habitación libre, la que muchas personas alquilan o usan para invitados."
+    ],
+    "pins": [
+      "rent",
+      "landlord",
+      "furnished",
+      "to let",
+      "deposit",
+      "per month",
+      "bills",
+      "heating",
+      "spare room",
+      "advert",
+      "viewing"
+    ],
+    "dialogue": [
+      {
+        "zh": "Hello, I'm calling about the flat to let.",
+        "py": "hə-LƏU aim KOO-ling ə-BAUT dhə flat tuu let",
+        "es": "Hola, llamo por el departamento en alquiler."
+      },
+      {
+        "zh": "Yes, it has two bedrooms and a small garden.",
+        "py": "yes it haz tuu BED-ruumz and ə smool GAA-dən",
+        "es": "Sí, tiene dos dormitorios y un jardín chico."
+      },
+      {
+        "zh": "How much is the rent per month?",
+        "py": "hau mach iz dhə rent pə manth",
+        "es": "¿Cuánto es el alquiler por mes?"
+      },
+      {
+        "zh": "It's eight hundred pounds. Bills are not included.",
+        "py": "its eit HAN-drəd paundz bilz aa not in-KLUU-did",
+        "es": "Son ochocientas libras. Las cuentas no están incluidas."
+      },
+      {
+        "zh": "Can I arrange a viewing on Saturday?",
+        "py": "kan ai ə-REINDJ ə VYUU-ing on SA-tə-dei",
+        "es": "¿Puedo coordinar una visita el sábado?"
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "title": "El barrio",
+    "summary": "Neighbour, postcode, bin, high street y la vida de pueblo o ciudad.",
+    "body": [
+      "Tu neighbour es quien vive al lado, y la ortografía británica lleva «ou» (en inglés norteamericano, neighbor). Un town es una ciudad mediana o pueblo grande, un village es un pueblo chico. La high street es la calle principal con comercios, y la corner shop es el pequeño negocio de la esquina que abre hasta tarde.",
+      "El postcode es el código postal, con letras y números, como SW1A 1AA. Sirve para encontrar cualquier dirección. El council es el municipio: se ocupa de la basura, de las plazas y de muchos servicios locales. Cada semana hay un día de recolección: la bin day. Rubbish es la basura; bin, el cesto. Los norteamericanos dicen garbage y trash.",
+      "Para describir un barrio vas a necesitar noisy (ruidoso) y quiet (tranquilo). Una frase típica: «It's a quiet street, but it's very near the high street»."
+    ],
+    "pins": [
+      "neighbour",
+      "postcode",
+      "council",
+      "bin",
+      "rubbish",
+      "noisy",
+      "quiet",
+      "corner shop",
+      "high street",
+      "village",
+      "town"
+    ]
+  },
+  {
+    "number": 4,
+    "title": "La rutina",
+    "summary": "Del despertador a la cena, con always, usually, sometimes y never.",
+    "body": [
+      "Un día típico empieza con el alarm clock. Primero wake up (despertarse) y después get up (levantarse de la cama). Después viene el shower y get dressed, es decir, vestirse. Estos son verbos compuestos: se aprenden como bloques y no se separan.",
+      "Lunch es el almuerzo y dinner, la comida principal, aunque en el norte de Inglaterra la gente llama tea a la comida de la noche. Para hablar de frecuencia: always (siempre), usually (generalmente), sometimes (a veces) y never (nunca). Se ubican antes del verbo: I always get up early, I never eat breakfast.",
+      "Early es temprano y late es tarde. Las preguntas de rutina usan do: What time do you get up? Una respuesta típica es: «I usually get up at seven»."
+    ],
+    "pins": [
+      "alarm clock",
+      "wake up",
+      "get up",
+      "shower",
+      "get dressed",
+      "lunch",
+      "dinner",
+      "early",
+      "late",
+      "always",
+      "usually",
+      "sometimes",
+      "never"
+    ],
+    "dialogue": [
+      {
+        "zh": "What time do you get up?",
+        "py": "wot taim duu yuu get ap",
+        "es": "¿A qué hora te levantás?"
+      },
+      {
+        "zh": "I usually get up at seven. And you?",
+        "py": "ai YUU-zhuə-li get ap at SE-vən and yuu",
+        "es": "Generalmente me levanto a las siete. ¿Y vos?"
+      },
+      {
+        "zh": "I always wake up early, but I never eat breakfast.",
+        "py": "ai OOL-weiz weik ap ƏƏ-li bat ai NE-və iit BREK-fəst",
+        "es": "Siempre me despierto temprano, pero nunca desayuno."
+      },
+      {
+        "zh": "Sometimes I just have a cup of tea.",
+        "py": "SAM-taimz ai djast hav ə kap ov tii",
+        "es": "A veces tomo solo una taza de té."
+      },
+      {
+        "zh": "I have lunch at one o'clock.",
+        "py": "ai hav lanch at wan ə-KLOK",
+        "es": "Almuerzo a la una."
+      }
+    ],
+    "quiz": [
+      {
+        "prompt": "Wake up significa…",
+        "options": [
+          "despertarse",
+          "levantarse",
+          "ducharse",
+          "vestirse"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Always se ubica…",
+        "options": [
+          "antes del verbo principal",
+          "al final de la frase",
+          "después del sujeto y el verbo",
+          "al principio de todo"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "¿Qué significa «I never eat breakfast»?",
+        "options": [
+          "Nunca desayuno",
+          "Siempre desayuno",
+          "A veces desayuno",
+          "Desayuno tarde"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Early es…",
+        "options": [
+          "temprano",
+          "tarde",
+          "mañana",
+          "ayer"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "En el norte de Inglaterra tea puede ser…",
+        "options": [
+          "la comida de la noche",
+          "una galletita",
+          "un tipo de pan",
+          "un desayuno"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "title": "El trabajo",
+    "summary": "Job, office, boss, colleague y cómo decir a qué te dedicás.",
+    "body": [
+      "What do you do? pregunta a qué te dedicás. La respuesta lleva artículo: I'm a teacher, I'm a nurse, I'm an engineer. Con an delante de vocal: an engineer. Para el lugar de trabajo se dice I work in an office, I work in a shop, I work at a hospital.",
+      "En la oficina tenés un boss (jefe) y varios colleagues (colegas). Hay una meeting (reunión) casi todos los días. El salary es el sueldo mensual. Cuando alguien busca empleo tiene que pasar por un interview (entrevista). Un trabajo de pocas horas es un part-time job.",
+      "Los horarios típicos van de nueve a cinco. Es muy común oír «I work from nine to five». Los británicos hablan poco de cuánto ganan: preguntar por el salary a un colega es de mala educación."
+    ],
+    "pins": [
+      "job",
+      "office",
+      "boss",
+      "colleague",
+      "salary",
+      "meeting",
+      "interview",
+      "teacher",
+      "nurse",
+      "engineer",
+      "shop assistant",
+      "part-time"
+    ]
+  },
+  {
+    "number": 6,
+    "title": "Compras y ropa",
+    "summary": "Chemist, jumper, trainers, trousers y las trampas del vocabulario de la ropa.",
+    "body": [
+      "Ir de compras en Reino Unido exige conocer unas cuantas palabras distintas. La chemist es la farmacia (en Estados Unidos, pharmacy o drugstore). Un supermarket como Tesco o Sainsbury's es el lugar donde se compra todo, con su trolley (carrito) o un basket (canasto).",
+      "En la ropa hay trampas: el jumper es el suéter (en Estados Unidos, sweater); los trousers son el pantalón (US: pants); los trainers son las zapatillas deportivas (US: sneakers). Cuidado: en Gran Bretaña pants son los calzoncillos o la bombacha. También se dice coat, shirt y shoes.",
+      "Para preguntar el talle se dice What size are you? y la respuesta es el size: small, medium o large. Pedí siempre el receipt (el ticket de compra) por si querés cambiar algo. Y mirá si hay una sale, una liquidación: en Inglaterra son famosas las del Boxing Day."
+    ],
+    "pins": [
+      "chemist",
+      "supermarket",
+      "jumper",
+      "trousers",
+      "trainers",
+      "coat",
+      "shirt",
+      "shoes",
+      "size",
+      "receipt",
+      "sale",
+      "basket",
+      "trolley"
+    ]
+  },
+  {
+    "number": 7,
+    "title": "Vacaciones",
+    "summary": "Holiday, passport, flight y el bed and breakfast.",
+    "body": [
+      "En inglés británico las vacaciones son holiday, no vacation: I'm going on holiday next week. Para viajar necesitás passport, y en el aeropuerto: airport, flight (vuelo), luggage (equipaje) y suitcase (valija). Luggage no tiene plural: some luggage, a piece of luggage.",
+      "Reservar un lugar se dice booking. El hotel es la opción conocida, pero en Inglaterra hay una tradición muy típica: el bed and breakfast, o B&B, una casa de familia que alquila habitaciones e incluye desayuno. Muchos turistas eligen el seaside, la costa, con sus playas de piedra y sus muelles antiguos, como Brighton.",
+      "El sightseeing es hacer turismo: visitar monumentos y museos. Y beach es la playa. Un clásico verano británico es ir a la playa con un sándwich, un jumper en la mochila por si baja la temperatura y mucha esperanza de que no llueva."
+    ],
+    "pins": [
+      "holiday",
+      "passport",
+      "luggage",
+      "suitcase",
+      "flight",
+      "airport",
+      "hotel",
+      "booking",
+      "beach",
+      "seaside",
+      "sightseeing",
+      "bed and breakfast"
+    ]
+  },
+  {
+    "number": 8,
+    "title": "En la ruta",
+    "summary": "Petrol, motorway, boot, roundabout y cómo se maneja en el Reino Unido.",
+    "body": [
+      "En el Reino Unido se maneja por la izquierda y el volante está a la derecha. Para cargar combustible vas a una petrol station: la nafta se llama petrol (en Estados Unidos, gas o gasoline). La autopista es la motorway, que en los carteles aparece abreviada como M1, M25, etcétera.",
+      "El auto británico tiene boot (baúl) y bonnet (capó); en Estados Unidos serían trunk y hood. La lorry es el camión y la coach es el micro de larga distancia. Una roundabout es una rotonda: se circula en el sentido de las agujas del reloj y se da paso a quien viene por la derecha.",
+      "Para estacionar se busca un car park. Cuidado con el speed limit (límite de velocidad), que en millas por hora es 30 en ciudad y 70 en autopista. Para manejar necesitás un driving licence (con «c» como sustantivo; license es el verbo). Y a todos nos toca una traffic jam, un embotellamiento."
+    ],
+    "pins": [
+      "petrol",
+      "motorway",
+      "boot",
+      "bonnet",
+      "roundabout",
+      "lorry",
+      "coach",
+      "car park",
+      "speed limit",
+      "driving licence",
+      "traffic jam"
+    ]
+  },
+  {
+    "number": 9,
+    "title": "Comida británica",
+    "summary": "Roast, pie, porridge, takeaway y los platos que no te podés perder.",
+    "body": [
+      "Contra el prejuicio, la cocina británica tiene platos queridos. El roast del domingo es el más célebre: carne asada con papas, verduras, gravy (salsa) y Yorkshire pudding. Un pie es una tarta cerrada, de carne o de manzana. La palabra pudding también puede ser cualquier postre dulce.",
+      "El desayuno completo se llama fry-up: huevos, bacon, sausage, tomate y pan frito. El porridge es una avena caliente muy típica de Escocia. Una jacket potato es una papa grande al horno, con queso o porotos. Cuando no querés cocinar, pedís un takeaway: comida para llevar.",
+      "Para tomar algo a media tarde se dice cuppa, la forma coloquial de «a cup of tea»: «Fancy a cuppa?». Es la forma más británica de ser amable."
+    ],
+    "pins": [
+      "roast",
+      "gravy",
+      "pie",
+      "porridge",
+      "jacket potato",
+      "takeaway",
+      "fry-up",
+      "pudding",
+      "cuppa",
+      "bacon",
+      "sausage"
+    ]
+  },
+  {
+    "number": 10,
+    "title": "La salud",
+    "summary": "Doctor, GP, headache, plaster y cómo decir que te sentís mal.",
+    "body": [
+      "Para decir que no te sentís bien: I feel ill. Los síntomas más comunes son headache (dolor de cabeza), cough (tos), sore throat (dolor de garganta) y temperature (fiebre; también se dice I have a high temperature). Un flu es una gripe más fuerte que un simple resfrío.",
+      "En el Reino Unido el sistema de salud público (el NHS) funciona con un GP: el médico de cabecera, que es el primer contacto. Se pide un appointment (turno) por teléfono o en línea. Con la receta, o prescription, se va a la chemist a buscar la medicine. Un plaster es una curita.",
+      "Una frase útil en el consultorio: «I have a headache and a sore throat». Y para responder cómo estás: «I'm feeling a bit better, thank you»."
+    ],
+    "pins": [
+      "ill",
+      "headache",
+      "flu",
+      "cough",
+      "sore throat",
+      "temperature",
+      "medicine",
+      "doctor",
+      "appointment",
+      "prescription",
+      "plaster",
+      "GP"
+    ],
+    "dialogue": [
+      {
+        "zh": "Good morning. What's the matter?",
+        "py": "gud MOO-ning wots dhə MA-tə",
+        "es": "Buen día. ¿Qué le pasa?"
+      },
+      {
+        "zh": "I have a headache and a sore throat.",
+        "py": "ai hav ə HED-eik and ə soo thrəut",
+        "es": "Tengo dolor de cabeza y de garganta."
+      },
+      {
+        "zh": "Do you have a temperature?",
+        "py": "duu yuu hav ə TEM-prə-chə",
+        "es": "¿Tiene fiebre?"
+      },
+      {
+        "zh": "Yes, I think I have the flu.",
+        "py": "yes ai thingk ai hav dhə fluu",
+        "es": "Sí, creo que tengo gripe."
+      },
+      {
+        "zh": "Here is a prescription. Take the medicine twice a day.",
+        "py": "hiə iz ə pri-SKRIP-shən teik dhə ME-di-sin twais ə dei",
+        "es": "Acá tiene una receta. Tome el medicamento dos veces por día."
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "title": "Clima y estaciones",
+    "summary": "Spring, autumn, drizzle, forecast y cómo hablar del tiempo como un inglés.",
+    "body": [
+      "Las cuatro estaciones son spring, summer, autumn y winter. En Estados Unidos autumn se dice fall, pero en el Reino Unido es autumn. El verano británico es templado, el invierno es frío y húmedo, y casi nunca nieva en grandes cantidades salvo en el norte.",
+      "El vocabulario del clima es amplio: cloudy (nublado), windy (ventoso), foggy (con niebla), mild (templado, agradable) y freezing (helado). Un drizzle es una llovizna fina que no para. Y siempre se carga un umbrella en el bolso. El forecast es el pronóstico del tiempo, que los británicos miran todos los días.",
+      "La charla del tiempo es una fórmula social: se empieza con «Nice day, isn't it?» o «Looks like rain». Aprender esas frases te hace parecer local y abre cualquier conversación."
+    ],
+    "pins": [
+      "spring",
+      "summer",
+      "autumn",
+      "winter",
+      "cloudy",
+      "windy",
+      "foggy",
+      "drizzle",
+      "freezing",
+      "umbrella",
+      "forecast",
+      "mild"
+    ],
+    "quiz": [
+      {
+        "prompt": "Autumn en inglés británico es…",
+        "options": [
+          "otoño",
+          "primavera",
+          "verano",
+          "invierno"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Drizzle es…",
+        "options": [
+          "llovizna",
+          "tormenta",
+          "granizo",
+          "nieve"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Forecast significa…",
+        "options": [
+          "pronóstico",
+          "paraguas",
+          "niebla",
+          "clima"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Foggy quiere decir…",
+        "options": [
+          "con niebla",
+          "ventoso",
+          "soleado",
+          "frío"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Una frase típica para empezar charla es…",
+        "options": [
+          "Nice day, isn't it?",
+          "How much is it?",
+          "Where is the bank?",
+          "I'd like a ticket"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "title": "Tiempo libre y deportes",
+    "summary": "Football, cricket, rugby, hobbies y qué hacer el fin de semana.",
+    "body": [
+      "El football es el deporte nacional y se llama así, no soccer. Los grandes partidos, o matches, se juegan los sábados y los domingos, y la Premier League es la liga más seguida. Otros deportes tradicionales son cricket y rugby: ambos nacieron en Inglaterra.",
+      "Los hobbies más comunes son leer, ir al cine, escuchar music y hacer gym. Una película se llama film en el Reino Unido (en Estados Unidos, movie). Nadar, swimming, es popular en piscinas climatizadas. Para un plan tranquilo se dice go for a walk: salir a caminar por el parque o el campo.",
+      "El weekend es sagrado: sábado y domingo. Para preguntar los planes se usa What are you doing at the weekend? y se responde «I'm going to watch the match». Cada equipo tiene su team y los hinchas son fieles de por vida."
+    ],
+    "pins": [
+      "football",
+      "cricket",
+      "rugby",
+      "match",
+      "team",
+      "hobby",
+      "weekend",
+      "music",
+      "film",
+      "gym",
+      "swimming",
+      "go for a walk"
+    ],
+    "dialogue": [
+      {
+        "zh": "What are you doing at the weekend?",
+        "py": "wot aa yuu DUU-ing at dhə wiik-END",
+        "es": "¿Qué hacés el fin de semana?"
+      },
+      {
+        "zh": "On Saturday I'm going to watch the match.",
+        "py": "on SA-tə-dei aim GƏU-ing tuu woch dhə mach",
+        "es": "El sábado voy a ver el partido."
+      },
+      {
+        "zh": "Which team do you support?",
+        "py": "wich tiim duu yuu sə-POOT",
+        "es": "¿De qué equipo sos?"
+      },
+      {
+        "zh": "Liverpool. And you?",
+        "py": "LI-və-puul and yuu",
+        "es": "Del Liverpool. ¿Y vos?"
+      },
+      {
+        "zh": "I prefer cricket. Let's go for a walk on Sunday.",
+        "py": "ai pri-FƏƏ KRI-kit lets gəu foo ə wook on SAN-dei",
+        "es": "Yo prefiero el críquet. Salgamos a caminar el domingo."
+      }
+    ]
+  }
+]

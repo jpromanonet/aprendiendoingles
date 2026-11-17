@@ -1,0 +1,613 @@
+[
+  {
+    "number": 1,
+    "title": "Humor británico",
+    "summary": "Irony, banter, wit, satire y la comedia como forma de vida.",
+    "body": [
+      "El humor es el corazón de la cultura británica. La irony consiste en decir lo contrario de lo que se piensa, con un tono que deja ver la verdad. El sarcasm es más hiriente y directo. El banter es el intercambio de bromas entre amigos, que a veces suena a insulto pero es una muestra de afecto. Si un inglés te burla con cariño, es buena señal.",
+      "El wit es el ingenio rápido, la gracia aguda. La satire se burla de la política y la sociedad con humor; programas como Have I Got News for You la practican desde hace décadas. Un pun es un juego de palabras, que los ingleses adoran aunque digan que es terrible. El dry humour es un humor seco, sin gestos, y los Monty Python son su máxima expresión absurda.",
+      "Si no entendés una broma, no te preocupes: suele ser a propósito. Para el hispanohablante, la clave está en el tono, no en las palabras. Escuchá cómo se dicen las cosas más que lo que se dice."
+    ],
+    "pins": [
+      "irony",
+      "sarcasm",
+      "banter",
+      "wit",
+      "satire",
+      "pun",
+      "dry humour",
+      "Monty Python"
+    ],
+    "quiz": [
+      {
+        "prompt": "Banter es…",
+        "options": [
+          "bromas entre amigos",
+          "una pelea seria",
+          "un discurso formal",
+          "un tipo de té"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Satire se burla de…",
+        "options": [
+          "la política y la sociedad",
+          "los animales",
+          "los niños",
+          "la comida"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Pun es…",
+        "options": [
+          "un juego de palabras",
+          "una pelea",
+          "una poesía",
+          "un golpe"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Dry humour es…",
+        "options": [
+          "un humor seco, sin gestos",
+          "un humor soso",
+          "un humor infantil",
+          "un humor ácido"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Wit significa…",
+        "options": [
+          "ingenio",
+          "oscuridad",
+          "agua",
+          "ruido"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "title": "Subestimación y cortesía indirecta",
+    "summary": "Not bad, I'm afraid, with respect y el arte de decir poco para decir mucho.",
+    "body": [
+      "El understatement es la figura favorita del inglés: se dice menos de lo que se piensa. «Not bad» para una cosa excelente; «a bit of a problem» para un desastre; «quite good» para algo muy bueno, aunque en otros contextos quite puede significar «completamente». Hay que prestar atención al tono.",
+      "Con I'm afraid se da una mala noticia sin sonar brusco: «I'm afraid I can't come». With respect abre un desacuerdo en un tono muy cortés, y a menudo significa «con todo respeto, estás equivocado». If you don't mind es un pedido suave. I suppose, dicho con duda, muchas veces significa «no, pero no te lo quiero decir».",
+      "Rather es «bastante» y a menudo es un suavizador: «It's rather late». Y a bit es «un poco». Todo este sistema indirecto es la trampa más grande para un hispanohablante, acostumbrado a la franqueza. El truco: cuando un inglés es muy educado, a menudo está en desacuerdo."
+    ],
+    "pins": [
+      "not bad",
+      "rather",
+      "I'm afraid",
+      "with respect",
+      "if you don't mind",
+      "a bit",
+      "I suppose",
+      "quite"
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Modismos de nivel avanzado",
+    "summary": "Raining cats and dogs, back to square one y las expresiones que hay que saber.",
+    "body": [
+      "Además de los idioms de C1, hay un segundo grupo muy usado. «It's raining cats and dogs» significa que llueve a cántaros. Una storm in a teacup es una tormenta en un vaso de agua, un alboroto por una tontería. «The ball is in your court» quiere decir que ahora te toca a vos decidir.",
+      "Si alguien está barking up the wrong tree, está buscando donde no es: se equivocó de camino. Cut corners es hacer un trabajo mal, ahorrando esfuerzo. Get the wrong end of the stick es malinterpretar algo. Back to square one es empezar de nuevo, y the elephant in the room es un problema obvio que nadie nombra.",
+      "Estos modismos conviene usarlos con medida: uno por conversación suena natural; cinco juntos, forzado. Escuchá cómo los usan los presentadores de la BBC y tomá nota."
+    ],
+    "pins": [
+      "raining cats and dogs",
+      "a storm in a teacup",
+      "the ball is in your court",
+      "barking up the wrong tree",
+      "cut corners",
+      "get the wrong end of the stick",
+      "back to square one",
+      "the elephant in the room"
+    ],
+    "dialogue": [
+      {
+        "zh": "Did you finish the report?",
+        "py": "did yuu FI-nish dhə ri-POOT",
+        "es": "¿Terminaste el informe?"
+      },
+      {
+        "zh": "I'm afraid we're back to square one.",
+        "py": "aim ə-FREID wiə bak tuu skweə wan",
+        "es": "Me temo que estamos otra vez en el punto de partida."
+      },
+      {
+        "zh": "I think you got the wrong end of the stick.",
+        "py": "ai thingk yuu got dhə rong end ov dhə stik",
+        "es": "Creo que entendiste mal."
+      },
+      {
+        "zh": "Perhaps. But the ball is in your court now.",
+        "py": "pə-HAPS bat dhə bool iz in yoo koot nau",
+        "es": "Quizás. Pero ahora te toca a vos."
+      },
+      {
+        "zh": "Fair enough. Let's not make a storm in a teacup.",
+        "py": "feə i-NAF lets not meik ə stoom in ə TII-kap",
+        "es": "Está bien. No hagamos una tormenta en un vaso de agua."
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Registro formal",
+    "summary": "Hereby, pursuant, kindly y la correspondencia oficial británica.",
+    "body": [
+      "El inglés formal escrito tiene fórmulas fijas. En una carta de trabajo se usa kindly para pedir algo con cortesía: «Kindly confirm receipt». Regarding significa «con respecto a», y enclosed indica que se adjunta un documento: «Please find enclosed my CV».",
+      "En contratos y documentos legales aparecen hereby (por la presente), aforementioned (antes mencionado) y pursuant to (conforme a). Para cerrar una carta británica hay una regla clara: si empezás con el nombre del destinatario (Dear Mr Smith), cerrás con Yours sincerely; si empezás con Dear Sir or Madam, cerrás con Yours faithfully. Y para una carta general se usa To whom it may concern.",
+      "Esta regla distingue a los que dominan el inglés formal británico. En correos electrónicos de trabajo se usan fórmulas menos rígidas, como «Best wishes» o «Kind regards»."
+    ],
+    "pins": [
+      "hereby",
+      "aforementioned",
+      "pursuant to",
+      "kindly",
+      "regarding",
+      "enclosed",
+      "yours sincerely",
+      "yours faithfully",
+      "to whom it may concern"
+    ],
+    "quiz": [
+      {
+        "prompt": "¿Cómo cerrás una carta que empieza con «Dear Mr Smith»?",
+        "options": [
+          "Yours sincerely",
+          "Yours faithfully",
+          "Best of luck",
+          "Dear friend"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Hereby significa…",
+        "options": [
+          "por la presente",
+          "por favor",
+          "de aquí a allá",
+          "hacia atrás"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Enclosed indica…",
+        "options": [
+          "que se adjunta algo",
+          "que se cierra la carta",
+          "que está prohibido",
+          "que es secreto"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "To whom it may concern es…",
+        "options": [
+          "a quien corresponda",
+          "para quien quiera",
+          "a mi amigo",
+          "con mucho gusto"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Kindly en una carta formal es…",
+        "options": [
+          "tenga a bien",
+          "un tipo de persona",
+          "por amabilidad solamente",
+          "una despedida"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "title": "Cultura gastronómica",
+    "summary": "Scone, crumpet, Marmite, afternoon tea y los sabores de la tradición británica.",
+    "body": [
+      "La comida es una ventana a la cultura. El afternoon tea es una tradición del siglo XIX: té con sándwiches pequeños, scones con crema y mermelada, y pasteles, servido alrededor de las cuatro de la tarde. Un scone se come con jam y clotted cream, y hay una eterna discusión sobre qué va primero. En Devon, la crema; en Cornwall, la mermelada.",
+      "Una crumpet es una torta esponjosa que se tuesta y se come con manteca. El Marmite es una pasta salada de levadura, que se unta en el pan: la gente lo adora o lo odia, tanto que la marca hizo un eslogan con eso. El Sunday roast es la comida del domingo, con carne asada y Yorkshire pudding, una masa que se hornea alta y vacía por dentro.",
+      "El trifle es un postre en capas, con bizcocho, fruta, natilla y crema; es el favorito en Navidad. El Full English es el desayuno completo. Si te invitan a una de estas comidas, es un honor y una forma de entrar de verdad en la cultura inglesa."
+    ],
+    "pins": [
+      "scone",
+      "crumpet",
+      "Marmite",
+      "Yorkshire pudding",
+      "trifle",
+      "afternoon tea",
+      "Sunday roast",
+      "Full English"
+    ]
+  },
+  {
+    "number": 6,
+    "title": "Estilo y figuras literarias",
+    "summary": "Sonnet, metaphor, alliteration y el análisis de un texto.",
+    "body": [
+      "Leer literatura inglesa en su idioma es una de las grandes recompensas. Un sonnet es un poema de catorce versos, y Shakespeare escribió 154. La prose es el texto sin forma poética, y el verse es el lenguaje en verso. La alliteration repite sonidos al comienzo de palabras cercanas: «Peter Piper picked a peck of pickled peppers».",
+      "Una metaphor identifica una cosa con otra («Time is a thief»), mientras que una allegory es una historia entera cuyo sentido profundo es otro: Animal Farm, de George Orwell, es una alegoría política. Un oxymoron junta dos términos opuestos: «deafening silence». Un idiom es una expresión fija cuyo sentido no se deduce de las palabras.",
+      "Una tarea de análisis literario: «Identify the metaphors in the first stanza». Conocer estos términos te permite estudiar literatura británica con profundidad y participar en un taller de lectura crítica."
+    ],
+    "pins": [
+      "sonnet",
+      "prose",
+      "verse",
+      "metaphor",
+      "allegory",
+      "idiom",
+      "alliteration",
+      "oxymoron"
+    ],
+    "quiz": [
+      {
+        "prompt": "Un sonnet tiene…",
+        "options": [
+          "catorce versos",
+          "doce versos",
+          "cuatro versos",
+          "veinte versos"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Un oxymoron junta…",
+        "options": [
+          "dos términos opuestos",
+          "dos sinónimos",
+          "dos números",
+          "dos colores"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Alliteration es…",
+        "options": [
+          "la repetición de sonidos iniciales",
+          "una rima final",
+          "un verso suelto",
+          "un tipo de prosa"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Allegory es…",
+        "options": [
+          "una historia con otro sentido profundo",
+          "un cuento de hadas",
+          "una novela larga",
+          "una canción"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Prose es…",
+        "options": [
+          "texto sin forma poética",
+          "poesía rimada",
+          "una obra teatral",
+          "una carta"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "title": "Clase y sociedad",
+    "summary": "Posh, working class, toff y la huella de las clases sociales.",
+    "body": [
+      "Pocos temas son tan británicos como la clase social. La sociedad se describe como working class (clase trabajadora), middle class (clase media) y upper class (clase alta). El acento, la escuela y hasta lo que se come revelan la clase de origen. Alguien posh habla con acento de elite y tiene modales refinados. Un toff es un aristócrata, a menudo dicho con cierta ironía.",
+      "Una public school es un colegio privado de elite, como Eton o Harrow; los egresados pasan a Oxford o Cambridge y forman redes que se conocen como the old school tie. La social mobility es la posibilidad de subir de clase. Es una promesa política que, según los críticos, funciona poco.",
+      "Hablar de clase con un inglés exige cuidado. La mayoría dirá «I'm just ordinary» y preferirá no hablar de dinero ni de origen. Pero entender este sistema te ayuda a comprender muchas actitudes y chistes que de otro modo parecerían raros."
+    ],
+    "pins": [
+      "posh",
+      "working class",
+      "middle class",
+      "upper class",
+      "toff",
+      "social mobility",
+      "public school",
+      "old school tie"
+    ]
+  },
+  {
+    "number": 8,
+    "title": "Jerga británica",
+    "summary": "Innit, knackered, cheeky, bloke y el inglés de la calle.",
+    "body": [
+      "El inglés informal británico es tan rico que conviene tener una guía. Innit es la contracción de «isn't it» y se usa al final de una frase, a veces sin sentido literal. Knackered es estar muy cansado. Cheeky describe a alguien descarado de manera simpática, y daft es tonto, bobo, sin ser un insulto grave.",
+      "Un bloke es un tipo, un hombre. Dos palabras sobre dinero: fiver es un billete de cinco libras y tenner, uno de diez. Skint es estar sin un peso, y dodgy, algo sospechoso o de mala calidad. Gobsmacked es estar boquiabierto por la sorpresa.",
+      "Estas palabras son informales: usalas con amigos, no en una entrevista de trabajo. Saberlas, sin embargo, te permite entender mucho mejor a los británicos cuando hablan entre ellos, en series, programas y canciones."
+    ],
+    "pins": [
+      "innit",
+      "knackered",
+      "cheeky",
+      "daft",
+      "bloke",
+      "fiver",
+      "tenner",
+      "skint",
+      "dodgy",
+      "gobsmacked"
+    ],
+    "quiz": [
+      {
+        "prompt": "Knackered significa…",
+        "options": [
+          "muy cansado",
+          "enojado",
+          "contento",
+          "hambriento"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Un fiver es…",
+        "options": [
+          "un billete de cinco libras",
+          "un billete de cincuenta",
+          "una moneda",
+          "un cheque"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Skint es…",
+        "options": [
+          "no tener plata",
+          "tener mucha plata",
+          "estar enfermo",
+          "estar apurado"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Bloke es…",
+        "options": [
+          "un tipo; un hombre",
+          "un tipo de queso",
+          "un bloque",
+          "un auto"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Cheeky describe a alguien…",
+        "options": [
+          "descarado, de forma simpática",
+          "muy educado",
+          "muy callado",
+          "muy enojado"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "title": "Fiestas y tradiciones",
+    "summary": "Hogmanay, Burns Night, Guy Fawkes y el calendario folclórico.",
+    "body": [
+      "Fuera de las fiestas conocidas, el Reino Unido guarda tradiciones antiguas. El Hogmanay es la Nochevieja escocesa, una fiesta enorme con música y fuego. El 25 de enero, los escoceses celebran la Burns Night en honor al poeta Robert Burns, con un banquete de haggis y versos recitados.",
+      "El Remembrance Day (11 de noviembre) honra a los caídos en las guerras, con dos minutos de silencio y amapolas rojas en las solapas. Al comienzo de mayo, el May Day se celebra con un maypole, un palo adornado con cintas alrededor del cual se baila. Y el morris dancing es una danza folclórica con campanillas y pañuelos que se hace en pueblos y festivales.",
+      "El Guy Fawkes recuerda al conspirador que intentó volar el Parlamento en 1605; sus muñecos se queman en hogueras. Otra ceremonia famosa es el Trooping the Colour, el desfile con que se celebra el cumpleaños oficial del monarca, en junio. Cada una cuenta una parte de la historia y de la identidad británica."
+    ],
+    "pins": [
+      "Hogmanay",
+      "Burns Night",
+      "Remembrance Day",
+      "Guy Fawkes",
+      "May Day",
+      "maypole",
+      "morris dancing",
+      "Trooping the Colour"
+    ]
+  },
+  {
+    "number": 10,
+    "title": "Gramática y estilo avanzado",
+    "summary": "Subjunctive, inversion, hedging y las sutilezas del inglés escrito.",
+    "body": [
+      "En C2 la gramática se vuelve estilo. El subjunctive es raro en inglés pero existe: «I suggest that he be present» (con be, no is). La inversion cambia el orden de sujeto y verbo para dar énfasis: «Never have I seen such a thing», en lugar de «I have never seen…». Es típica de los textos formales y literarios.",
+      "La ellipsis omite palabras que se sobreentienden: «She went to Paris; he, to Rome». El hedging es suavizar una afirmación con expresiones como «it seems that» o «perhaps»: muy propio del texto académico. La nominalisation convierte verbos en sustantivos («decide → decision») y le da un tono impersonal. La passive voice (la voz pasiva) quita el foco del agente: «Mistakes were made».",
+      "Un buen escritor domina el register, es decir, el nivel de formalidad de cada situación. Un texto puede ser colloquial (coloquial) o, al contrario, tener palabras archaic (arcaicas) como «thou» y «hath». Saber cuándo usar cada nivel es lo que distingue al hablante avanzado."
+    ],
+    "pins": [
+      "subjunctive",
+      "inversion",
+      "ellipsis",
+      "hedging",
+      "nominalisation",
+      "passive voice",
+      "register",
+      "colloquial",
+      "archaic"
+    ],
+    "quiz": [
+      {
+        "prompt": "Inversion en gramática es…",
+        "options": [
+          "cambiar el orden de sujeto y verbo",
+          "una pregunta",
+          "un error",
+          "un sinónimo"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Hedging es…",
+        "options": [
+          "suavizar una afirmación",
+          "afirmar con fuerza",
+          "negar una idea",
+          "repetir una frase"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Archaic significa…",
+        "options": [
+          "arcaico",
+          "arqueológico",
+          "artístico",
+          "autoritario"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Register es…",
+        "options": [
+          "el nivel de formalidad",
+          "un listado",
+          "un archivo",
+          "una caja registradora"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Passive voice es…",
+        "options": [
+          "la voz pasiva",
+          "una voz muda",
+          "un tipo de acento",
+          "un silencio"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "title": "Pensamiento crítico",
+    "summary": "Fallacy, premise, bias, scrutiny y cómo analizar un argumento.",
+    "body": [
+      "Pensar con claridad es una destreza de C2. Una premise es la base de un argumento: si la premisa es falsa, la conclusión también lo es. Una fallacy es un error de razonamiento que parece válido pero no lo es. Un counterargument es el argumento opuesto, y refutarlo con rigor da fuerza a tu postura.",
+      "El bias, el sesgo, es una inclinación que nos impide juzgar con equidad. Un buen razonamiento resiste el scrutiny, el examen minucioso, y es rigorous, riguroso. Una opinión nuanced es matizada, no blanco o negro. Y una critique es un análisis crítico, que no significa solo criticar sino evaluar con criterio.",
+      "Los universitarios británicos aprenden desde jóvenes a cuestionar. Una pregunta típica en un seminario: «What assumptions underlie your argument?». Si podés responderla con calma y precisión, estás hablando como un hablante nativo culto."
+    ],
+    "pins": [
+      "fallacy",
+      "premise",
+      "counterargument",
+      "bias",
+      "scrutiny",
+      "rigorous",
+      "nuanced",
+      "critique"
+    ]
+  },
+  {
+    "number": 12,
+    "title": "Cierre del curso",
+    "summary": "Congratulations, well done, cheerio y las palabras para seguir.",
+    "body": [
+      "Llegaste al final. Congratulations: completaste un recorrido enorme, desde el cat y el cup de la primera clase hasta el estilo y la crítica de C2. Fue un largo journey y un gran achievement que te abre puertas en el trabajo, en los estudios y en los viajes.",
+      "Un milestone es un hito, un punto importante en el camino, y este curso es uno de ellos. Ser fluent, es decir, fluido, no significa no cometer errores sino poder comunicarte sin trabarte. Los británicos te dirán «Well done!» cuando aciertes y «Keep going!» para animarte. Y en la despedida, muy cálida, se dice cheerio o farewell, según el contexto.",
+      "El camino sigue: leer The Guardian, escuchar a la BBC, mirar series británicas con subtítulos en inglés y, sobre todo, hablar con ingleses cada vez que puedas. Escuchá, repetí, equivocate sin miedo. Con estas palabras y las que ya sumaste, tenés el nivel para vivir en inglés británico. Good luck, and cheerio!"
+    ],
+    "pins": [
+      "congratulations",
+      "milestone",
+      "journey",
+      "achievement",
+      "fluent",
+      "keep going",
+      "well done",
+      "cheerio",
+      "farewell"
+    ],
+    "dialogue": [
+      {
+        "zh": "I've finished the whole course!",
+        "py": "aiv FI-nisht dhə həul koos",
+        "es": "¡Terminé todo el curso!"
+      },
+      {
+        "zh": "Congratulations! That's a great achievement.",
+        "py": "kən-gra-chə-LEI-shənz dhats ə greit ə-CHIIV-mənt",
+        "es": "¡Felicitaciones! Es un gran logro."
+      },
+      {
+        "zh": "Thank you. It was a long journey.",
+        "py": "thangk yuu it woz ə long DJƏƏ-ni",
+        "es": "Gracias. Fue un largo recorrido."
+      },
+      {
+        "zh": "Keep going. Soon you'll be fluent.",
+        "py": "kiip GƏU-ing suun yuul bii FLUU-ənt",
+        "es": "Seguí adelante. Pronto vas a hablar con fluidez."
+      },
+      {
+        "zh": "Cheers! And farewell for now.",
+        "py": "chiəz and feə-WEL foo nau",
+        "es": "¡Gracias! Y hasta pronto."
+      }
+    ],
+    "quiz": [
+      {
+        "prompt": "Well done significa…",
+        "options": [
+          "bien hecho",
+          "bien cocido",
+          "hecho a mano",
+          "muy hecho"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Milestone es…",
+        "options": [
+          "un hito",
+          "una piedra de molino",
+          "una milla",
+          "un mojón de ruta"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Fluent describe a quien…",
+        "options": [
+          "habla con fluidez",
+          "habla poco",
+          "habla muy fuerte",
+          "habla de forma antigua"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Cheerio es una forma informal de…",
+        "options": [
+          "despedirse",
+          "saludar",
+          "agradecer",
+          "pedir perdón"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Achievement significa…",
+        "options": [
+          "logro",
+          "llegada",
+          "pérdida",
+          "trabajo"
+        ],
+        "correct": 0
+      }
+    ]
+  }
+]

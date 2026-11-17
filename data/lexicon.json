@@ -1,0 +1,7067 @@
+[
+  {
+    "hanzi": "cat",
+    "pinyin": "kat",
+    "es": "gato",
+    "level": 1,
+    "ex_zh": "The cat is on the sofa.",
+    "ex_py": "dhə kat iz on dhə SƏU-fə",
+    "ex_es": "El gato está en el sillón."
+  },
+  {
+    "hanzi": "cup",
+    "pinyin": "kap",
+    "es": "taza",
+    "level": 1,
+    "ex_zh": "A cup of tea, please.",
+    "ex_py": "ə kap ov tii pliiz",
+    "ex_es": "Una taza de té, por favor."
+  },
+  {
+    "hanzi": "hot",
+    "pinyin": "hot",
+    "es": "caliente; caluroso",
+    "level": 1,
+    "ex_zh": "It is very hot today.",
+    "ex_py": "it iz VE-ri hot tə-DEI",
+    "ex_es": "Hoy hace mucho calor."
+  },
+  {
+    "hanzi": "ship",
+    "pinyin": "ship",
+    "es": "barco",
+    "level": 1,
+    "ex_zh": "The ship leaves at noon.",
+    "ex_py": "dhə ship liivz at nuun",
+    "ex_es": "El barco sale al mediodía."
+  },
+  {
+    "hanzi": "cheese",
+    "pinyin": "chiiz",
+    "es": "queso",
+    "level": 1,
+    "ex_zh": "I love cheese and biscuits.",
+    "ex_py": "ai lav chiiz and BIS-kits",
+    "ex_es": "Me encanta el queso con galletitas."
+  },
+  {
+    "hanzi": "think",
+    "pinyin": "thingk",
+    "es": "pensar; creer",
+    "level": 1,
+    "ex_zh": "I think so.",
+    "ex_py": "ai thingk səu",
+    "ex_es": "Creo que sí."
+  },
+  {
+    "hanzi": "this",
+    "pinyin": "dhis",
+    "es": "este; esto",
+    "level": 1,
+    "ex_zh": "This is my flat.",
+    "ex_py": "dhis iz mai flat",
+    "ex_es": "Este es mi departamento."
+  },
+  {
+    "hanzi": "car",
+    "pinyin": "kaa",
+    "es": "auto",
+    "level": 1,
+    "ex_zh": "My car is in the car park.",
+    "ex_py": "mai kaa iz in dhə kaa paak",
+    "ex_es": "Mi auto está en el estacionamiento."
+  },
+  {
+    "hanzi": "bird",
+    "pinyin": "bəəd",
+    "es": "pájaro; ave",
+    "level": 1,
+    "ex_zh": "A bird is singing in the garden.",
+    "ex_py": "ə bəəd iz SING-ing in dhə GAA-dən",
+    "ex_es": "Un pájaro está cantando en el jardín."
+  },
+  {
+    "hanzi": "thought",
+    "pinyin": "thoot",
+    "es": "pensé; pensamiento",
+    "level": 1,
+    "ex_zh": "I thought about you.",
+    "ex_py": "ai thoot ə-BAUT yuu",
+    "ex_es": "Pensé en vos."
+  },
+  {
+    "hanzi": "moon",
+    "pinyin": "muun",
+    "es": "luna",
+    "level": 1,
+    "ex_zh": "The moon is bright tonight.",
+    "ex_py": "dhə muun iz brait tə-NAIT",
+    "ex_es": "La luna está brillante esta noche."
+  },
+  {
+    "hanzi": "water",
+    "pinyin": "WOO-tə",
+    "es": "agua",
+    "level": 1,
+    "ex_zh": "A glass of water, please.",
+    "ex_py": "ə glaas ov WOO-tə pliiz",
+    "ex_es": "Un vaso de agua, por favor."
+  },
+  {
+    "hanzi": "hello",
+    "pinyin": "hə-LƏU",
+    "es": "hola",
+    "level": 1,
+    "ex_zh": "Hello, my name is Tom.",
+    "ex_py": "hə-LƏU mai neim iz tom",
+    "ex_es": "Hola, me llamo Tom."
+  },
+  {
+    "hanzi": "hi",
+    "pinyin": "hai",
+    "es": "hola (informal)",
+    "level": 1,
+    "ex_zh": "Hi, how are you?",
+    "ex_py": "hai hau aa yuu",
+    "ex_es": "Hola, ¿cómo estás?"
+  },
+  {
+    "hanzi": "good morning",
+    "pinyin": "gud MOO-ning",
+    "es": "buen día; buenos días",
+    "level": 1,
+    "ex_zh": "Good morning, Mrs Smith.",
+    "ex_py": "gud MOO-ning MI-siz smith",
+    "ex_es": "Buen día, señora Smith."
+  },
+  {
+    "hanzi": "good afternoon",
+    "pinyin": "gud aaf-tə-NUUN",
+    "es": "buenas tardes",
+    "level": 1,
+    "ex_zh": "Good afternoon, everyone.",
+    "ex_py": "gud aaf-tə-NUUN EV-ri-wan",
+    "ex_es": "Buenas tardes a todos."
+  },
+  {
+    "hanzi": "good evening",
+    "pinyin": "gud IIV-ning",
+    "es": "buenas noches (al llegar)",
+    "level": 1,
+    "ex_zh": "Good evening, welcome to the hotel.",
+    "ex_py": "gud IIV-ning WEL-kəm tuu dhə həu-TEL",
+    "ex_es": "Buenas noches, bienvenidos al hotel."
+  },
+  {
+    "hanzi": "goodbye",
+    "pinyin": "gud-BAI",
+    "es": "adiós; chau",
+    "level": 1,
+    "ex_zh": "Goodbye, see you on Monday.",
+    "ex_py": "gud-BAI sii yuu on MAN-dei",
+    "ex_es": "Adiós, nos vemos el lunes."
+  },
+  {
+    "hanzi": "how are you",
+    "pinyin": "hau aa yuu",
+    "es": "¿cómo estás?",
+    "level": 1,
+    "ex_zh": "How are you today?",
+    "ex_py": "hau aa yuu tə-DEI",
+    "ex_es": "¿Cómo estás hoy?"
+  },
+  {
+    "hanzi": "thank you",
+    "pinyin": "THANGK yuu",
+    "es": "gracias",
+    "level": 1,
+    "ex_zh": "Thank you very much.",
+    "ex_py": "thangk yuu VE-ri mach",
+    "ex_es": "Muchas gracias."
+  },
+  {
+    "hanzi": "cheers",
+    "pinyin": "chiəz",
+    "es": "gracias; salud (brindis)",
+    "level": 1,
+    "ex_zh": "Cheers, mate, that is very kind.",
+    "ex_py": "chiəz meit dhat iz VE-ri kaind",
+    "ex_es": "Gracias, amigo, qué amable."
+  },
+  {
+    "hanzi": "please",
+    "pinyin": "pliiz",
+    "es": "por favor",
+    "level": 1,
+    "ex_zh": "Two teas, please.",
+    "ex_py": "tuu tiiz pliiz",
+    "ex_es": "Dos tés, por favor."
+  },
+  {
+    "hanzi": "sorry",
+    "pinyin": "SO-ri",
+    "es": "perdón; lo siento",
+    "level": 1,
+    "ex_zh": "Sorry, I am late.",
+    "ex_py": "SO-ri ai am leit",
+    "ex_es": "Perdón, llegué tarde."
+  },
+  {
+    "hanzi": "excuse me",
+    "pinyin": "ik-SKYUUZ mii",
+    "es": "permiso; disculpe",
+    "level": 1,
+    "ex_zh": "Excuse me, is this seat free?",
+    "ex_py": "ik-SKYUUZ mii iz dhis siit frii",
+    "ex_es": "Permiso, ¿este asiento está libre?"
+  },
+  {
+    "hanzi": "you're welcome",
+    "pinyin": "yoo WEL-kəm",
+    "es": "de nada",
+    "level": 1,
+    "ex_zh": "You're welcome, it was a pleasure.",
+    "ex_py": "yoo WEL-kəm it woz ə PLE-zhə",
+    "ex_es": "De nada, fue un placer."
+  },
+  {
+    "hanzi": "I",
+    "pinyin": "ai",
+    "es": "yo",
+    "level": 1,
+    "ex_zh": "I am from Argentina.",
+    "ex_py": "ai am from aa-djən-TII-nə",
+    "ex_es": "Soy de Argentina."
+  },
+  {
+    "hanzi": "you",
+    "pinyin": "yuu",
+    "es": "vos; usted; ustedes",
+    "level": 1,
+    "ex_zh": "Are you a student?",
+    "ex_py": "aa yuu ə STYUU-dənt",
+    "ex_es": "¿Sos estudiante?"
+  },
+  {
+    "hanzi": "he",
+    "pinyin": "hii",
+    "es": "él",
+    "level": 1,
+    "ex_zh": "He is my brother.",
+    "ex_py": "hii iz mai BRA-dhə",
+    "ex_es": "Él es mi hermano."
+  },
+  {
+    "hanzi": "she",
+    "pinyin": "shii",
+    "es": "ella",
+    "level": 1,
+    "ex_zh": "She is a teacher.",
+    "ex_py": "shii iz ə TII-chə",
+    "ex_es": "Ella es profesora."
+  },
+  {
+    "hanzi": "we",
+    "pinyin": "wii",
+    "es": "nosotros",
+    "level": 1,
+    "ex_zh": "We live in Buenos Aires.",
+    "ex_py": "wii liv in BWE-nos AI-res",
+    "ex_es": "Vivimos en Buenos Aires."
+  },
+  {
+    "hanzi": "they",
+    "pinyin": "dhei",
+    "es": "ellos; ellas",
+    "level": 1,
+    "ex_zh": "They speak English at home.",
+    "ex_py": "dhei spiik ING-glish at həum",
+    "ex_es": "Hablan inglés en casa."
+  },
+  {
+    "hanzi": "name",
+    "pinyin": "neim",
+    "es": "nombre",
+    "level": 1,
+    "ex_zh": "What is your name?",
+    "ex_py": "wot iz yoo neim",
+    "ex_es": "¿Cómo te llamás?"
+  },
+  {
+    "hanzi": "from",
+    "pinyin": "from",
+    "es": "de (origen)",
+    "level": 1,
+    "ex_zh": "Where are you from?",
+    "ex_py": "weə aa yuu from",
+    "ex_es": "¿De dónde sos?"
+  },
+  {
+    "hanzi": "live",
+    "pinyin": "liv",
+    "es": "vivir",
+    "level": 1,
+    "ex_zh": "I live in London.",
+    "ex_py": "ai liv in LAN-dən",
+    "ex_es": "Vivo en Londres."
+  },
+  {
+    "hanzi": "speak",
+    "pinyin": "spiik",
+    "es": "hablar",
+    "level": 1,
+    "ex_zh": "Do you speak English?",
+    "ex_py": "duu yuu spiik ING-glish",
+    "ex_es": "¿Hablás inglés?"
+  },
+  {
+    "hanzi": "English",
+    "pinyin": "ING-glish",
+    "es": "inglés; inglesa",
+    "level": 1,
+    "ex_zh": "I speak a little English.",
+    "ex_py": "ai spiik ə LI-təl ING-glish",
+    "ex_es": "Hablo un poco de inglés."
+  },
+  {
+    "hanzi": "nice to meet you",
+    "pinyin": "nais tə miit yuu",
+    "es": "mucho gusto",
+    "level": 1,
+    "ex_zh": "Nice to meet you, Anna.",
+    "ex_py": "nais tuu miit yuu A-nə",
+    "ex_es": "Mucho gusto, Anna."
+  },
+  {
+    "hanzi": "one",
+    "pinyin": "wan",
+    "es": "uno",
+    "level": 1,
+    "ex_zh": "I have one brother.",
+    "ex_py": "ai hav wan BRA-dhə",
+    "ex_es": "Tengo un hermano."
+  },
+  {
+    "hanzi": "two",
+    "pinyin": "tuu",
+    "es": "dos",
+    "level": 1,
+    "ex_zh": "Two teas, please.",
+    "ex_py": "tuu tiiz pliiz",
+    "ex_es": "Dos tés, por favor."
+  },
+  {
+    "hanzi": "three",
+    "pinyin": "thrii",
+    "es": "tres",
+    "level": 1,
+    "ex_zh": "There are three of us.",
+    "ex_py": "dheə aa thrii ov as",
+    "ex_es": "Somos tres."
+  },
+  {
+    "hanzi": "four",
+    "pinyin": "foo",
+    "es": "cuatro",
+    "level": 1,
+    "ex_zh": "Table for four, please.",
+    "ex_py": "TEI-bəl foo foo pliiz",
+    "ex_es": "Mesa para cuatro, por favor."
+  },
+  {
+    "hanzi": "five",
+    "pinyin": "faiv",
+    "es": "cinco",
+    "level": 1,
+    "ex_zh": "It is five minutes away.",
+    "ex_py": "it iz faiv MI-nits ə-WEI",
+    "ex_es": "Queda a cinco minutos."
+  },
+  {
+    "hanzi": "six",
+    "pinyin": "siks",
+    "es": "seis",
+    "level": 1,
+    "ex_zh": "I get up at six.",
+    "ex_py": "ai get ap at siks",
+    "ex_es": "Me levanto a las seis."
+  },
+  {
+    "hanzi": "seven",
+    "pinyin": "SE-vən",
+    "es": "siete",
+    "level": 1,
+    "ex_zh": "The shop opens at seven.",
+    "ex_py": "dhə shop ƏU-pənz at SE-vən",
+    "ex_es": "El negocio abre a las siete."
+  },
+  {
+    "hanzi": "eight",
+    "pinyin": "eit",
+    "es": "ocho",
+    "level": 1,
+    "ex_zh": "The bus leaves at eight.",
+    "ex_py": "dhə bas liivz at eit",
+    "ex_es": "El colectivo sale a las ocho."
+  },
+  {
+    "hanzi": "nine",
+    "pinyin": "nain",
+    "es": "nueve",
+    "level": 1,
+    "ex_zh": "I start work at nine.",
+    "ex_py": "ai staat wəək at nain",
+    "ex_es": "Empiezo a trabajar a las nueve."
+  },
+  {
+    "hanzi": "ten",
+    "pinyin": "ten",
+    "es": "diez",
+    "level": 1,
+    "ex_zh": "I have ten pounds.",
+    "ex_py": "ai hav ten paundz",
+    "ex_es": "Tengo diez libras."
+  },
+  {
+    "hanzi": "twenty",
+    "pinyin": "TWEN-ti",
+    "es": "veinte",
+    "level": 1,
+    "ex_zh": "I am twenty years old.",
+    "ex_py": "ai am TWEN-ti yiəz əuld",
+    "ex_es": "Tengo veinte años."
+  },
+  {
+    "hanzi": "hundred",
+    "pinyin": "HAN-drəd",
+    "es": "cien",
+    "level": 1,
+    "ex_zh": "It costs one hundred pounds.",
+    "ex_py": "it kosts wan HAN-drəd paundz",
+    "ex_es": "Cuesta cien libras."
+  },
+  {
+    "hanzi": "thousand",
+    "pinyin": "THAU-zənd",
+    "es": "mil",
+    "level": 1,
+    "ex_zh": "There are a thousand people here.",
+    "ex_py": "dheə aa ə THAU-zənd PII-pəl hiə",
+    "ex_es": "Hay mil personas acá."
+  },
+  {
+    "hanzi": "mum",
+    "pinyin": "mam",
+    "es": "mamá",
+    "level": 1,
+    "ex_zh": "My mum works in a school.",
+    "ex_py": "mai mam wəəks in ə skuul",
+    "ex_es": "Mi mamá trabaja en una escuela."
+  },
+  {
+    "hanzi": "dad",
+    "pinyin": "dad",
+    "es": "papá",
+    "level": 1,
+    "ex_zh": "My dad likes football.",
+    "ex_py": "mai dad laiks FUT-bool",
+    "ex_es": "A mi papá le gusta el fútbol."
+  },
+  {
+    "hanzi": "brother",
+    "pinyin": "BRA-dhə",
+    "es": "hermano",
+    "level": 1,
+    "ex_zh": "I've got one brother.",
+    "ex_py": "aiv got wan BRA-dhə",
+    "ex_es": "Tengo un hermano."
+  },
+  {
+    "hanzi": "sister",
+    "pinyin": "SIS-tə",
+    "es": "hermana",
+    "level": 1,
+    "ex_zh": "My sister lives in Leeds.",
+    "ex_py": "mai SIS-tə livz in liidz",
+    "ex_es": "Mi hermana vive en Leeds."
+  },
+  {
+    "hanzi": "son",
+    "pinyin": "san",
+    "es": "hijo",
+    "level": 1,
+    "ex_zh": "Her son is ten.",
+    "ex_py": "həə san iz ten",
+    "ex_es": "Su hijo tiene diez años."
+  },
+  {
+    "hanzi": "daughter",
+    "pinyin": "DOO-tə",
+    "es": "hija",
+    "level": 1,
+    "ex_zh": "Their daughter is a doctor.",
+    "ex_py": "dheə DOO-tə iz ə DOK-tə",
+    "ex_es": "Su hija es médica."
+  },
+  {
+    "hanzi": "husband",
+    "pinyin": "HAZ-bənd",
+    "es": "esposo; marido",
+    "level": 1,
+    "ex_zh": "My husband is a driver.",
+    "ex_py": "mai HAZ-bənd iz ə DRAI-və",
+    "ex_es": "Mi esposo es chofer."
+  },
+  {
+    "hanzi": "wife",
+    "pinyin": "waif",
+    "es": "esposa",
+    "level": 1,
+    "ex_zh": "His wife is from Wales.",
+    "ex_py": "hiz waif iz from weilz",
+    "ex_es": "Su esposa es de Gales."
+  },
+  {
+    "hanzi": "uncle",
+    "pinyin": "ANG-kəl",
+    "es": "tío",
+    "level": 1,
+    "ex_zh": "My uncle visits us at Christmas.",
+    "ex_py": "mai ANG-kəl VI-zits as at KRIS-məs",
+    "ex_es": "Mi tío nos visita en Navidad."
+  },
+  {
+    "hanzi": "aunt",
+    "pinyin": "aant",
+    "es": "tía",
+    "level": 1,
+    "ex_zh": "My aunt makes lovely cakes.",
+    "ex_py": "mai aant meiks LAV-li keiks",
+    "ex_es": "Mi tía hace tortas riquísimas."
+  },
+  {
+    "hanzi": "gran",
+    "pinyin": "gran",
+    "es": "abuela (cariñoso)",
+    "level": 1,
+    "ex_zh": "Gran lives next door.",
+    "ex_py": "gran livz nekst doo",
+    "ex_es": "La abuela vive al lado."
+  },
+  {
+    "hanzi": "friend",
+    "pinyin": "frend",
+    "es": "amigo; amiga",
+    "level": 1,
+    "ex_zh": "She is my best friend.",
+    "ex_py": "shii iz mai best frend",
+    "ex_es": "Ella es mi mejor amiga."
+  },
+  {
+    "hanzi": "my",
+    "pinyin": "mai",
+    "es": "mi; mis",
+    "level": 1,
+    "ex_zh": "This is my family.",
+    "ex_py": "dhis iz mai FA-mə-li",
+    "ex_es": "Esta es mi familia."
+  },
+  {
+    "hanzi": "tea",
+    "pinyin": "tii",
+    "es": "té",
+    "level": 1,
+    "ex_zh": "I'd like a cup of tea.",
+    "ex_py": "aid laik ə kap ov tii",
+    "ex_es": "Quisiera una taza de té."
+  },
+  {
+    "hanzi": "milk",
+    "pinyin": "milk",
+    "es": "leche",
+    "level": 1,
+    "ex_zh": "Milk and sugar, please.",
+    "ex_py": "milk and SHU-gə pliiz",
+    "ex_es": "Leche y azúcar, por favor."
+  },
+  {
+    "hanzi": "bread",
+    "pinyin": "bred",
+    "es": "pan",
+    "level": 1,
+    "ex_zh": "I buy bread every morning.",
+    "ex_py": "ai bai bred EV-ri MOO-ning",
+    "ex_es": "Compro pan todas las mañanas."
+  },
+  {
+    "hanzi": "butter",
+    "pinyin": "BA-tə",
+    "es": "manteca",
+    "level": 1,
+    "ex_zh": "Bread and butter, please.",
+    "ex_py": "bred and BA-tə pliiz",
+    "ex_es": "Pan con manteca, por favor."
+  },
+  {
+    "hanzi": "biscuit",
+    "pinyin": "BIS-kit",
+    "es": "galletita",
+    "level": 1,
+    "ex_zh": "Would you like a biscuit?",
+    "ex_py": "wud yuu laik ə BIS-kit",
+    "ex_es": "¿Querés una galletita?"
+  },
+  {
+    "hanzi": "crisps",
+    "pinyin": "krisps",
+    "es": "papas fritas de bolsa",
+    "level": 1,
+    "ex_zh": "I'd like a packet of crisps.",
+    "ex_py": "aid laik ə PA-kit ov krisps",
+    "ex_es": "Quisiera un paquete de papitas."
+  },
+  {
+    "hanzi": "chips",
+    "pinyin": "chips",
+    "es": "papas fritas gruesas",
+    "level": 1,
+    "ex_zh": "Fish and chips, please.",
+    "ex_py": "fish and chips pliiz",
+    "ex_es": "Pescado con papas fritas, por favor."
+  },
+  {
+    "hanzi": "sandwich",
+    "pinyin": "SAN-widj",
+    "es": "sándwich",
+    "level": 1,
+    "ex_zh": "A cheese sandwich, please.",
+    "ex_py": "ə chiiz SAN-widj pliiz",
+    "ex_es": "Un sándwich de queso, por favor."
+  },
+  {
+    "hanzi": "egg",
+    "pinyin": "eg",
+    "es": "huevo",
+    "level": 1,
+    "ex_zh": "I have an egg for breakfast.",
+    "ex_py": "ai hav ən eg foo BREK-fəst",
+    "ex_es": "Desayuno un huevo."
+  },
+  {
+    "hanzi": "apple",
+    "pinyin": "A-pəl",
+    "es": "manzana",
+    "level": 1,
+    "ex_zh": "An apple a day is good for you.",
+    "ex_py": "ən A-pəl ə dei iz gud foo yuu",
+    "ex_es": "Una manzana por día hace bien."
+  },
+  {
+    "hanzi": "chicken",
+    "pinyin": "CHI-kin",
+    "es": "pollo",
+    "level": 1,
+    "ex_zh": "Chicken and chips, please.",
+    "ex_py": "CHI-kin and chips pliiz",
+    "ex_es": "Pollo con papas fritas, por favor."
+  },
+  {
+    "hanzi": "fish",
+    "pinyin": "fish",
+    "es": "pescado",
+    "level": 1,
+    "ex_zh": "Fish is very fresh here.",
+    "ex_py": "fish iz VE-ri fresh hiə",
+    "ex_es": "El pescado está muy fresco acá."
+  },
+  {
+    "hanzi": "breakfast",
+    "pinyin": "BREK-fəst",
+    "es": "desayuno",
+    "level": 1,
+    "ex_zh": "Breakfast is at eight.",
+    "ex_py": "BREK-fəst iz at eit",
+    "ex_es": "El desayuno es a las ocho."
+  },
+  {
+    "hanzi": "menu",
+    "pinyin": "ME-nyuu",
+    "es": "menú; carta",
+    "level": 1,
+    "ex_zh": "Could I see the menu, please?",
+    "ex_py": "kud ai sii dhə ME-nyuu pliiz",
+    "ex_es": "¿Puedo ver el menú, por favor?"
+  },
+  {
+    "hanzi": "bill",
+    "pinyin": "bil",
+    "es": "cuenta",
+    "level": 1,
+    "ex_zh": "The bill, please.",
+    "ex_py": "dhə bil pliiz",
+    "ex_es": "La cuenta, por favor."
+  },
+  {
+    "hanzi": "waiter",
+    "pinyin": "WEI-tə",
+    "es": "mozo",
+    "level": 1,
+    "ex_zh": "The waiter is very polite.",
+    "ex_py": "dhə WEI-tə iz VE-ri pə-LAIT",
+    "ex_es": "El mozo es muy educado."
+  },
+  {
+    "hanzi": "pub",
+    "pinyin": "pab",
+    "es": "pub; bar inglés",
+    "level": 1,
+    "ex_zh": "Let's meet at the pub.",
+    "ex_py": "lets miit at dhə pab",
+    "ex_es": "Encontrémonos en el pub."
+  },
+  {
+    "hanzi": "pint",
+    "pinyin": "paint",
+    "es": "pinta (568 ml)",
+    "level": 1,
+    "ex_zh": "A pint of lager, please.",
+    "ex_py": "ə paint ov LAA-gə pliiz",
+    "ex_es": "Una pinta de cerveza, por favor."
+  },
+  {
+    "hanzi": "starter",
+    "pinyin": "STAA-tə",
+    "es": "entrada",
+    "level": 1,
+    "ex_zh": "I'll have soup as a starter.",
+    "ex_py": "ail hav suup az ə STAA-tə",
+    "ex_es": "De entrada voy a pedir sopa."
+  },
+  {
+    "hanzi": "dessert",
+    "pinyin": "di-ZƏƏT",
+    "es": "postre",
+    "level": 1,
+    "ex_zh": "Do you want a dessert?",
+    "ex_py": "duu yuu wont ə di-ZƏƏT",
+    "ex_es": "¿Querés un postre?"
+  },
+  {
+    "hanzi": "tip",
+    "pinyin": "tip",
+    "es": "propina",
+    "level": 1,
+    "ex_zh": "Is the tip included?",
+    "ex_py": "iz dhə tip in-KLUU-did",
+    "ex_es": "¿La propina está incluida?"
+  },
+  {
+    "hanzi": "pound",
+    "pinyin": "paund",
+    "es": "libra (moneda)",
+    "level": 1,
+    "ex_zh": "A coffee costs three pounds.",
+    "ex_py": "ə KO-fi kosts thrii paundz",
+    "ex_es": "Un café cuesta tres libras."
+  },
+  {
+    "hanzi": "pence",
+    "pinyin": "pens",
+    "es": "peniques",
+    "level": 1,
+    "ex_zh": "It costs fifty pence.",
+    "ex_py": "it kosts FIF-ti pens",
+    "ex_es": "Cuesta cincuenta peniques."
+  },
+  {
+    "hanzi": "I'd like",
+    "pinyin": "aid laik",
+    "es": "quisiera",
+    "level": 1,
+    "ex_zh": "I'd like a table for two.",
+    "ex_py": "aid laik ə TEI-bəl foo tuu",
+    "ex_es": "Quisiera una mesa para dos."
+  },
+  {
+    "hanzi": "how much is it",
+    "pinyin": "hau mach iz it",
+    "es": "¿cuánto cuesta?",
+    "level": 1,
+    "ex_zh": "How much is it, please?",
+    "ex_py": "hau mach iz it pliiz",
+    "ex_es": "¿Cuánto cuesta, por favor?"
+  },
+  {
+    "hanzi": "card",
+    "pinyin": "kaad",
+    "es": "tarjeta",
+    "level": 1,
+    "ex_zh": "Can I pay by card?",
+    "ex_py": "kan ai pei bai kaad",
+    "ex_es": "¿Puedo pagar con tarjeta?"
+  },
+  {
+    "hanzi": "today",
+    "pinyin": "tə-DEI",
+    "es": "hoy",
+    "level": 1,
+    "ex_zh": "Today is Monday.",
+    "ex_py": "tə-DEI iz MAN-dei",
+    "ex_es": "Hoy es lunes."
+  },
+  {
+    "hanzi": "tomorrow",
+    "pinyin": "tə-MO-rəu",
+    "es": "mañana (día siguiente)",
+    "level": 1,
+    "ex_zh": "See you tomorrow!",
+    "ex_py": "sii yuu tə-MO-rəu",
+    "ex_es": "¡Nos vemos mañana!"
+  },
+  {
+    "hanzi": "yesterday",
+    "pinyin": "YES-tə-dei",
+    "es": "ayer",
+    "level": 1,
+    "ex_zh": "I was at work yesterday.",
+    "ex_py": "ai woz at wəək YES-tə-dei",
+    "ex_es": "Ayer estuve en el trabajo."
+  },
+  {
+    "hanzi": "Monday",
+    "pinyin": "MAN-dei",
+    "es": "lunes",
+    "level": 1,
+    "ex_zh": "I work on Monday.",
+    "ex_py": "ai wəək on MAN-dei",
+    "ex_es": "El lunes trabajo."
+  },
+  {
+    "hanzi": "Tuesday",
+    "pinyin": "TYUUZ-dei",
+    "es": "martes",
+    "level": 1,
+    "ex_zh": "The class is on Tuesday.",
+    "ex_py": "dhə klaas iz on TYUUZ-dei",
+    "ex_es": "La clase es el martes."
+  },
+  {
+    "hanzi": "Wednesday",
+    "pinyin": "WENZ-dei",
+    "es": "miércoles",
+    "level": 1,
+    "ex_zh": "We meet on Wednesday.",
+    "ex_py": "wii miit on WENZ-dei",
+    "ex_es": "Nos encontramos el miércoles."
+  },
+  {
+    "hanzi": "Thursday",
+    "pinyin": "THƏƏZ-dei",
+    "es": "jueves",
+    "level": 1,
+    "ex_zh": "I'm free on Thursday.",
+    "ex_py": "aim frii on THƏƏZ-dei",
+    "ex_es": "El jueves estoy libre."
+  },
+  {
+    "hanzi": "Friday",
+    "pinyin": "FRAI-dei",
+    "es": "viernes",
+    "level": 1,
+    "ex_zh": "Friday is fish and chips night.",
+    "ex_py": "FRAI-dei iz fish and chips nait",
+    "ex_es": "El viernes es noche de pescado con papas."
+  },
+  {
+    "hanzi": "Saturday",
+    "pinyin": "SA-tə-dei",
+    "es": "sábado",
+    "level": 1,
+    "ex_zh": "On Saturday we go shopping.",
+    "ex_py": "on SA-tə-dei wii gəu SHO-ping",
+    "ex_es": "El sábado vamos de compras."
+  },
+  {
+    "hanzi": "Sunday",
+    "pinyin": "SAN-dei",
+    "es": "domingo",
+    "level": 1,
+    "ex_zh": "Sunday lunch is at two.",
+    "ex_py": "SAN-dei lanch iz at tuu",
+    "ex_es": "El almuerzo del domingo es a las dos."
+  },
+  {
+    "hanzi": "week",
+    "pinyin": "wiik",
+    "es": "semana",
+    "level": 1,
+    "ex_zh": "I'm busy this week.",
+    "ex_py": "aim BI-zi dhis wiik",
+    "ex_es": "Esta semana estoy ocupado."
+  },
+  {
+    "hanzi": "o'clock",
+    "pinyin": "ə-KLOK",
+    "es": "en punto",
+    "level": 1,
+    "ex_zh": "It's six o'clock.",
+    "ex_py": "its siks ə-KLOK",
+    "ex_es": "Son las seis en punto."
+  },
+  {
+    "hanzi": "half past",
+    "pinyin": "haaf PAAST",
+    "es": "y media",
+    "level": 1,
+    "ex_zh": "It's half past seven.",
+    "ex_py": "its haaf paast SE-vən",
+    "ex_es": "Son las siete y media."
+  },
+  {
+    "hanzi": "street",
+    "pinyin": "striit",
+    "es": "calle",
+    "level": 1,
+    "ex_zh": "I live on this street.",
+    "ex_py": "ai liv on dhis striit",
+    "ex_es": "Vivo en esta calle."
+  },
+  {
+    "hanzi": "bus",
+    "pinyin": "bas",
+    "es": "colectivo; ómnibus",
+    "level": 1,
+    "ex_zh": "I take the bus to work.",
+    "ex_py": "ai teik dhə bas tuu wəək",
+    "ex_es": "Voy al trabajo en colectivo."
+  },
+  {
+    "hanzi": "train",
+    "pinyin": "trein",
+    "es": "tren",
+    "level": 1,
+    "ex_zh": "The train leaves at nine.",
+    "ex_py": "dhə trein liivz at nain",
+    "ex_es": "El tren sale a las nueve."
+  },
+  {
+    "hanzi": "underground",
+    "pinyin": "AN-də-graund",
+    "es": "subte; metro",
+    "level": 1,
+    "ex_zh": "The underground is fast.",
+    "ex_py": "dhə AN-də-graund iz faast",
+    "ex_es": "El subte es rápido."
+  },
+  {
+    "hanzi": "ticket",
+    "pinyin": "TI-kit",
+    "es": "boleto; entrada",
+    "level": 1,
+    "ex_zh": "One ticket to Oxford, please.",
+    "ex_py": "wan TI-kit tuu OKS-fəd pliiz",
+    "ex_es": "Un boleto a Oxford, por favor."
+  },
+  {
+    "hanzi": "station",
+    "pinyin": "STEI-shən",
+    "es": "estación",
+    "level": 1,
+    "ex_zh": "The station is near the bridge.",
+    "ex_py": "dhə STEI-shən iz niə dhə bridj",
+    "ex_es": "La estación queda cerca del puente."
+  },
+  {
+    "hanzi": "pavement",
+    "pinyin": "PEIV-mənt",
+    "es": "vereda",
+    "level": 1,
+    "ex_zh": "Walk on the pavement.",
+    "ex_py": "wook on dhə PEIV-mənt",
+    "ex_es": "Caminá por la vereda."
+  },
+  {
+    "hanzi": "left",
+    "pinyin": "left",
+    "es": "izquierda",
+    "level": 1,
+    "ex_zh": "Turn left at the lights.",
+    "ex_py": "təən left at dhə laits",
+    "ex_es": "Doblá a la izquierda en el semáforo."
+  },
+  {
+    "hanzi": "right",
+    "pinyin": "rait",
+    "es": "derecha; correcto",
+    "level": 1,
+    "ex_zh": "The bank is on the right.",
+    "ex_py": "dhə bangk iz on dhə rait",
+    "ex_es": "El banco está a la derecha."
+  },
+  {
+    "hanzi": "straight on",
+    "pinyin": "streit on",
+    "es": "todo derecho",
+    "level": 1,
+    "ex_zh": "Go straight on for two minutes.",
+    "ex_py": "gəu streit on foo tuu MI-nits",
+    "ex_es": "Andá todo derecho dos minutos."
+  },
+  {
+    "hanzi": "near",
+    "pinyin": "niə",
+    "es": "cerca",
+    "level": 1,
+    "ex_zh": "The hotel is near the station.",
+    "ex_py": "dhə həu-TEL iz niə dhə STEI-shən",
+    "ex_es": "El hotel queda cerca de la estación."
+  },
+  {
+    "hanzi": "far",
+    "pinyin": "faa",
+    "es": "lejos",
+    "level": 1,
+    "ex_zh": "Is it far from here?",
+    "ex_py": "iz it faa from hiə",
+    "ex_es": "¿Queda lejos de acá?"
+  },
+  {
+    "hanzi": "queue",
+    "pinyin": "kyuu",
+    "es": "cola; hacer cola",
+    "level": 1,
+    "ex_zh": "Please join the queue.",
+    "ex_py": "pliiz djoin dhə kyuu",
+    "ex_es": "Por favor, ponete en la cola."
+  },
+  {
+    "hanzi": "colour",
+    "pinyin": "KA-lə",
+    "es": "color",
+    "level": 1,
+    "ex_zh": "What colour is your car?",
+    "ex_py": "wot KA-lə iz yoo kaa",
+    "ex_es": "¿De qué color es tu auto?"
+  },
+  {
+    "hanzi": "red",
+    "pinyin": "red",
+    "es": "rojo",
+    "level": 1,
+    "ex_zh": "The London bus is red.",
+    "ex_py": "dhə LAN-dən bas iz red",
+    "ex_es": "El colectivo de Londres es rojo."
+  },
+  {
+    "hanzi": "blue",
+    "pinyin": "bluu",
+    "es": "azul",
+    "level": 1,
+    "ex_zh": "The sky is blue today.",
+    "ex_py": "dhə skai iz bluu tə-DEI",
+    "ex_es": "Hoy el cielo está azul."
+  },
+  {
+    "hanzi": "green",
+    "pinyin": "griin",
+    "es": "verde",
+    "level": 1,
+    "ex_zh": "I like green apples.",
+    "ex_py": "ai laik griin A-pəlz",
+    "ex_es": "Me gustan las manzanas verdes."
+  },
+  {
+    "hanzi": "yellow",
+    "pinyin": "YE-ləu",
+    "es": "amarillo",
+    "level": 1,
+    "ex_zh": "Yellow flowers in spring.",
+    "ex_py": "YE-ləu FLAUƏZ in spring",
+    "ex_es": "Flores amarillas en primavera."
+  },
+  {
+    "hanzi": "black",
+    "pinyin": "blak",
+    "es": "negro",
+    "level": 1,
+    "ex_zh": "I'd like a black coffee.",
+    "ex_py": "aid laik ə blak KO-fi",
+    "ex_es": "Quisiera un café negro."
+  },
+  {
+    "hanzi": "white",
+    "pinyin": "wait",
+    "es": "blanco",
+    "level": 1,
+    "ex_zh": "A white house with a red door.",
+    "ex_py": "ə wait haus widh ə red doo",
+    "ex_es": "Una casa blanca con puerta roja."
+  },
+  {
+    "hanzi": "grey",
+    "pinyin": "grei",
+    "es": "gris",
+    "level": 1,
+    "ex_zh": "It's a grey day in London.",
+    "ex_py": "its ə grei dei in LAN-dən",
+    "ex_es": "Es un día gris en Londres."
+  },
+  {
+    "hanzi": "big",
+    "pinyin": "big",
+    "es": "grande",
+    "level": 1,
+    "ex_zh": "London is a big city.",
+    "ex_py": "LAN-dən iz ə big SI-ti",
+    "ex_es": "Londres es una ciudad grande."
+  },
+  {
+    "hanzi": "small",
+    "pinyin": "smool",
+    "es": "pequeño; chico",
+    "level": 1,
+    "ex_zh": "A small tea, please.",
+    "ex_py": "ə smool tii pliiz",
+    "ex_es": "Un té chico, por favor."
+  },
+  {
+    "hanzi": "new",
+    "pinyin": "nyuu",
+    "es": "nuevo",
+    "level": 1,
+    "ex_zh": "I have a new job.",
+    "ex_py": "ai hav ə nyuu djob",
+    "ex_es": "Tengo un trabajo nuevo."
+  },
+  {
+    "hanzi": "old",
+    "pinyin": "əuld",
+    "es": "viejo",
+    "level": 1,
+    "ex_zh": "It's an old house.",
+    "ex_py": "its ən əuld haus",
+    "ex_es": "Es una casa vieja."
+  },
+  {
+    "hanzi": "cold",
+    "pinyin": "kəuld",
+    "es": "frío",
+    "level": 1,
+    "ex_zh": "The tea is cold.",
+    "ex_py": "dhə tii iz kəuld",
+    "ex_es": "El té está frío."
+  },
+  {
+    "hanzi": "warm",
+    "pinyin": "woom",
+    "es": "templado; abrigado",
+    "level": 1,
+    "ex_zh": "Today is warm and sunny.",
+    "ex_py": "tə-DEI iz woom and SA-ni",
+    "ex_es": "Hoy está templado y soleado."
+  },
+  {
+    "hanzi": "have",
+    "pinyin": "hav",
+    "es": "tener",
+    "level": 1,
+    "ex_zh": "I have two brothers.",
+    "ex_py": "ai hav tuu BRA-dhəz",
+    "ex_es": "Tengo dos hermanos."
+  },
+  {
+    "hanzi": "do",
+    "pinyin": "duu",
+    "es": "hacer",
+    "level": 1,
+    "ex_zh": "What do you do?",
+    "ex_py": "wot duu yuu duu",
+    "ex_es": "¿A qué te dedicás?"
+  },
+  {
+    "hanzi": "go",
+    "pinyin": "gəu",
+    "es": "ir",
+    "level": 1,
+    "ex_zh": "I go to work by bus.",
+    "ex_py": "ai gəu tuu wəək bai bas",
+    "ex_es": "Voy al trabajo en colectivo."
+  },
+  {
+    "hanzi": "come",
+    "pinyin": "kam",
+    "es": "venir",
+    "level": 1,
+    "ex_zh": "Do you come from Argentina?",
+    "ex_py": "duu yuu kam from aa-djən-TII-nə",
+    "ex_es": "¿Venís de Argentina?"
+  },
+  {
+    "hanzi": "want",
+    "pinyin": "wont",
+    "es": "querer",
+    "level": 1,
+    "ex_zh": "I want a cup of tea.",
+    "ex_py": "ai wont ə kap ov tii",
+    "ex_es": "Quiero una taza de té."
+  },
+  {
+    "hanzi": "need",
+    "pinyin": "niid",
+    "es": "necesitar",
+    "level": 1,
+    "ex_zh": "I need some help.",
+    "ex_py": "ai niid sam help",
+    "ex_es": "Necesito ayuda."
+  },
+  {
+    "hanzi": "like",
+    "pinyin": "laik",
+    "es": "gustar; querer",
+    "level": 1,
+    "ex_zh": "I like London.",
+    "ex_py": "ai laik LAN-dən",
+    "ex_es": "Me gusta Londres."
+  },
+  {
+    "hanzi": "see",
+    "pinyin": "sii",
+    "es": "ver",
+    "level": 1,
+    "ex_zh": "I can see the river.",
+    "ex_py": "ai kan sii dhə RI-və",
+    "ex_es": "Veo el río."
+  },
+  {
+    "hanzi": "know",
+    "pinyin": "nəu",
+    "es": "saber; conocer",
+    "level": 1,
+    "ex_zh": "I don't know.",
+    "ex_py": "ai dəunt nəu",
+    "ex_es": "No sé."
+  },
+  {
+    "hanzi": "work",
+    "pinyin": "wəək",
+    "es": "trabajar; trabajo",
+    "level": 1,
+    "ex_zh": "I work from Monday to Friday.",
+    "ex_py": "ai wəək from MAN-dei tuu FRAI-dei",
+    "ex_es": "Trabajo de lunes a viernes."
+  },
+  {
+    "hanzi": "study",
+    "pinyin": "STA-di",
+    "es": "estudiar",
+    "level": 1,
+    "ex_zh": "I study English every day.",
+    "ex_py": "ai STA-di ING-glish EV-ri dei",
+    "ex_es": "Estudio inglés todos los días."
+  },
+  {
+    "hanzi": "can",
+    "pinyin": "kan",
+    "es": "poder; saber hacer",
+    "level": 1,
+    "ex_zh": "I can speak a little English.",
+    "ex_py": "ai kan spiik ə LI-təl ING-glish",
+    "ex_es": "Puedo hablar un poco de inglés."
+  },
+  {
+    "hanzi": "understand",
+    "pinyin": "an-də-STAND",
+    "es": "entender",
+    "level": 1,
+    "ex_zh": "I don't understand.",
+    "ex_py": "ai dəunt an-də-STAND",
+    "ex_es": "No entiendo."
+  },
+  {
+    "hanzi": "flat",
+    "pinyin": "flat",
+    "es": "departamento",
+    "level": 1,
+    "ex_zh": "I live in a small flat.",
+    "ex_py": "ai liv in ə smool flat",
+    "ex_es": "Vivo en un departamento chico."
+  },
+  {
+    "hanzi": "house",
+    "pinyin": "haus",
+    "es": "casa",
+    "level": 1,
+    "ex_zh": "They have a big house.",
+    "ex_py": "dhei hav ə big haus",
+    "ex_es": "Tienen una casa grande."
+  },
+  {
+    "hanzi": "kitchen",
+    "pinyin": "KI-chin",
+    "es": "cocina",
+    "level": 1,
+    "ex_zh": "The kitchen is very small.",
+    "ex_py": "dhə KI-chin iz VE-ri smool",
+    "ex_es": "La cocina es muy chica."
+  },
+  {
+    "hanzi": "bedroom",
+    "pinyin": "BED-ruum",
+    "es": "dormitorio",
+    "level": 1,
+    "ex_zh": "My bedroom is upstairs.",
+    "ex_py": "mai BED-ruum iz ap-STEƏZ",
+    "ex_es": "Mi dormitorio está arriba."
+  },
+  {
+    "hanzi": "toilet",
+    "pinyin": "TOI-lit",
+    "es": "baño; inodoro",
+    "level": 1,
+    "ex_zh": "Where is the toilet, please?",
+    "ex_py": "weə iz dhə TOI-lit pliiz",
+    "ex_es": "¿Dónde está el baño, por favor?"
+  },
+  {
+    "hanzi": "garden",
+    "pinyin": "GAA-dən",
+    "es": "jardín",
+    "level": 1,
+    "ex_zh": "We have lunch in the garden.",
+    "ex_py": "wii hav lanch in dhə GAA-dən",
+    "ex_es": "Almorzamos en el jardín."
+  },
+  {
+    "hanzi": "dog",
+    "pinyin": "dog",
+    "es": "perro",
+    "level": 1,
+    "ex_zh": "My dog loves the park.",
+    "ex_py": "mai dog lavz dhə paak",
+    "ex_es": "A mi perro le encanta el parque."
+  },
+  {
+    "hanzi": "weather",
+    "pinyin": "WE-dhə",
+    "es": "clima; tiempo",
+    "level": 1,
+    "ex_zh": "The weather is awful today.",
+    "ex_py": "dhə WE-dhə iz OO-fəl tə-DEI",
+    "ex_es": "El tiempo está horrible hoy."
+  },
+  {
+    "hanzi": "rain",
+    "pinyin": "rein",
+    "es": "lluvia; llover",
+    "level": 1,
+    "ex_zh": "It's going to rain tonight.",
+    "ex_py": "its GƏU-ing tuu rein tə-NAIT",
+    "ex_es": "Va a llover esta noche."
+  },
+  {
+    "hanzi": "sunny",
+    "pinyin": "SA-ni",
+    "es": "soleado",
+    "level": 1,
+    "ex_zh": "It's sunny in the garden.",
+    "ex_py": "its SA-ni in dhə GAA-dən",
+    "ex_es": "Está soleado en el jardín."
+  },
+  {
+    "hanzi": "cinema",
+    "pinyin": "SI-nə-mə",
+    "es": "cine",
+    "level": 1,
+    "ex_zh": "Let's go to the cinema.",
+    "ex_py": "lets gəu tuu dhə SI-nə-mə",
+    "ex_es": "Vamos al cine."
+  },
+  {
+    "hanzi": "together",
+    "pinyin": "tə-GE-dhə",
+    "es": "juntos",
+    "level": 1,
+    "ex_zh": "We live together.",
+    "ex_py": "wii liv tə-GE-dhə",
+    "ex_es": "Vivimos juntos."
+  },
+  {
+    "hanzi": "yes",
+    "pinyin": "yes",
+    "es": "sí",
+    "level": 1,
+    "ex_zh": "Yes, I'd love to.",
+    "ex_py": "yes aid lav tuu",
+    "ex_es": "Sí, me encantaría."
+  },
+  {
+    "hanzi": "no",
+    "pinyin": "nəu",
+    "es": "no",
+    "level": 1,
+    "ex_zh": "No, thank you.",
+    "ex_py": "nəu thangk yuu",
+    "ex_es": "No, gracias."
+  },
+  {
+    "hanzi": "sofa",
+    "pinyin": "SƏU-fə",
+    "es": "sillón (de varias plazas)",
+    "level": 2,
+    "ex_zh": "The sofa is very comfortable.",
+    "ex_py": "dhə SƏU-fə iz VE-ri KAM-fə-tə-bəl",
+    "ex_es": "El sillón es muy cómodo."
+  },
+  {
+    "hanzi": "armchair",
+    "pinyin": "AAM-cheə",
+    "es": "sillón individual",
+    "level": 2,
+    "ex_zh": "Grandad sleeps in the armchair.",
+    "ex_py": "GRAN-dad sliips in dhə AAM-cheə",
+    "ex_es": "El abuelo duerme en el sillón individual."
+  },
+  {
+    "hanzi": "wardrobe",
+    "pinyin": "WOO-drəub",
+    "es": "placard; ropero",
+    "level": 2,
+    "ex_zh": "My clothes are in the wardrobe.",
+    "ex_py": "mai kləudhz aa in dhə WOO-drəub",
+    "ex_es": "Mi ropa está en el placard."
+  },
+  {
+    "hanzi": "cooker",
+    "pinyin": "KU-kə",
+    "es": "cocina (artefacto)",
+    "level": 2,
+    "ex_zh": "The cooker is electric.",
+    "ex_py": "dhə KU-kə iz i-LEK-trik",
+    "ex_es": "La cocina es eléctrica."
+  },
+  {
+    "hanzi": "fridge",
+    "pinyin": "fridj",
+    "es": "heladera",
+    "level": 2,
+    "ex_zh": "The milk is in the fridge.",
+    "ex_py": "dhə milk iz in dhə fridj",
+    "ex_es": "La leche está en la heladera."
+  },
+  {
+    "hanzi": "carpet",
+    "pinyin": "KAA-pit",
+    "es": "alfombra; moquette",
+    "level": 2,
+    "ex_zh": "We have a blue carpet.",
+    "ex_py": "wii hav ə bluu KAA-pit",
+    "ex_es": "Tenemos una alfombra azul."
+  },
+  {
+    "hanzi": "curtains",
+    "pinyin": "KƏƏ-tənz",
+    "es": "cortinas",
+    "level": 2,
+    "ex_zh": "Please close the curtains.",
+    "ex_py": "pliiz kləuz dhə KƏƏ-tənz",
+    "ex_es": "Cerrá las cortinas, por favor."
+  },
+  {
+    "hanzi": "stairs",
+    "pinyin": "steəz",
+    "es": "escalera",
+    "level": 2,
+    "ex_zh": "My bedroom is up the stairs.",
+    "ex_py": "mai BED-ruum iz ap dhə steəz",
+    "ex_es": "Mi dormitorio está subiendo la escalera."
+  },
+  {
+    "hanzi": "lift",
+    "pinyin": "lift",
+    "es": "ascensor",
+    "level": 2,
+    "ex_zh": "The lift is out of order.",
+    "ex_py": "dhə lift iz aut ov OO-də",
+    "ex_es": "El ascensor no funciona."
+  },
+  {
+    "hanzi": "window",
+    "pinyin": "WIN-dəu",
+    "es": "ventana",
+    "level": 2,
+    "ex_zh": "Open the window, please.",
+    "ex_py": "ƏU-pən dhə WIN-dəu pliiz",
+    "ex_es": "Abrí la ventana, por favor."
+  },
+  {
+    "hanzi": "door",
+    "pinyin": "doo",
+    "es": "puerta",
+    "level": 2,
+    "ex_zh": "Close the door, please.",
+    "ex_py": "kləuz dhə doo pliiz",
+    "ex_es": "Cerrá la puerta, por favor."
+  },
+  {
+    "hanzi": "key",
+    "pinyin": "kii",
+    "es": "llave",
+    "level": 2,
+    "ex_zh": "Where is the key?",
+    "ex_py": "weə iz dhə kii",
+    "ex_es": "¿Dónde está la llave?"
+  },
+  {
+    "hanzi": "rent",
+    "pinyin": "rent",
+    "es": "alquiler; alquilar",
+    "level": 2,
+    "ex_zh": "The rent is six hundred pounds.",
+    "ex_py": "dhə rent iz siks HAN-drəd paundz",
+    "ex_es": "El alquiler es de seiscientas libras."
+  },
+  {
+    "hanzi": "landlord",
+    "pinyin": "LAND-lood",
+    "es": "propietario; dueño",
+    "level": 2,
+    "ex_zh": "The landlord lives downstairs.",
+    "ex_py": "dhə LAND-lood livz daun-STEƏZ",
+    "ex_es": "El propietario vive en la planta baja."
+  },
+  {
+    "hanzi": "furnished",
+    "pinyin": "FƏƏ-nisht",
+    "es": "amueblado",
+    "level": 2,
+    "ex_zh": "Is the flat furnished?",
+    "ex_py": "iz dhə flat FƏƏ-nisht",
+    "ex_es": "¿El departamento está amueblado?"
+  },
+  {
+    "hanzi": "to let",
+    "pinyin": "tə LET",
+    "es": "se alquila",
+    "level": 2,
+    "ex_zh": "There is a flat to let on my street.",
+    "ex_py": "dheə iz ə flat tuu let on mai striit",
+    "ex_es": "Hay un departamento en alquiler en mi calle."
+  },
+  {
+    "hanzi": "deposit",
+    "pinyin": "di-PO-zit",
+    "es": "depósito; seña",
+    "level": 2,
+    "ex_zh": "The deposit is one month's rent.",
+    "ex_py": "dhə di-PO-zit iz wan manths rent",
+    "ex_es": "El depósito es un mes de alquiler."
+  },
+  {
+    "hanzi": "per month",
+    "pinyin": "pə manth",
+    "es": "por mes",
+    "level": 2,
+    "ex_zh": "It costs five hundred pounds per month.",
+    "ex_py": "it kosts faiv HAN-drəd paundz pə manth",
+    "ex_es": "Cuesta quinientas libras por mes."
+  },
+  {
+    "hanzi": "bills",
+    "pinyin": "bilz",
+    "es": "cuentas; facturas",
+    "level": 2,
+    "ex_zh": "Are the bills included?",
+    "ex_py": "aa dhə bilz in-KLUU-did",
+    "ex_es": "¿Las cuentas están incluidas?"
+  },
+  {
+    "hanzi": "heating",
+    "pinyin": "HII-ting",
+    "es": "calefacción",
+    "level": 2,
+    "ex_zh": "The heating is on.",
+    "ex_py": "dhə HII-ting iz on",
+    "ex_es": "La calefacción está encendida."
+  },
+  {
+    "hanzi": "spare room",
+    "pinyin": "speə ruum",
+    "es": "habitación libre",
+    "level": 2,
+    "ex_zh": "We have a spare room for guests.",
+    "ex_py": "wii hav ə speə ruum foo gests",
+    "ex_es": "Tenemos una habitación libre para invitados."
+  },
+  {
+    "hanzi": "advert",
+    "pinyin": "AD-vəət",
+    "es": "aviso; anuncio",
+    "level": 2,
+    "ex_zh": "I saw an advert online.",
+    "ex_py": "ai soo ən AD-vəət on-LAIN",
+    "ex_es": "Vi un aviso en internet."
+  },
+  {
+    "hanzi": "viewing",
+    "pinyin": "VYUU-ing",
+    "es": "visita (para ver una propiedad)",
+    "level": 2,
+    "ex_zh": "Can I arrange a viewing?",
+    "ex_py": "kan ai ə-REINDJ ə VYUU-ing",
+    "ex_es": "¿Puedo coordinar una visita?"
+  },
+  {
+    "hanzi": "neighbour",
+    "pinyin": "NEI-bə",
+    "es": "vecino; vecina",
+    "level": 2,
+    "ex_zh": "My neighbour is very friendly.",
+    "ex_py": "mai NEI-bə iz VE-ri FREND-li",
+    "ex_es": "Mi vecino es muy simpático."
+  },
+  {
+    "hanzi": "postcode",
+    "pinyin": "PƏUST-kəud",
+    "es": "código postal",
+    "level": 2,
+    "ex_zh": "What is your postcode?",
+    "ex_py": "wot iz yoo PƏUST-kəud",
+    "ex_es": "¿Cuál es tu código postal?"
+  },
+  {
+    "hanzi": "council",
+    "pinyin": "KAUN-səl",
+    "es": "municipio; consejo local",
+    "level": 2,
+    "ex_zh": "The council collects the rubbish.",
+    "ex_py": "dhə KAUN-səl kə-LEKTS dhə RA-bish",
+    "ex_es": "El municipio recoge la basura."
+  },
+  {
+    "hanzi": "bin",
+    "pinyin": "bin",
+    "es": "cesto de basura",
+    "level": 2,
+    "ex_zh": "The bin is full.",
+    "ex_py": "dhə bin iz ful",
+    "ex_es": "El cesto está lleno."
+  },
+  {
+    "hanzi": "rubbish",
+    "pinyin": "RA-bish",
+    "es": "basura; tonterías",
+    "level": 2,
+    "ex_zh": "Please take the rubbish out.",
+    "ex_py": "pliiz teik dhə RA-bish aut",
+    "ex_es": "Por favor, sacá la basura."
+  },
+  {
+    "hanzi": "noisy",
+    "pinyin": "NOI-zi",
+    "es": "ruidoso",
+    "level": 2,
+    "ex_zh": "The street is very noisy.",
+    "ex_py": "dhə striit iz VE-ri NOI-zi",
+    "ex_es": "La calle es muy ruidosa."
+  },
+  {
+    "hanzi": "quiet",
+    "pinyin": "KWAI-ət",
+    "es": "tranquilo; callado",
+    "level": 2,
+    "ex_zh": "It's a quiet village.",
+    "ex_py": "its ə KWAI-ət VI-lidj",
+    "ex_es": "Es un pueblo tranquilo."
+  },
+  {
+    "hanzi": "corner shop",
+    "pinyin": "KOO-nə shop",
+    "es": "almacén de la esquina",
+    "level": 2,
+    "ex_zh": "The corner shop is open until ten.",
+    "ex_py": "dhə KOO-nə shop iz ƏU-pən ən-TIL ten",
+    "ex_es": "El almacén de la esquina abre hasta las diez."
+  },
+  {
+    "hanzi": "high street",
+    "pinyin": "hai striit",
+    "es": "calle principal comercial",
+    "level": 2,
+    "ex_zh": "The bank is on the high street.",
+    "ex_py": "dhə bangk iz on dhə hai striit",
+    "ex_es": "El banco está en la calle principal."
+  },
+  {
+    "hanzi": "village",
+    "pinyin": "VI-lidj",
+    "es": "pueblo",
+    "level": 2,
+    "ex_zh": "I grew up in a small village.",
+    "ex_py": "ai gruu ap in ə smool VI-lidj",
+    "ex_es": "Crecí en un pueblo chico."
+  },
+  {
+    "hanzi": "town",
+    "pinyin": "taun",
+    "es": "ciudad mediana; pueblo grande",
+    "level": 2,
+    "ex_zh": "Our town has a market.",
+    "ex_py": "auə taun haz ə MAA-kit",
+    "ex_es": "Nuestro pueblo tiene un mercado."
+  },
+  {
+    "hanzi": "alarm clock",
+    "pinyin": "ə-LAAM klok",
+    "es": "despertador",
+    "level": 2,
+    "ex_zh": "My alarm clock rings at six.",
+    "ex_py": "mai ə-LAAM klok ringz at siks",
+    "ex_es": "Mi despertador suena a las seis."
+  },
+  {
+    "hanzi": "wake up",
+    "pinyin": "weik ap",
+    "es": "despertarse",
+    "level": 2,
+    "ex_zh": "I wake up at seven.",
+    "ex_py": "ai weik ap at SE-vən",
+    "ex_es": "Me despierto a las siete."
+  },
+  {
+    "hanzi": "get up",
+    "pinyin": "get ap",
+    "es": "levantarse",
+    "level": 2,
+    "ex_zh": "I get up at half past seven.",
+    "ex_py": "ai get ap at haaf paast SE-vən",
+    "ex_es": "Me levanto a las siete y media."
+  },
+  {
+    "hanzi": "shower",
+    "pinyin": "SHAU-ə",
+    "es": "ducha; ducharse",
+    "level": 2,
+    "ex_zh": "I have a shower every morning.",
+    "ex_py": "ai hav ə SHAU-ə EV-ri MOO-ning",
+    "ex_es": "Me doy una ducha todas las mañanas."
+  },
+  {
+    "hanzi": "get dressed",
+    "pinyin": "get drest",
+    "es": "vestirse",
+    "level": 2,
+    "ex_zh": "I get dressed quickly.",
+    "ex_py": "ai get drest KWIK-li",
+    "ex_es": "Me visto rápido."
+  },
+  {
+    "hanzi": "lunch",
+    "pinyin": "lanch",
+    "es": "almuerzo",
+    "level": 2,
+    "ex_zh": "Lunch is at one o'clock.",
+    "ex_py": "lanch iz at wan ə-KLOK",
+    "ex_es": "El almuerzo es a la una."
+  },
+  {
+    "hanzi": "dinner",
+    "pinyin": "DI-nə",
+    "es": "cena; comida principal",
+    "level": 2,
+    "ex_zh": "We have dinner at seven.",
+    "ex_py": "wii hav DI-nə at SE-vən",
+    "ex_es": "Cenamos a las siete."
+  },
+  {
+    "hanzi": "early",
+    "pinyin": "ƏƏ-li",
+    "es": "temprano",
+    "level": 2,
+    "ex_zh": "I get up early on Monday.",
+    "ex_py": "ai get ap ƏƏ-li on MAN-dei",
+    "ex_es": "Me levanto temprano el lunes."
+  },
+  {
+    "hanzi": "late",
+    "pinyin": "leit",
+    "es": "tarde; con retraso",
+    "level": 2,
+    "ex_zh": "Sorry, I'm late.",
+    "ex_py": "SO-ri aim leit",
+    "ex_es": "Perdón, llego tarde."
+  },
+  {
+    "hanzi": "always",
+    "pinyin": "OOL-weiz",
+    "es": "siempre",
+    "level": 2,
+    "ex_zh": "I always drink tea in the morning.",
+    "ex_py": "ai OOL-weiz dringk tii in dhə MOO-ning",
+    "ex_es": "Siempre tomo té a la mañana."
+  },
+  {
+    "hanzi": "usually",
+    "pinyin": "YUU-zhuə-li",
+    "es": "generalmente",
+    "level": 2,
+    "ex_zh": "I usually take the bus.",
+    "ex_py": "ai YUU-zhuə-li teik dhə bas",
+    "ex_es": "Generalmente tomo el colectivo."
+  },
+  {
+    "hanzi": "sometimes",
+    "pinyin": "SAM-taimz",
+    "es": "a veces",
+    "level": 2,
+    "ex_zh": "Sometimes I walk to work.",
+    "ex_py": "SAM-taimz ai wook tuu wəək",
+    "ex_es": "A veces voy caminando al trabajo."
+  },
+  {
+    "hanzi": "never",
+    "pinyin": "NE-və",
+    "es": "nunca",
+    "level": 2,
+    "ex_zh": "I never eat breakfast.",
+    "ex_py": "ai NE-və iit BREK-fəst",
+    "ex_es": "Nunca desayuno."
+  },
+  {
+    "hanzi": "job",
+    "pinyin": "djob",
+    "es": "trabajo; empleo",
+    "level": 2,
+    "ex_zh": "I have a new job.",
+    "ex_py": "ai hav ə nyuu djob",
+    "ex_es": "Tengo un trabajo nuevo."
+  },
+  {
+    "hanzi": "office",
+    "pinyin": "O-fis",
+    "es": "oficina",
+    "level": 2,
+    "ex_zh": "My office is in the city centre.",
+    "ex_py": "mai O-fis iz in dhə SI-ti SEN-tə",
+    "ex_es": "Mi oficina está en el centro."
+  },
+  {
+    "hanzi": "boss",
+    "pinyin": "bos",
+    "es": "jefe; jefa",
+    "level": 2,
+    "ex_zh": "My boss is very kind.",
+    "ex_py": "mai bos iz VE-ri kaind",
+    "ex_es": "Mi jefa es muy amable."
+  },
+  {
+    "hanzi": "colleague",
+    "pinyin": "KO-liig",
+    "es": "colega; compañero de trabajo",
+    "level": 2,
+    "ex_zh": "My colleagues are friendly.",
+    "ex_py": "mai KO-liigz aa FREND-li",
+    "ex_es": "Mis colegas son simpáticos."
+  },
+  {
+    "hanzi": "salary",
+    "pinyin": "SA-lə-ri",
+    "es": "sueldo",
+    "level": 2,
+    "ex_zh": "The salary is good.",
+    "ex_py": "dhə SA-lə-ri iz gud",
+    "ex_es": "El sueldo es bueno."
+  },
+  {
+    "hanzi": "meeting",
+    "pinyin": "MII-ting",
+    "es": "reunión",
+    "level": 2,
+    "ex_zh": "I have a meeting at ten.",
+    "ex_py": "ai hav ə MII-ting at ten",
+    "ex_es": "Tengo una reunión a las diez."
+  },
+  {
+    "hanzi": "interview",
+    "pinyin": "IN-tə-vyuu",
+    "es": "entrevista",
+    "level": 2,
+    "ex_zh": "I have an interview on Friday.",
+    "ex_py": "ai hav ən IN-tə-vyuu on FRAI-dei",
+    "ex_es": "Tengo una entrevista el viernes."
+  },
+  {
+    "hanzi": "teacher",
+    "pinyin": "TII-chə",
+    "es": "profesor; maestro",
+    "level": 2,
+    "ex_zh": "My sister is a teacher.",
+    "ex_py": "mai SIS-tə iz ə TII-chə",
+    "ex_es": "Mi hermana es profesora."
+  },
+  {
+    "hanzi": "nurse",
+    "pinyin": "nəəs",
+    "es": "enfermero; enfermera",
+    "level": 2,
+    "ex_zh": "He works as a nurse.",
+    "ex_py": "hii wəəks az ə nəəs",
+    "ex_es": "Trabaja como enfermero."
+  },
+  {
+    "hanzi": "engineer",
+    "pinyin": "en-dji-NIƏ",
+    "es": "ingeniero; ingeniera",
+    "level": 2,
+    "ex_zh": "She is an engineer.",
+    "ex_py": "shii iz ən en-dji-NIƏ",
+    "ex_es": "Ella es ingeniera."
+  },
+  {
+    "hanzi": "shop assistant",
+    "pinyin": "shop ə-SIS-tənt",
+    "es": "empleado de comercio",
+    "level": 2,
+    "ex_zh": "He is a shop assistant.",
+    "ex_py": "hii iz ə shop ə-SIS-tənt",
+    "ex_es": "Es empleado de un comercio."
+  },
+  {
+    "hanzi": "part-time",
+    "pinyin": "paat-TAIM",
+    "es": "de medio tiempo",
+    "level": 2,
+    "ex_zh": "I have a part-time job.",
+    "ex_py": "ai hav ə paat taim djob",
+    "ex_es": "Tengo un trabajo de medio tiempo."
+  },
+  {
+    "hanzi": "chemist",
+    "pinyin": "KE-mist",
+    "es": "farmacia",
+    "level": 2,
+    "ex_zh": "The chemist is next to the bank.",
+    "ex_py": "dhə KE-mist iz nekst tuu dhə bangk",
+    "ex_es": "La farmacia está al lado del banco."
+  },
+  {
+    "hanzi": "supermarket",
+    "pinyin": "SUU-pə-maa-kit",
+    "es": "supermercado",
+    "level": 2,
+    "ex_zh": "I do my shopping at the supermarket.",
+    "ex_py": "ai duu mai SHO-ping at dhə SUU-pə-maa-kit",
+    "ex_es": "Hago las compras en el supermercado."
+  },
+  {
+    "hanzi": "jumper",
+    "pinyin": "DJAM-pə",
+    "es": "suéter",
+    "level": 2,
+    "ex_zh": "I need a warm jumper.",
+    "ex_py": "ai niid ə woom DJAM-pə",
+    "ex_es": "Necesito un suéter abrigado."
+  },
+  {
+    "hanzi": "trousers",
+    "pinyin": "TRAU-zəz",
+    "es": "pantalón",
+    "level": 2,
+    "ex_zh": "These trousers are too long.",
+    "ex_py": "dhiiz TRAU-zəz aa tuu long",
+    "ex_es": "Este pantalón es demasiado largo."
+  },
+  {
+    "hanzi": "trainers",
+    "pinyin": "TREI-nəz",
+    "es": "zapatillas deportivas",
+    "level": 2,
+    "ex_zh": "I wear trainers every day.",
+    "ex_py": "ai weə TREI-nəz EV-ri dei",
+    "ex_es": "Uso zapatillas todos los días."
+  },
+  {
+    "hanzi": "coat",
+    "pinyin": "kəut",
+    "es": "abrigo",
+    "level": 2,
+    "ex_zh": "Take your coat, it's cold.",
+    "ex_py": "teik yoo kəut its kəuld",
+    "ex_es": "Llevá el abrigo, hace frío."
+  },
+  {
+    "hanzi": "shirt",
+    "pinyin": "shəət",
+    "es": "camisa",
+    "level": 2,
+    "ex_zh": "He is wearing a white shirt.",
+    "ex_py": "hii iz WEƏ-ring ə wait shəət",
+    "ex_es": "Lleva puesta una camisa blanca."
+  },
+  {
+    "hanzi": "shoes",
+    "pinyin": "shuuz",
+    "es": "zapatos",
+    "level": 2,
+    "ex_zh": "My shoes are new.",
+    "ex_py": "mai shuuz aa nyuu",
+    "ex_es": "Mis zapatos son nuevos."
+  },
+  {
+    "hanzi": "size",
+    "pinyin": "saiz",
+    "es": "talle; tamaño",
+    "level": 2,
+    "ex_zh": "What size are you?",
+    "ex_py": "wot saiz aa yuu",
+    "ex_es": "¿Qué talle sos?"
+  },
+  {
+    "hanzi": "receipt",
+    "pinyin": "ri-SIIT",
+    "es": "ticket; recibo",
+    "level": 2,
+    "ex_zh": "Keep the receipt, please.",
+    "ex_py": "kiip dhə ri-SIIT pliiz",
+    "ex_es": "Guardá el ticket, por favor."
+  },
+  {
+    "hanzi": "sale",
+    "pinyin": "seil",
+    "es": "liquidación; oferta",
+    "level": 2,
+    "ex_zh": "There's a big sale on Saturday.",
+    "ex_py": "dheəz ə big seil on SA-tə-dei",
+    "ex_es": "El sábado hay una gran liquidación."
+  },
+  {
+    "hanzi": "basket",
+    "pinyin": "BAA-skit",
+    "es": "canasto",
+    "level": 2,
+    "ex_zh": "Take a basket, please.",
+    "ex_py": "teik ə BAA-skit pliiz",
+    "ex_es": "Tomá un canasto, por favor."
+  },
+  {
+    "hanzi": "trolley",
+    "pinyin": "TRO-li",
+    "es": "carrito (de compras)",
+    "level": 2,
+    "ex_zh": "The trolley is full.",
+    "ex_py": "dhə TRO-li iz ful",
+    "ex_es": "El carrito está lleno."
+  },
+  {
+    "hanzi": "holiday",
+    "pinyin": "HO-lə-dei",
+    "es": "vacaciones; feriado",
+    "level": 2,
+    "ex_zh": "We're on holiday in Cornwall.",
+    "ex_py": "wiə on HO-lə-dei in KOON-wool",
+    "ex_es": "Estamos de vacaciones en Cornualles."
+  },
+  {
+    "hanzi": "passport",
+    "pinyin": "PAAS-poot",
+    "es": "pasaporte",
+    "level": 2,
+    "ex_zh": "Don't forget your passport.",
+    "ex_py": "dəunt fə-GET yoo PAAS-poot",
+    "ex_es": "No te olvides el pasaporte."
+  },
+  {
+    "hanzi": "luggage",
+    "pinyin": "LA-gidj",
+    "es": "equipaje",
+    "level": 2,
+    "ex_zh": "My luggage is very heavy.",
+    "ex_py": "mai LA-gidj iz VE-ri HE-vi",
+    "ex_es": "Mi equipaje pesa mucho."
+  },
+  {
+    "hanzi": "suitcase",
+    "pinyin": "SUUT-keis",
+    "es": "valija; maleta",
+    "level": 2,
+    "ex_zh": "I packed a small suitcase.",
+    "ex_py": "ai pakt ə smool SUUT-keis",
+    "ex_es": "Hice una valija chica."
+  },
+  {
+    "hanzi": "flight",
+    "pinyin": "flait",
+    "es": "vuelo",
+    "level": 2,
+    "ex_zh": "The flight is at nine.",
+    "ex_py": "dhə flait iz at nain",
+    "ex_es": "El vuelo es a las nueve."
+  },
+  {
+    "hanzi": "airport",
+    "pinyin": "EƏ-poot",
+    "es": "aeropuerto",
+    "level": 2,
+    "ex_zh": "The airport is far from the city.",
+    "ex_py": "dhə EƏ-poot iz faa from dhə SI-ti",
+    "ex_es": "El aeropuerto queda lejos de la ciudad."
+  },
+  {
+    "hanzi": "hotel",
+    "pinyin": "həu-TEL",
+    "es": "hotel",
+    "level": 2,
+    "ex_zh": "The hotel is near the beach.",
+    "ex_py": "dhə həu-TEL iz niə dhə biich",
+    "ex_es": "El hotel queda cerca de la playa."
+  },
+  {
+    "hanzi": "booking",
+    "pinyin": "BU-king",
+    "es": "reserva",
+    "level": 2,
+    "ex_zh": "I have a booking for two nights.",
+    "ex_py": "ai hav ə BU-king foo tuu naits",
+    "ex_es": "Tengo una reserva por dos noches."
+  },
+  {
+    "hanzi": "beach",
+    "pinyin": "biich",
+    "es": "playa",
+    "level": 2,
+    "ex_zh": "The beach is full of people.",
+    "ex_py": "dhə biich iz ful ov PII-pəl",
+    "ex_es": "La playa está llena de gente."
+  },
+  {
+    "hanzi": "seaside",
+    "pinyin": "SII-said",
+    "es": "costa; zona de playa",
+    "level": 2,
+    "ex_zh": "We spent a weekend at the seaside.",
+    "ex_py": "wii spent ə wiik-END at dhə SII-said",
+    "ex_es": "Pasamos un fin de semana en la costa."
+  },
+  {
+    "hanzi": "sightseeing",
+    "pinyin": "SAIT-sii-ing",
+    "es": "turismo; recorrido turístico",
+    "level": 2,
+    "ex_zh": "We went sightseeing in London.",
+    "ex_py": "wii went SAIT-sii-ing in LAN-dən",
+    "ex_es": "Hicimos turismo en Londres."
+  },
+  {
+    "hanzi": "bed and breakfast",
+    "pinyin": "bed ənd BREK-fəst",
+    "es": "pensión con desayuno",
+    "level": 2,
+    "ex_zh": "We stayed at a bed and breakfast.",
+    "ex_py": "wii steid at ə bed and BREK-fəst",
+    "ex_es": "Nos alojamos en una pensión con desayuno."
+  },
+  {
+    "hanzi": "petrol",
+    "pinyin": "PE-trəl",
+    "es": "nafta",
+    "level": 2,
+    "ex_zh": "I need to buy petrol.",
+    "ex_py": "ai niid tuu bai PE-trəl",
+    "ex_es": "Necesito comprar nafta."
+  },
+  {
+    "hanzi": "motorway",
+    "pinyin": "MƏU-tə-wei",
+    "es": "autopista",
+    "level": 2,
+    "ex_zh": "The motorway is very busy.",
+    "ex_py": "dhə MƏU-tə-wei iz VE-ri BI-zi",
+    "ex_es": "La autopista está muy congestionada."
+  },
+  {
+    "hanzi": "boot",
+    "pinyin": "buut",
+    "es": "baúl (del auto)",
+    "level": 2,
+    "ex_zh": "Put the bags in the boot.",
+    "ex_py": "put dhə bagz in dhə buut",
+    "ex_es": "Poné los bolsos en el baúl."
+  },
+  {
+    "hanzi": "bonnet",
+    "pinyin": "BO-nit",
+    "es": "capó",
+    "level": 2,
+    "ex_zh": "Open the bonnet, please.",
+    "ex_py": "ƏU-pən dhə BO-nit pliiz",
+    "ex_es": "Abrí el capó, por favor."
+  },
+  {
+    "hanzi": "roundabout",
+    "pinyin": "RAUND-ə-baut",
+    "es": "rotonda",
+    "level": 2,
+    "ex_zh": "Take the second exit at the roundabout.",
+    "ex_py": "teik dhə SE-kənd EK-sit at dhə RAUND-ə-baut",
+    "ex_es": "Tomá la segunda salida en la rotonda."
+  },
+  {
+    "hanzi": "lorry",
+    "pinyin": "LO-ri",
+    "es": "camión",
+    "level": 2,
+    "ex_zh": "A lorry blocks the road.",
+    "ex_py": "ə LO-ri bloks dhə rəud",
+    "ex_es": "Un camión bloquea la ruta."
+  },
+  {
+    "hanzi": "coach",
+    "pinyin": "kəuch",
+    "es": "micro de larga distancia",
+    "level": 2,
+    "ex_zh": "We took the coach to Bath.",
+    "ex_py": "wii tuk dhə kəuch tuu baath",
+    "ex_es": "Fuimos a Bath en micro."
+  },
+  {
+    "hanzi": "car park",
+    "pinyin": "kaa paak",
+    "es": "estacionamiento",
+    "level": 2,
+    "ex_zh": "The car park is full.",
+    "ex_py": "dhə kaa paak iz ful",
+    "ex_es": "El estacionamiento está lleno."
+  },
+  {
+    "hanzi": "speed limit",
+    "pinyin": "spiid LI-mit",
+    "es": "límite de velocidad",
+    "level": 2,
+    "ex_zh": "The speed limit is thirty.",
+    "ex_py": "dhə spiid LI-mit iz THƏƏ-ti",
+    "ex_es": "El límite de velocidad es treinta."
+  },
+  {
+    "hanzi": "driving licence",
+    "pinyin": "DRAI-ving LAI-səns",
+    "es": "licencia de conducir",
+    "level": 2,
+    "ex_zh": "I have a driving licence.",
+    "ex_py": "ai hav ə DRAI-ving LAI-səns",
+    "ex_es": "Tengo licencia de conducir."
+  },
+  {
+    "hanzi": "traffic jam",
+    "pinyin": "TRA-fik djam",
+    "es": "embotellamiento",
+    "level": 2,
+    "ex_zh": "We were stuck in a traffic jam.",
+    "ex_py": "wii wəə stak in ə TRA-fik djam",
+    "ex_es": "Quedamos atrapados en un embotellamiento."
+  },
+  {
+    "hanzi": "roast",
+    "pinyin": "rəust",
+    "es": "asado al horno",
+    "level": 2,
+    "ex_zh": "We have a roast on Sundays.",
+    "ex_py": "wii hav ə rəust on SAN-deiz",
+    "ex_es": "Los domingos comemos un asado al horno."
+  },
+  {
+    "hanzi": "gravy",
+    "pinyin": "GREI-vi",
+    "es": "salsa (de carne)",
+    "level": 2,
+    "ex_zh": "More gravy, please.",
+    "ex_py": "moo GREI-vi pliiz",
+    "ex_es": "Más salsa, por favor."
+  },
+  {
+    "hanzi": "pie",
+    "pinyin": "pai",
+    "es": "tarta salada o dulce",
+    "level": 2,
+    "ex_zh": "I'd like a steak pie.",
+    "ex_py": "aid laik ə steik pai",
+    "ex_es": "Quisiera una tarta de carne."
+  },
+  {
+    "hanzi": "porridge",
+    "pinyin": "PO-ridj",
+    "es": "avena cocida",
+    "level": 2,
+    "ex_zh": "Porridge is good in winter.",
+    "ex_py": "PO-ridj iz gud in WIN-tə",
+    "ex_es": "La avena cocida es rica en invierno."
+  },
+  {
+    "hanzi": "jacket potato",
+    "pinyin": "DJA-kit pə-TEI-təu",
+    "es": "papa al horno",
+    "level": 2,
+    "ex_zh": "A jacket potato with cheese, please.",
+    "ex_py": "ə DJA-kit pə-TEI-təu widh chiiz pliiz",
+    "ex_es": "Una papa al horno con queso, por favor."
+  },
+  {
+    "hanzi": "takeaway",
+    "pinyin": "TEIK-ə-wei",
+    "es": "comida para llevar",
+    "level": 2,
+    "ex_zh": "Let's order a takeaway.",
+    "ex_py": "lets OO-də ə TEIK-ə-wei",
+    "ex_es": "Pidamos comida para llevar."
+  },
+  {
+    "hanzi": "fry-up",
+    "pinyin": "FRAI-ap",
+    "es": "desayuno inglés frito",
+    "level": 2,
+    "ex_zh": "A fry-up is very filling.",
+    "ex_py": "ə frai ap iz VE-ri FI-ling",
+    "ex_es": "Un desayuno inglés frito llena mucho."
+  },
+  {
+    "hanzi": "pudding",
+    "pinyin": "PU-ding",
+    "es": "postre; budín",
+    "level": 2,
+    "ex_zh": "What's for pudding?",
+    "ex_py": "wots foo PU-ding",
+    "ex_es": "¿Qué hay de postre?"
+  },
+  {
+    "hanzi": "cuppa",
+    "pinyin": "KA-pə",
+    "es": "tacita de té",
+    "level": 2,
+    "ex_zh": "Fancy a cuppa?",
+    "ex_py": "FAN-si ə KA-pə",
+    "ex_es": "¿Te tomás un tecito?"
+  },
+  {
+    "hanzi": "bacon",
+    "pinyin": "BEI-kən",
+    "es": "panceta",
+    "level": 2,
+    "ex_zh": "I like bacon and eggs.",
+    "ex_py": "ai laik BEI-kən and egz",
+    "ex_es": "Me gustan los huevos con panceta."
+  },
+  {
+    "hanzi": "sausage",
+    "pinyin": "SO-sidj",
+    "es": "salchicha",
+    "level": 2,
+    "ex_zh": "A sausage sandwich, please.",
+    "ex_py": "ə SO-sidj SAN-widj pliiz",
+    "ex_es": "Un sándwich de salchicha, por favor."
+  },
+  {
+    "hanzi": "ill",
+    "pinyin": "il",
+    "es": "enfermo",
+    "level": 2,
+    "ex_zh": "I feel ill today.",
+    "ex_py": "ai fiil il tə-DEI",
+    "ex_es": "Hoy me siento mal."
+  },
+  {
+    "hanzi": "headache",
+    "pinyin": "HED-eik",
+    "es": "dolor de cabeza",
+    "level": 2,
+    "ex_zh": "I have a terrible headache.",
+    "ex_py": "ai hav ə TE-rə-bəl HED-eik",
+    "ex_es": "Tengo un dolor de cabeza terrible."
+  },
+  {
+    "hanzi": "flu",
+    "pinyin": "fluu",
+    "es": "gripe",
+    "level": 2,
+    "ex_zh": "Half the office has the flu.",
+    "ex_py": "haaf dhə O-fis haz dhə fluu",
+    "ex_es": "La mitad de la oficina tiene gripe."
+  },
+  {
+    "hanzi": "cough",
+    "pinyin": "kof",
+    "es": "tos; toser",
+    "level": 2,
+    "ex_zh": "He has a bad cough.",
+    "ex_py": "hii haz ə bad kof",
+    "ex_es": "Tiene una tos fea."
+  },
+  {
+    "hanzi": "sore throat",
+    "pinyin": "soo throut",
+    "es": "dolor de garganta",
+    "level": 2,
+    "ex_zh": "I have a sore throat.",
+    "ex_py": "ai hav ə soo thrəut",
+    "ex_es": "Me duele la garganta."
+  },
+  {
+    "hanzi": "temperature",
+    "pinyin": "TEM-prə-chə",
+    "es": "fiebre; temperatura",
+    "level": 2,
+    "ex_zh": "She has a high temperature.",
+    "ex_py": "shii haz ə hai TEM-prə-chə",
+    "ex_es": "Ella tiene fiebre alta."
+  },
+  {
+    "hanzi": "medicine",
+    "pinyin": "ME-di-sin",
+    "es": "medicamento; medicina",
+    "level": 2,
+    "ex_zh": "Take this medicine twice a day.",
+    "ex_py": "teik dhis ME-di-sin twais ə dei",
+    "ex_es": "Tomá este medicamento dos veces por día."
+  },
+  {
+    "hanzi": "doctor",
+    "pinyin": "DOK-tə",
+    "es": "médico; médica",
+    "level": 2,
+    "ex_zh": "I need to see a doctor.",
+    "ex_py": "ai niid tuu sii ə DOK-tə",
+    "ex_es": "Necesito ver a un médico."
+  },
+  {
+    "hanzi": "appointment",
+    "pinyin": "ə-POINT-mənt",
+    "es": "turno; cita",
+    "level": 2,
+    "ex_zh": "I have an appointment at four.",
+    "ex_py": "ai hav ən ə-POINT-mənt at foo",
+    "ex_es": "Tengo un turno a las cuatro."
+  },
+  {
+    "hanzi": "prescription",
+    "pinyin": "pri-SKRIP-shən",
+    "es": "receta médica",
+    "level": 2,
+    "ex_zh": "Here's your prescription.",
+    "ex_py": "hiəz yoo pri-SKRIP-shən",
+    "ex_es": "Acá tenés tu receta."
+  },
+  {
+    "hanzi": "plaster",
+    "pinyin": "PLAA-stə",
+    "es": "curita; yeso",
+    "level": 2,
+    "ex_zh": "Do you have a plaster?",
+    "ex_py": "duu yuu hav ə PLAA-stə",
+    "ex_es": "¿Tenés una curita?"
+  },
+  {
+    "hanzi": "GP",
+    "pinyin": "djii-PII",
+    "es": "médico de cabecera",
+    "level": 2,
+    "ex_zh": "I'm going to see my GP.",
+    "ex_py": "aim GƏU-ing tuu sii mai djii-PII",
+    "ex_es": "Voy a ver a mi médico de cabecera."
+  },
+  {
+    "hanzi": "spring",
+    "pinyin": "spring",
+    "es": "primavera",
+    "level": 2,
+    "ex_zh": "Spring is my favourite season.",
+    "ex_py": "spring iz mai FEI-və-rit SII-zən",
+    "ex_es": "La primavera es mi estación favorita."
+  },
+  {
+    "hanzi": "summer",
+    "pinyin": "SA-mə",
+    "es": "verano",
+    "level": 2,
+    "ex_zh": "Summer is short in England.",
+    "ex_py": "SA-mə iz shoot in ING-glənd",
+    "ex_es": "El verano es corto en Inglaterra."
+  },
+  {
+    "hanzi": "autumn",
+    "pinyin": "OO-təm",
+    "es": "otoño",
+    "level": 2,
+    "ex_zh": "The leaves fall in autumn.",
+    "ex_py": "dhə liivz fool in OO-təm",
+    "ex_es": "Las hojas caen en otoño."
+  },
+  {
+    "hanzi": "winter",
+    "pinyin": "WIN-tə",
+    "es": "invierno",
+    "level": 2,
+    "ex_zh": "Winter is dark and wet.",
+    "ex_py": "WIN-tə iz daak and wet",
+    "ex_es": "El invierno es oscuro y húmedo."
+  },
+  {
+    "hanzi": "cloudy",
+    "pinyin": "KLAU-di",
+    "es": "nublado",
+    "level": 2,
+    "ex_zh": "It's cloudy this morning.",
+    "ex_py": "its KLAU-di dhis MOO-ning",
+    "ex_es": "Esta mañana está nublado."
+  },
+  {
+    "hanzi": "windy",
+    "pinyin": "WIN-di",
+    "es": "ventoso",
+    "level": 2,
+    "ex_zh": "It's very windy today.",
+    "ex_py": "its VE-ri WIN-di tə-DEI",
+    "ex_es": "Hoy hay mucho viento."
+  },
+  {
+    "hanzi": "foggy",
+    "pinyin": "FO-gi",
+    "es": "con niebla",
+    "level": 2,
+    "ex_zh": "It's foggy in the morning.",
+    "ex_py": "its FO-gi in dhə MOO-ning",
+    "ex_es": "Hay niebla por la mañana."
+  },
+  {
+    "hanzi": "drizzle",
+    "pinyin": "DRI-zəl",
+    "es": "llovizna",
+    "level": 2,
+    "ex_zh": "There's a light drizzle.",
+    "ex_py": "dheəz ə lait DRI-zəl",
+    "ex_es": "Hay una llovizna suave."
+  },
+  {
+    "hanzi": "freezing",
+    "pinyin": "FRII-zing",
+    "es": "helado; congelante",
+    "level": 2,
+    "ex_zh": "It's freezing outside.",
+    "ex_py": "its FRII-zing aut-SAID",
+    "ex_es": "Afuera hace un frío helado."
+  },
+  {
+    "hanzi": "umbrella",
+    "pinyin": "am-BRE-lə",
+    "es": "paraguas",
+    "level": 2,
+    "ex_zh": "Take an umbrella with you.",
+    "ex_py": "teik ən am-BRE-lə widh yuu",
+    "ex_es": "Llevá un paraguas."
+  },
+  {
+    "hanzi": "forecast",
+    "pinyin": "FOO-kaast",
+    "es": "pronóstico",
+    "level": 2,
+    "ex_zh": "What's the forecast for tomorrow?",
+    "ex_py": "wots dhə FOO-kaast foo tə-MO-rəu",
+    "ex_es": "¿Cuál es el pronóstico para mañana?"
+  },
+  {
+    "hanzi": "mild",
+    "pinyin": "maild",
+    "es": "templado; suave",
+    "level": 2,
+    "ex_zh": "It's a mild winter this year.",
+    "ex_py": "its ə maild WIN-tə dhis yiə",
+    "ex_es": "Este año el invierno es templado."
+  },
+  {
+    "hanzi": "football",
+    "pinyin": "FUT-bool",
+    "es": "fútbol",
+    "level": 2,
+    "ex_zh": "Football is very popular here.",
+    "ex_py": "FUT-bool iz VE-ri PO-pyə-lə hiə",
+    "ex_es": "El fútbol es muy popular acá."
+  },
+  {
+    "hanzi": "cricket",
+    "pinyin": "KRI-kit",
+    "es": "críquet",
+    "level": 2,
+    "ex_zh": "Cricket matches can last five days.",
+    "ex_py": "KRI-kit MA-chiz kan laast faiv deiz",
+    "ex_es": "Los partidos de críquet pueden durar cinco días."
+  },
+  {
+    "hanzi": "rugby",
+    "pinyin": "RAG-bi",
+    "es": "rugby",
+    "level": 2,
+    "ex_zh": "Rugby is popular in Wales.",
+    "ex_py": "RAG-bi iz PO-pyə-lə in weilz",
+    "ex_es": "El rugby es popular en Gales."
+  },
+  {
+    "hanzi": "match",
+    "pinyin": "mach",
+    "es": "partido",
+    "level": 2,
+    "ex_zh": "The match starts at three.",
+    "ex_py": "dhə mach staats at thrii",
+    "ex_es": "El partido empieza a las tres."
+  },
+  {
+    "hanzi": "team",
+    "pinyin": "tiim",
+    "es": "equipo",
+    "level": 2,
+    "ex_zh": "My team won yesterday.",
+    "ex_py": "mai tiim wan YES-tə-dei",
+    "ex_es": "Mi equipo ganó ayer."
+  },
+  {
+    "hanzi": "hobby",
+    "pinyin": "HO-bi",
+    "es": "pasatiempo",
+    "level": 2,
+    "ex_zh": "My hobby is photography.",
+    "ex_py": "mai HO-bi iz fə-TO-grə-fi",
+    "ex_es": "Mi pasatiempo es la fotografía."
+  },
+  {
+    "hanzi": "weekend",
+    "pinyin": "wiik-END",
+    "es": "fin de semana",
+    "level": 2,
+    "ex_zh": "What are you doing at the weekend?",
+    "ex_py": "wot aa yuu DUU-ing at dhə wiik-END",
+    "ex_es": "¿Qué hacés el fin de semana?"
+  },
+  {
+    "hanzi": "music",
+    "pinyin": "MYUU-zik",
+    "es": "música",
+    "level": 2,
+    "ex_zh": "I listen to music on the bus.",
+    "ex_py": "ai LI-sən tuu MYUU-zik on dhə bas",
+    "ex_es": "Escucho música en el colectivo."
+  },
+  {
+    "hanzi": "film",
+    "pinyin": "film",
+    "es": "película",
+    "level": 2,
+    "ex_zh": "Let's watch a film tonight.",
+    "ex_py": "lets woch ə film tə-NAIT",
+    "ex_es": "Veamos una película esta noche."
+  },
+  {
+    "hanzi": "gym",
+    "pinyin": "djim",
+    "es": "gimnasio",
+    "level": 2,
+    "ex_zh": "I go to the gym on Tuesdays.",
+    "ex_py": "ai gəu tuu dhə djim on TYUUZ-deiz",
+    "ex_es": "Voy al gimnasio los martes."
+  },
+  {
+    "hanzi": "swimming",
+    "pinyin": "SWI-ming",
+    "es": "natación",
+    "level": 2,
+    "ex_zh": "Swimming is good exercise.",
+    "ex_py": "SWI-ming iz gud EK-sə-saiz",
+    "ex_es": "La natación es un buen ejercicio."
+  },
+  {
+    "hanzi": "go for a walk",
+    "pinyin": "gəu fər ə wook",
+    "es": "salir a caminar",
+    "level": 2,
+    "ex_zh": "Let's go for a walk in the park.",
+    "ex_py": "lets gəu foo ə wook in dhə paak",
+    "ex_es": "Salgamos a caminar por el parque."
+  },
+  {
+    "hanzi": "school",
+    "pinyin": "skuul",
+    "es": "escuela; colegio",
+    "level": 3,
+    "ex_zh": "My children go to a state school.",
+    "ex_py": "mai CHIL-drən gəu tuu ə steit skuul",
+    "ex_es": "Mis hijos van a una escuela estatal."
+  },
+  {
+    "hanzi": "university",
+    "pinyin": "yuu-ni-VƏƏ-si-ti",
+    "es": "universidad",
+    "level": 3,
+    "ex_zh": "She studies at a university in Leeds.",
+    "ex_py": "shii STA-diz at ə yuu-ni-VƏƏ-si-ti in liidz",
+    "ex_es": "Ella estudia en una universidad de Leeds."
+  },
+  {
+    "hanzi": "lecturer",
+    "pinyin": "LEK-chə-rə",
+    "es": "profesor universitario",
+    "level": 3,
+    "ex_zh": "The lecturer was very clear.",
+    "ex_py": "dhə LEK-chə-rə woz VE-ri kliə",
+    "ex_es": "El profesor fue muy claro."
+  },
+  {
+    "hanzi": "degree",
+    "pinyin": "di-GRII",
+    "es": "título universitario",
+    "level": 3,
+    "ex_zh": "He has a degree in history.",
+    "ex_py": "hii haz ə di-GRII in HIS-tə-ri",
+    "ex_es": "Tiene un título en historia."
+  },
+  {
+    "hanzi": "exam",
+    "pinyin": "ig-ZAM",
+    "es": "examen",
+    "level": 3,
+    "ex_zh": "I have an exam on Monday.",
+    "ex_py": "ai hav ən ig-ZAM on MAN-dei",
+    "ex_es": "Tengo un examen el lunes."
+  },
+  {
+    "hanzi": "revision",
+    "pinyin": "ri-VI-zhən",
+    "es": "repaso (para exámenes)",
+    "level": 3,
+    "ex_zh": "I'm doing revision for my exams.",
+    "ex_py": "aim DUU-ing ri-VI-zhən foo mai ig-ZAMZ",
+    "ex_es": "Estoy repasando para mis exámenes."
+  },
+  {
+    "hanzi": "term",
+    "pinyin": "təəm",
+    "es": "trimestre",
+    "level": 3,
+    "ex_zh": "The autumn term starts in September.",
+    "ex_py": "dhə OO-təm təəm staats in sep-TEM-bə",
+    "ex_es": "El trimestre de otoño empieza en septiembre."
+  },
+  {
+    "hanzi": "headteacher",
+    "pinyin": "hed-TII-chə",
+    "es": "director de escuela",
+    "level": 3,
+    "ex_zh": "The headteacher gave a speech.",
+    "ex_py": "dhə hed-TII-chə geiv ə spiich",
+    "ex_es": "El director dio un discurso."
+  },
+  {
+    "hanzi": "uniform",
+    "pinyin": "YUU-ni-foom",
+    "es": "uniforme",
+    "level": 3,
+    "ex_zh": "Pupils wear a blue uniform.",
+    "ex_py": "PYUU-pəlz weə ə bluu YUU-ni-foom",
+    "ex_es": "Los alumnos usan uniforme azul."
+  },
+  {
+    "hanzi": "homework",
+    "pinyin": "HƏUM-wəək",
+    "es": "tarea; deberes",
+    "level": 3,
+    "ex_zh": "I have a lot of homework tonight.",
+    "ex_py": "ai hav ə lot ov HƏUM-wəək tə-NAIT",
+    "ex_es": "Tengo mucha tarea esta noche."
+  },
+  {
+    "hanzi": "GCSE",
+    "pinyin": "djii-sii-es-II",
+    "es": "examen nacional a los 16 años",
+    "level": 3,
+    "ex_zh": "She got good results in her GCSEs.",
+    "ex_py": "shii got gud ri-ZALTS in həə djii-sii-es-IIZ",
+    "ex_es": "Sacó buenos resultados en sus GCSE."
+  },
+  {
+    "hanzi": "A-levels",
+    "pinyin": "EI-le-vəlz",
+    "es": "examen de acceso a la universidad",
+    "level": 3,
+    "ex_zh": "He is studying for his A-levels.",
+    "ex_py": "hii iz STA-di-ing foo hiz ə LE-vəlz",
+    "ex_es": "Está estudiando para sus A-levels."
+  },
+  {
+    "hanzi": "career",
+    "pinyin": "kə-RIƏ",
+    "es": "carrera profesional",
+    "level": 3,
+    "ex_zh": "She has a successful career.",
+    "ex_py": "shii haz ə sək-SES-fəl kə-RIƏ",
+    "ex_es": "Ella tiene una carrera exitosa."
+  },
+  {
+    "hanzi": "CV",
+    "pinyin": "sii-VII",
+    "es": "currículum",
+    "level": 3,
+    "ex_zh": "I need to update my CV.",
+    "ex_py": "ai niid tuu AP-deit mai sii-VII",
+    "ex_es": "Necesito actualizar mi currículum."
+  },
+  {
+    "hanzi": "application",
+    "pinyin": "a-pli-KEI-shən",
+    "es": "solicitud; postulación",
+    "level": 3,
+    "ex_zh": "I sent my application on Monday.",
+    "ex_py": "ai sent mai a-pli-KEI-shən on MAN-dei",
+    "ex_es": "Mandé mi postulación el lunes."
+  },
+  {
+    "hanzi": "employer",
+    "pinyin": "im-PLOI-ə",
+    "es": "empleador; empresa",
+    "level": 3,
+    "ex_zh": "My employer is very flexible.",
+    "ex_py": "mai im-PLOI-ə iz VE-ri FLEK-sə-bəl",
+    "ex_es": "Mi empleador es muy flexible."
+  },
+  {
+    "hanzi": "deadline",
+    "pinyin": "DED-lain",
+    "es": "fecha límite",
+    "level": 3,
+    "ex_zh": "The deadline is Friday.",
+    "ex_py": "dhə DED-lain iz FRAI-dei",
+    "ex_es": "La fecha límite es el viernes."
+  },
+  {
+    "hanzi": "promotion",
+    "pinyin": "prə-MƏU-shən",
+    "es": "ascenso",
+    "level": 3,
+    "ex_zh": "He got a promotion last month.",
+    "ex_py": "hii got ə prə-MƏU-shən laast manth",
+    "ex_es": "Lo ascendieron el mes pasado."
+  },
+  {
+    "hanzi": "redundancy",
+    "pinyin": "ri-DAN-dən-si",
+    "es": "despido por reestructuración",
+    "level": 3,
+    "ex_zh": "The company announced redundancies.",
+    "ex_py": "dhə KAM-pə-ni ə-NAUNST ri-DAN-dən-siz",
+    "ex_es": "La empresa anunció despidos."
+  },
+  {
+    "hanzi": "pay rise",
+    "pinyin": "pei raiz",
+    "es": "aumento de sueldo",
+    "level": 3,
+    "ex_zh": "I asked for a pay rise.",
+    "ex_py": "ai aaskt foo ə pei raiz",
+    "ex_es": "Pedí un aumento de sueldo."
+  },
+  {
+    "hanzi": "overtime",
+    "pinyin": "ƏU-və-taim",
+    "es": "horas extra",
+    "level": 3,
+    "ex_zh": "I did a lot of overtime this week.",
+    "ex_py": "ai did ə lot ov ƏU-və-taim dhis wiik",
+    "ex_es": "Hice muchas horas extra esta semana."
+  },
+  {
+    "hanzi": "self-employed",
+    "pinyin": "self-im-PLOID",
+    "es": "autónomo; que trabaja por su cuenta",
+    "level": 3,
+    "ex_zh": "My brother is self-employed.",
+    "ex_py": "mai BRA-dhə iz self im-PLOID",
+    "ex_es": "Mi hermano trabaja por su cuenta."
+  },
+  {
+    "hanzi": "commute",
+    "pinyin": "kə-MYUUT",
+    "es": "viaje diario al trabajo",
+    "level": 3,
+    "ex_zh": "My commute takes an hour.",
+    "ex_py": "mai kə-MYUUT teiks ən auə",
+    "ex_es": "Mi viaje al trabajo lleva una hora."
+  },
+  {
+    "hanzi": "freelance",
+    "pinyin": "FRII-laans",
+    "es": "trabajador independiente",
+    "level": 3,
+    "ex_zh": "She works as a freelance designer.",
+    "ex_py": "shii wəəks az ə FRII-laans di-ZAI-nə",
+    "ex_es": "Trabaja como diseñadora independiente."
+  },
+  {
+    "hanzi": "bank account",
+    "pinyin": "bangk ə-KAUNT",
+    "es": "cuenta bancaria",
+    "level": 3,
+    "ex_zh": "I'd like to open a bank account.",
+    "ex_py": "aid laik tuu ƏU-pən ə bangk ə-KAUNT",
+    "ex_es": "Quisiera abrir una cuenta bancaria."
+  },
+  {
+    "hanzi": "cash",
+    "pinyin": "kash",
+    "es": "efectivo",
+    "level": 3,
+    "ex_zh": "Do you have any cash?",
+    "ex_py": "duu yuu hav E-ni kash",
+    "ex_es": "¿Tenés efectivo?"
+  },
+  {
+    "hanzi": "cashpoint",
+    "pinyin": "KASH-point",
+    "es": "cajero automático",
+    "level": 3,
+    "ex_zh": "There's a cashpoint on the corner.",
+    "ex_py": "dheəz ə KASH-point on dhə KOO-nə",
+    "ex_es": "Hay un cajero en la esquina."
+  },
+  {
+    "hanzi": "debit card",
+    "pinyin": "DE-bit kaad",
+    "es": "tarjeta de débito",
+    "level": 3,
+    "ex_zh": "I always pay with my debit card.",
+    "ex_py": "ai OOL-weiz pei widh mai DE-bit kaad",
+    "ex_es": "Siempre pago con mi tarjeta de débito."
+  },
+  {
+    "hanzi": "contactless",
+    "pinyin": "KON-takt-ləs",
+    "es": "pago sin contacto",
+    "level": 3,
+    "ex_zh": "You can pay contactless.",
+    "ex_py": "yuu kan pei KON-takt-ləs",
+    "ex_es": "Podés pagar sin contacto."
+  },
+  {
+    "hanzi": "mortgage",
+    "pinyin": "MOO-gidj",
+    "es": "hipoteca",
+    "level": 3,
+    "ex_zh": "We pay the mortgage every month.",
+    "ex_py": "wii pei dhə MOO-gidj EV-ri manth",
+    "ex_es": "Pagamos la hipoteca todos los meses."
+  },
+  {
+    "hanzi": "savings",
+    "pinyin": "SEI-vingz",
+    "es": "ahorros",
+    "level": 3,
+    "ex_zh": "I'm putting money into my savings.",
+    "ex_py": "aim PU-ting MA-ni IN-tuu mai SEI-vingz",
+    "ex_es": "Estoy poniendo plata en mis ahorros."
+  },
+  {
+    "hanzi": "loan",
+    "pinyin": "ləun",
+    "es": "préstamo",
+    "level": 3,
+    "ex_zh": "I asked the bank for a loan.",
+    "ex_py": "ai aaskt dhə bangk foo ə ləun",
+    "ex_es": "Le pedí un préstamo al banco."
+  },
+  {
+    "hanzi": "interest",
+    "pinyin": "IN-trəst",
+    "es": "interés (financiero)",
+    "level": 3,
+    "ex_zh": "The interest is very high.",
+    "ex_py": "dhə IN-trəst iz VE-ri hai",
+    "ex_es": "El interés es muy alto."
+  },
+  {
+    "hanzi": "tax",
+    "pinyin": "taks",
+    "es": "impuesto",
+    "level": 3,
+    "ex_zh": "You pay tax on your salary.",
+    "ex_py": "yuu pei taks on yoo SA-lə-ri",
+    "ex_es": "Se paga impuesto sobre el sueldo."
+  },
+  {
+    "hanzi": "quid",
+    "pinyin": "kwid",
+    "es": "libra (coloquial)",
+    "level": 3,
+    "ex_zh": "It costs twenty quid.",
+    "ex_py": "it kosts TWEN-ti kwid",
+    "ex_es": "Cuesta veinte libras."
+  },
+  {
+    "hanzi": "overdraft",
+    "pinyin": "ƏU-və-draaft",
+    "es": "descubierto bancario",
+    "level": 3,
+    "ex_zh": "I'm in my overdraft again.",
+    "ex_py": "aim in mai ƏU-və-draaft ə-GEN",
+    "ex_es": "Otra vez estoy en descubierto."
+  },
+  {
+    "hanzi": "mobile",
+    "pinyin": "MƏU-bail",
+    "es": "celular",
+    "level": 3,
+    "ex_zh": "I left my mobile at home.",
+    "ex_py": "ai left mai MƏU-bail at həum",
+    "ex_es": "Dejé el celular en casa."
+  },
+  {
+    "hanzi": "laptop",
+    "pinyin": "LAP-top",
+    "es": "notebook; computadora portátil",
+    "level": 3,
+    "ex_zh": "My laptop is very slow.",
+    "ex_py": "mai LAP-top iz VE-ri sləu",
+    "ex_es": "Mi notebook es muy lenta."
+  },
+  {
+    "hanzi": "password",
+    "pinyin": "PAAS-wəəd",
+    "es": "contraseña",
+    "level": 3,
+    "ex_zh": "I forgot my password.",
+    "ex_py": "ai fə-GOT mai PAAS-wəəd",
+    "ex_es": "Me olvidé la contraseña."
+  },
+  {
+    "hanzi": "website",
+    "pinyin": "WEB-sait",
+    "es": "sitio web",
+    "level": 3,
+    "ex_zh": "The website is easy to use.",
+    "ex_py": "dhə WEB-sait iz II-zi tuu yuuz",
+    "ex_es": "El sitio web es fácil de usar."
+  },
+  {
+    "hanzi": "download",
+    "pinyin": "DAUN-ləud",
+    "es": "descargar",
+    "level": 3,
+    "ex_zh": "I'll download the app tonight.",
+    "ex_py": "ail DAUN-ləud dhə ap tə-NAIT",
+    "ex_es": "Voy a descargar la aplicación esta noche."
+  },
+  {
+    "hanzi": "app",
+    "pinyin": "ap",
+    "es": "aplicación",
+    "level": 3,
+    "ex_zh": "There's an app for everything.",
+    "ex_py": "dheəz ən ap foo EV-ri-thing",
+    "ex_es": "Hay una aplicación para todo."
+  },
+  {
+    "hanzi": "signal",
+    "pinyin": "SIG-nəl",
+    "es": "señal",
+    "level": 3,
+    "ex_zh": "I've got no signal here.",
+    "ex_py": "aiv got nəu SIG-nəl hiə",
+    "ex_es": "No tengo señal acá."
+  },
+  {
+    "hanzi": "charger",
+    "pinyin": "CHAA-djə",
+    "es": "cargador",
+    "level": 3,
+    "ex_zh": "Have you got a phone charger?",
+    "ex_py": "hav yuu got ə fəun CHAA-djə",
+    "ex_es": "¿Tenés un cargador de celular?"
+  },
+  {
+    "hanzi": "screen",
+    "pinyin": "skriin",
+    "es": "pantalla",
+    "level": 3,
+    "ex_zh": "The screen is broken.",
+    "ex_py": "dhə skriin iz BRƏU-kən",
+    "ex_es": "La pantalla está rota."
+  },
+  {
+    "hanzi": "wi-fi",
+    "pinyin": "WAI-fai",
+    "es": "wifi; red inalámbrica",
+    "level": 3,
+    "ex_zh": "What's the wi-fi password?",
+    "ex_py": "wots dhə wai fai PAAS-wəəd",
+    "ex_es": "¿Cuál es la contraseña del wifi?"
+  },
+  {
+    "hanzi": "text message",
+    "pinyin": "tekst ME-sidj",
+    "es": "mensaje de texto",
+    "level": 3,
+    "ex_zh": "I'll send you a text message.",
+    "ex_py": "ail send yuu ə tekst ME-sidj",
+    "ex_es": "Te mando un mensaje de texto."
+  },
+  {
+    "hanzi": "email",
+    "pinyin": "II-meil",
+    "es": "correo electrónico",
+    "level": 3,
+    "ex_zh": "I'll send you an email.",
+    "ex_py": "ail send yuu ən II-meil",
+    "ex_es": "Te voy a mandar un correo."
+  },
+  {
+    "hanzi": "battery",
+    "pinyin": "BA-tə-ri",
+    "es": "batería",
+    "level": 3,
+    "ex_zh": "My battery is nearly dead.",
+    "ex_py": "mai BA-tə-ri iz NIƏ-li ded",
+    "ex_es": "Mi batería está casi muerta."
+  },
+  {
+    "hanzi": "delay",
+    "pinyin": "di-LEI",
+    "es": "demora; retrasar",
+    "level": 3,
+    "ex_zh": "There's a delay of twenty minutes.",
+    "ex_py": "dheəz ə di-LEI ov TWEN-ti MI-nits",
+    "ex_es": "Hay una demora de veinte minutos."
+  },
+  {
+    "hanzi": "platform",
+    "pinyin": "PLAT-foom",
+    "es": "andén",
+    "level": 3,
+    "ex_zh": "The train leaves from platform four.",
+    "ex_py": "dhə trein liivz from PLAT-foom foo",
+    "ex_es": "El tren sale del andén cuatro."
+  },
+  {
+    "hanzi": "timetable",
+    "pinyin": "TAIM-tei-bəl",
+    "es": "horario (de trenes)",
+    "level": 3,
+    "ex_zh": "Check the timetable online.",
+    "ex_py": "chek dhə TAIM-tei-bəl on-LAIN",
+    "ex_es": "Mirá el horario en línea."
+  },
+  {
+    "hanzi": "return ticket",
+    "pinyin": "ri-TƏƏN TI-kit",
+    "es": "boleto de ida y vuelta",
+    "level": 3,
+    "ex_zh": "A return ticket to York, please.",
+    "ex_py": "ə ri-TƏƏN TI-kit tuu yook pliiz",
+    "ex_es": "Un boleto de ida y vuelta a York, por favor."
+  },
+  {
+    "hanzi": "single",
+    "pinyin": "SING-gəl",
+    "es": "boleto de ida",
+    "level": 3,
+    "ex_zh": "A single to Bristol, please.",
+    "ex_py": "ə SING-gəl tuu BRI-stəl pliiz",
+    "ex_es": "Un boleto de ida a Bristol, por favor."
+  },
+  {
+    "hanzi": "cancellation",
+    "pinyin": "kan-sə-LEI-shən",
+    "es": "cancelación",
+    "level": 3,
+    "ex_zh": "Because of the cancellation, we waited.",
+    "ex_py": "bi-KOZ ov dhə kan-sə-LEI-shən wii WEI-tid",
+    "ex_es": "Por la cancelación, esperamos."
+  },
+  {
+    "hanzi": "railcard",
+    "pinyin": "REIL-kaad",
+    "es": "tarjeta de descuento ferroviario",
+    "level": 3,
+    "ex_zh": "I bought a railcard to save money.",
+    "ex_py": "ai boot ə REIL-kaad tuu seiv MA-ni",
+    "ex_es": "Compré una railcard para ahorrar."
+  },
+  {
+    "hanzi": "season ticket",
+    "pinyin": "SII-zən TI-kit",
+    "es": "abono (de transporte)",
+    "level": 3,
+    "ex_zh": "She has a season ticket for the train.",
+    "ex_py": "shii haz ə SII-zən TI-kit foo dhə trein",
+    "ex_es": "Ella tiene un abono para el tren."
+  },
+  {
+    "hanzi": "rush hour",
+    "pinyin": "rash auə",
+    "es": "hora pico",
+    "level": 3,
+    "ex_zh": "Avoid the rush hour if you can.",
+    "ex_py": "ə-VOID dhə rash auə if yuu kan",
+    "ex_es": "Evitá la hora pico si podés."
+  },
+  {
+    "hanzi": "tube",
+    "pinyin": "tyuub",
+    "es": "subte de Londres",
+    "level": 3,
+    "ex_zh": "I take the tube to work.",
+    "ex_py": "ai teik dhə tyuub tuu wəək",
+    "ex_es": "Voy al trabajo en subte."
+  },
+  {
+    "hanzi": "strike",
+    "pinyin": "straik",
+    "es": "huelga",
+    "level": 3,
+    "ex_zh": "There's a train strike on Monday.",
+    "ex_py": "dheəz ə trein straik on MAN-dei",
+    "ex_es": "El lunes hay una huelga de trenes."
+  },
+  {
+    "hanzi": "engineering works",
+    "pinyin": "en-dji-NIƏ-ring wəəks",
+    "es": "obras en las vías",
+    "level": 3,
+    "ex_zh": "Engineering works close the line.",
+    "ex_py": "en-dji-NIƏ-ring wəəks kləuz dhə lain",
+    "ex_es": "Las obras en las vías cierran la línea."
+  },
+  {
+    "hanzi": "opinion",
+    "pinyin": "ə-PIN-yən",
+    "es": "opinión",
+    "level": 3,
+    "ex_zh": "What's your opinion?",
+    "ex_py": "wots yoo ə-PIN-yən",
+    "ex_es": "¿Cuál es tu opinión?"
+  },
+  {
+    "hanzi": "agree",
+    "pinyin": "ə-GRII",
+    "es": "estar de acuerdo",
+    "level": 3,
+    "ex_zh": "I agree with you.",
+    "ex_py": "ai ə-GRII widh yuu",
+    "ex_es": "Estoy de acuerdo con vos."
+  },
+  {
+    "hanzi": "disagree",
+    "pinyin": "dis-ə-GRII",
+    "es": "no estar de acuerdo",
+    "level": 3,
+    "ex_zh": "I disagree, I'm afraid.",
+    "ex_py": "ai dis-ə-GRII aim ə-FREID",
+    "ex_es": "No estoy de acuerdo, lo lamento."
+  },
+  {
+    "hanzi": "annoyed",
+    "pinyin": "ə-NOID",
+    "es": "molesto; fastidiado",
+    "level": 3,
+    "ex_zh": "I was really annoyed.",
+    "ex_py": "ai woz RIƏ-li ə-NOID",
+    "ex_es": "Estaba muy molesto."
+  },
+  {
+    "hanzi": "worried",
+    "pinyin": "WA-rid",
+    "es": "preocupado",
+    "level": 3,
+    "ex_zh": "She is worried about the exam.",
+    "ex_py": "shii iz WA-rid ə-BAUT dhə ig-ZAM",
+    "ex_es": "Ella está preocupada por el examen."
+  },
+  {
+    "hanzi": "delighted",
+    "pinyin": "di-LAI-tid",
+    "es": "encantado; contentísimo",
+    "level": 3,
+    "ex_zh": "We are delighted to see you.",
+    "ex_py": "wii aa di-LAI-tid tuu sii yuu",
+    "ex_es": "Estamos encantados de verte."
+  },
+  {
+    "hanzi": "fed up",
+    "pinyin": "fed AP",
+    "es": "harto",
+    "level": 3,
+    "ex_zh": "I'm fed up with the rain.",
+    "ex_py": "aim fed ap widh dhə rein",
+    "ex_es": "Estoy harto de la lluvia."
+  },
+  {
+    "hanzi": "I reckon",
+    "pinyin": "ai REK-ən",
+    "es": "yo creo; me parece",
+    "level": 3,
+    "ex_zh": "I reckon it will rain later.",
+    "ex_py": "ai REK-ən it wil rein LEI-tə",
+    "ex_es": "Creo que va a llover más tarde."
+  },
+  {
+    "hanzi": "in my view",
+    "pinyin": "in mai vyuu",
+    "es": "en mi opinión",
+    "level": 3,
+    "ex_zh": "In my view, it's too expensive.",
+    "ex_py": "in mai vyuu its tuu ik-SPEN-siv",
+    "ex_es": "En mi opinión, es demasiado caro."
+  },
+  {
+    "hanzi": "brilliant",
+    "pinyin": "BRIL-yənt",
+    "es": "genial; brillante",
+    "level": 3,
+    "ex_zh": "That's a brilliant idea.",
+    "ex_py": "dhats ə BRIL-yənt ai-DIƏ",
+    "ex_es": "Es una idea genial."
+  },
+  {
+    "hanzi": "gutted",
+    "pinyin": "GA-tid",
+    "es": "destrozado; muy decepcionado",
+    "level": 3,
+    "ex_zh": "I'm absolutely gutted.",
+    "ex_py": "aim AB-sə-luut-li GA-tid",
+    "ex_es": "Estoy realmente destrozado."
+  },
+  {
+    "hanzi": "chuffed",
+    "pinyin": "chaft",
+    "es": "contentísimo",
+    "level": 3,
+    "ex_zh": "I'm chuffed to bits.",
+    "ex_py": "aim chaft tuu bits",
+    "ex_es": "Estoy contentísimo."
+  },
+  {
+    "hanzi": "partner",
+    "pinyin": "PAAT-nə",
+    "es": "pareja",
+    "level": 3,
+    "ex_zh": "My partner is from Bristol.",
+    "ex_py": "mai PAAT-nə iz from BRI-stəl",
+    "ex_es": "Mi pareja es de Bristol."
+  },
+  {
+    "hanzi": "flatmate",
+    "pinyin": "FLAT-meit",
+    "es": "compañero de departamento",
+    "level": 3,
+    "ex_zh": "My flatmate cooks very well.",
+    "ex_py": "mai FLAT-meit kuks VE-ri wel",
+    "ex_es": "Mi compañero de departamento cocina muy bien."
+  },
+  {
+    "hanzi": "mate",
+    "pinyin": "meit",
+    "es": "amigo; compañero",
+    "level": 3,
+    "ex_zh": "He's a good mate.",
+    "ex_py": "hiiz ə gud meit",
+    "ex_es": "Es un buen amigo."
+  },
+  {
+    "hanzi": "get on with",
+    "pinyin": "get on widh",
+    "es": "llevarse bien con",
+    "level": 3,
+    "ex_zh": "I get on well with my boss.",
+    "ex_py": "ai get on wel widh mai bos",
+    "ex_es": "Me llevo bien con mi jefe."
+  },
+  {
+    "hanzi": "fall out",
+    "pinyin": "fool AUT",
+    "es": "pelearse",
+    "level": 3,
+    "ex_zh": "They fell out last year.",
+    "ex_py": "dhei fel aut laast yiə",
+    "ex_es": "Se pelearon el año pasado."
+  },
+  {
+    "hanzi": "hang out",
+    "pinyin": "hang AUT",
+    "es": "pasar el rato",
+    "level": 3,
+    "ex_zh": "We hang out at the weekend.",
+    "ex_py": "wii hang aut at dhə wiik-END",
+    "ex_es": "Pasamos el rato el fin de semana."
+  },
+  {
+    "hanzi": "catch up",
+    "pinyin": "kach AP",
+    "es": "ponerse al día",
+    "level": 3,
+    "ex_zh": "Let's catch up soon.",
+    "ex_py": "lets kach ap suun",
+    "ex_es": "Pongámonos al día pronto."
+  },
+  {
+    "hanzi": "invite",
+    "pinyin": "in-VAIT",
+    "es": "invitar",
+    "level": 3,
+    "ex_zh": "I'll invite everyone to the party.",
+    "ex_py": "ail in-VAIT EV-ri-wan tuu dhə PAA-ti",
+    "ex_es": "Voy a invitar a todos a la fiesta."
+  },
+  {
+    "hanzi": "party",
+    "pinyin": "PAA-ti",
+    "es": "fiesta",
+    "level": 3,
+    "ex_zh": "We're having a party on Saturday.",
+    "ex_py": "wiə HA-ving ə PAA-ti on SA-tə-dei",
+    "ex_es": "El sábado hacemos una fiesta."
+  },
+  {
+    "hanzi": "pub quiz",
+    "pinyin": "pab kwiz",
+    "es": "noche de preguntas en un pub",
+    "level": 3,
+    "ex_zh": "We won the pub quiz!",
+    "ex_py": "wii wan dhə pab kwiz",
+    "ex_es": "¡Ganamos el pub quiz!"
+  },
+  {
+    "hanzi": "round",
+    "pinyin": "raund",
+    "es": "ronda (de bebidas)",
+    "level": 3,
+    "ex_zh": "It's my round.",
+    "ex_py": "its mai raund",
+    "ex_es": "Esta ronda la pago yo."
+  },
+  {
+    "hanzi": "month",
+    "pinyin": "manth",
+    "es": "mes",
+    "level": 3,
+    "ex_zh": "The course lasts three months.",
+    "ex_py": "dhə koos laasts thrii manths",
+    "ex_es": "El curso dura tres meses."
+  },
+  {
+    "hanzi": "year",
+    "pinyin": "yiə",
+    "es": "año",
+    "level": 3,
+    "ex_zh": "I've lived here for ten years.",
+    "ex_py": "aiv livd hiə foo ten yiəz",
+    "ex_es": "Hace diez años que vivo acá."
+  },
+  {
+    "hanzi": "fortnight",
+    "pinyin": "FOOT-nait",
+    "es": "quincena; dos semanas",
+    "level": 3,
+    "ex_zh": "I'm on holiday for a fortnight.",
+    "ex_py": "aim on HO-lə-dei foo ə FOOT-nait",
+    "ex_es": "Estoy de vacaciones por dos semanas."
+  },
+  {
+    "hanzi": "birthday",
+    "pinyin": "BƏƏTH-dei",
+    "es": "cumpleaños",
+    "level": 3,
+    "ex_zh": "Happy birthday!",
+    "ex_py": "HA-pi BƏƏTH-dei",
+    "ex_es": "¡Feliz cumpleaños!"
+  },
+  {
+    "hanzi": "bank holiday",
+    "pinyin": "bangk HO-lə-dei",
+    "es": "feriado nacional",
+    "level": 3,
+    "ex_zh": "Monday is a bank holiday.",
+    "ex_py": "MAN-dei iz ə bangk HO-lə-dei",
+    "ex_es": "El lunes es feriado."
+  },
+  {
+    "hanzi": "Christmas",
+    "pinyin": "KRIS-məs",
+    "es": "Navidad",
+    "level": 3,
+    "ex_zh": "We spend Christmas with my gran.",
+    "ex_py": "wii spend KRIS-məs widh mai gran",
+    "ex_es": "Pasamos la Navidad con mi abuela."
+  },
+  {
+    "hanzi": "Easter",
+    "pinyin": "II-stə",
+    "es": "Pascua",
+    "level": 3,
+    "ex_zh": "At Easter we eat chocolate eggs.",
+    "ex_py": "at II-stə wii iit CHOK-lit egz",
+    "ex_es": "En Pascua comemos huevos de chocolate."
+  },
+  {
+    "hanzi": "New Year",
+    "pinyin": "nyuu YIƏ",
+    "es": "Año Nuevo",
+    "level": 3,
+    "ex_zh": "Happy New Year!",
+    "ex_py": "HA-pi nyuu yiə",
+    "ex_es": "¡Feliz Año Nuevo!"
+  },
+  {
+    "hanzi": "Bonfire Night",
+    "pinyin": "BON-faiə nait",
+    "es": "Noche de las Hogueras (5 de noviembre)",
+    "level": 3,
+    "ex_zh": "We watch fireworks on Bonfire Night.",
+    "ex_py": "wii woch FAIƏ-wəəks on BON-faiə nait",
+    "ex_es": "Vemos fuegos artificiales en la Noche de las Hogueras."
+  },
+  {
+    "hanzi": "Boxing Day",
+    "pinyin": "BOK-sing dei",
+    "es": "26 de diciembre (feriado)",
+    "level": 3,
+    "ex_zh": "Boxing Day is the day after Christmas.",
+    "ex_py": "BOK-sing dei iz dhə dei AAF-tə KRIS-məs",
+    "ex_es": "Boxing Day es el día después de Navidad."
+  },
+  {
+    "hanzi": "calendar",
+    "pinyin": "KA-lən-də",
+    "es": "calendario",
+    "level": 3,
+    "ex_zh": "Look at the calendar, please.",
+    "ex_py": "luk at dhə KA-lən-də pliiz",
+    "ex_es": "Mirá el calendario, por favor."
+  },
+  {
+    "hanzi": "Pancake Day",
+    "pinyin": "PAN-keik dei",
+    "es": "martes de carnaval (de las tortitas)",
+    "level": 3,
+    "ex_zh": "On Pancake Day we eat pancakes.",
+    "ex_py": "on PAN-keik dei wii iit PAN-keiks",
+    "ex_es": "En el Pancake Day comemos panqueques."
+  },
+  {
+    "hanzi": "pollution",
+    "pinyin": "pə-LUU-shən",
+    "es": "contaminación",
+    "level": 3,
+    "ex_zh": "Pollution is a problem in big cities.",
+    "ex_py": "pə-LUU-shən iz ə PRO-bləm in big SI-tiz",
+    "ex_es": "La contaminación es un problema en las grandes ciudades."
+  },
+  {
+    "hanzi": "recycling",
+    "pinyin": "rii-SAI-kling",
+    "es": "reciclaje",
+    "level": 3,
+    "ex_zh": "Recycling is compulsory in my area.",
+    "ex_py": "rii-SAI-kling iz kəm-PAL-sə-ri in mai EƏ-ri-ə",
+    "ex_es": "El reciclaje es obligatorio en mi zona."
+  },
+  {
+    "hanzi": "climate",
+    "pinyin": "KLAI-mit",
+    "es": "clima (a largo plazo)",
+    "level": 3,
+    "ex_zh": "The climate is changing fast.",
+    "ex_py": "dhə KLAI-mit iz CHEIN-djing faast",
+    "ex_es": "El clima está cambiando rápido."
+  },
+  {
+    "hanzi": "energy",
+    "pinyin": "E-nə-dji",
+    "es": "energía",
+    "level": 3,
+    "ex_zh": "We use solar energy at home.",
+    "ex_py": "wii yuuz SƏU-lə E-nə-dji at həum",
+    "ex_es": "Usamos energía solar en casa."
+  },
+  {
+    "hanzi": "wildlife",
+    "pinyin": "WAILD-laif",
+    "es": "fauna silvestre",
+    "level": 3,
+    "ex_zh": "The park is full of wildlife.",
+    "ex_py": "dhə paak iz ful ov WAILD-laif",
+    "ex_es": "El parque está lleno de fauna silvestre."
+  },
+  {
+    "hanzi": "countryside",
+    "pinyin": "KAN-tri-said",
+    "es": "campo; zona rural",
+    "level": 3,
+    "ex_zh": "I love walking in the countryside.",
+    "ex_py": "ai lav WOO-king in dhə KAN-tri-said",
+    "ex_es": "Me encanta caminar por el campo."
+  },
+  {
+    "hanzi": "flood",
+    "pinyin": "flad",
+    "es": "inundación",
+    "level": 3,
+    "ex_zh": "There was a flood last winter.",
+    "ex_py": "dheə woz ə flad laast WIN-tə",
+    "ex_es": "Hubo una inundación el invierno pasado."
+  },
+  {
+    "hanzi": "global warming",
+    "pinyin": "GLƏU-bəl WOO-ming",
+    "es": "calentamiento global",
+    "level": 3,
+    "ex_zh": "Global warming is a serious issue.",
+    "ex_py": "GLƏU-bəl WOO-ming iz ə SIƏ-ri-əs I-shuu",
+    "ex_es": "El calentamiento global es un tema serio."
+  },
+  {
+    "hanzi": "carbon",
+    "pinyin": "KAA-bən",
+    "es": "carbono",
+    "level": 3,
+    "ex_zh": "We need to cut carbon emissions.",
+    "ex_py": "wii niid tuu kat KAA-bən i-MI-shənz",
+    "ex_es": "Tenemos que reducir las emisiones de carbono."
+  },
+  {
+    "hanzi": "plastic",
+    "pinyin": "PLA-stik",
+    "es": "plástico",
+    "level": 3,
+    "ex_zh": "Plastic bags now cost money.",
+    "ex_py": "PLA-stik bagz nau kost MA-ni",
+    "ex_es": "Las bolsas de plástico ahora se pagan."
+  },
+  {
+    "hanzi": "sustainable",
+    "pinyin": "sə-STEI-nə-bəl",
+    "es": "sostenible",
+    "level": 3,
+    "ex_zh": "We want a sustainable future.",
+    "ex_py": "wii wont ə sə-STEI-nə-bəl FYUU-chə",
+    "ex_es": "Queremos un futuro sostenible."
+  },
+  {
+    "hanzi": "public transport",
+    "pinyin": "PA-blik TRANS-poot",
+    "es": "transporte público",
+    "level": 3,
+    "ex_zh": "I use public transport every day.",
+    "ex_py": "ai yuuz PA-blik TRANS-poot EV-ri dei",
+    "ex_es": "Uso el transporte público todos los días."
+  },
+  {
+    "hanzi": "newspaper",
+    "pinyin": "NYUUZ-pei-pə",
+    "es": "diario; periódico",
+    "level": 3,
+    "ex_zh": "I read the newspaper every morning.",
+    "ex_py": "ai riid dhə NYUUZ-pei-pə EV-ri MOO-ning",
+    "ex_es": "Leo el diario todas las mañanas."
+  },
+  {
+    "hanzi": "headline",
+    "pinyin": "HED-lain",
+    "es": "titular",
+    "level": 3,
+    "ex_zh": "The headline was shocking.",
+    "ex_py": "dhə HED-lain woz SHO-king",
+    "ex_es": "El titular fue impactante."
+  },
+  {
+    "hanzi": "broadcast",
+    "pinyin": "BROOD-kaast",
+    "es": "transmisión; transmitir",
+    "level": 3,
+    "ex_zh": "The match is broadcast live.",
+    "ex_py": "dhə mach iz BROOD-kaast liv",
+    "ex_es": "El partido se transmite en vivo."
+  },
+  {
+    "hanzi": "BBC",
+    "pinyin": "bii-bii-SII",
+    "es": "BBC (televisión pública británica)",
+    "level": 3,
+    "ex_zh": "I watch the BBC news.",
+    "ex_py": "ai woch dhə bii-bii-SII nyuuz",
+    "ex_es": "Miro las noticias de la BBC."
+  },
+  {
+    "hanzi": "channel",
+    "pinyin": "CHA-nəl",
+    "es": "canal",
+    "level": 3,
+    "ex_zh": "Which channel is the match on?",
+    "ex_py": "wich CHA-nəl iz dhə mach on",
+    "ex_es": "¿En qué canal está el partido?"
+  },
+  {
+    "hanzi": "programme",
+    "pinyin": "PRƏU-gram",
+    "es": "programa",
+    "level": 3,
+    "ex_zh": "That's my favourite programme.",
+    "ex_py": "dhats mai FEI-və-rit PRƏU-gram",
+    "ex_es": "Ese es mi programa favorito."
+  },
+  {
+    "hanzi": "journalist",
+    "pinyin": "DJƏƏ-nə-list",
+    "es": "periodista",
+    "level": 3,
+    "ex_zh": "She works as a journalist.",
+    "ex_py": "shii wəəks az ə DJƏƏ-nə-list",
+    "ex_es": "Trabaja como periodista."
+  },
+  {
+    "hanzi": "tabloid",
+    "pinyin": "TA-bloid",
+    "es": "diario sensacionalista",
+    "level": 3,
+    "ex_zh": "Tabloids love scandals.",
+    "ex_py": "TA-bloidz lav SKAN-dəlz",
+    "ex_es": "Los tabloides aman los escándalos."
+  },
+  {
+    "hanzi": "documentary",
+    "pinyin": "dok-yə-MEN-tə-ri",
+    "es": "documental",
+    "level": 3,
+    "ex_zh": "We watched a documentary about whales.",
+    "ex_py": "wii wocht ə dok-yə-MEN-tə-ri ə-BAUT weilz",
+    "ex_es": "Vimos un documental sobre ballenas."
+  },
+  {
+    "hanzi": "soap opera",
+    "pinyin": "səup O-prə",
+    "es": "telenovela",
+    "level": 3,
+    "ex_zh": "My gran loves soap operas.",
+    "ex_py": "mai gran lavz səup O-prəz",
+    "ex_es": "A mi abuela le encantan las telenovelas."
+  },
+  {
+    "hanzi": "reporter",
+    "pinyin": "ri-POO-tə",
+    "es": "reportero; cronista",
+    "level": 3,
+    "ex_zh": "The reporter asked a question.",
+    "ex_py": "dhə ri-POO-tə aaskt ə KWES-chən",
+    "ex_es": "El reportero hizo una pregunta."
+  },
+  {
+    "hanzi": "breaking news",
+    "pinyin": "BREI-king nyuuz",
+    "es": "noticias de último momento",
+    "level": 3,
+    "ex_zh": "Breaking news: the train is late.",
+    "ex_py": "BREI-king nyuuz dhə trein iz leit",
+    "ex_es": "Última hora: el tren llega tarde."
+  },
+  {
+    "hanzi": "diet",
+    "pinyin": "DAI-ət",
+    "es": "dieta; alimentación",
+    "level": 3,
+    "ex_zh": "I'm on a healthy diet.",
+    "ex_py": "aim on ə HEL-thi DAI-ət",
+    "ex_es": "Estoy en una dieta saludable."
+  },
+  {
+    "hanzi": "exercise",
+    "pinyin": "EK-sə-saiz",
+    "es": "ejercicio",
+    "level": 3,
+    "ex_zh": "Exercise is good for you.",
+    "ex_py": "EK-sə-saiz iz gud foo yuu",
+    "ex_es": "El ejercicio te hace bien."
+  },
+  {
+    "hanzi": "stress",
+    "pinyin": "stres",
+    "es": "estrés",
+    "level": 3,
+    "ex_zh": "I'm under a lot of stress.",
+    "ex_py": "aim AN-də ə lot ov stres",
+    "ex_es": "Estoy con mucho estrés."
+  },
+  {
+    "hanzi": "healthy",
+    "pinyin": "HEL-thi",
+    "es": "saludable; sano",
+    "level": 3,
+    "ex_zh": "Fruit is healthy.",
+    "ex_py": "fruut iz HEL-thi",
+    "ex_es": "La fruta es saludable."
+  },
+  {
+    "hanzi": "balanced",
+    "pinyin": "BA-lənst",
+    "es": "equilibrado",
+    "level": 3,
+    "ex_zh": "Try to eat a balanced diet.",
+    "ex_py": "trai tuu iit ə BA-lənst DAI-ət",
+    "ex_es": "Tratá de comer de manera equilibrada."
+  },
+  {
+    "hanzi": "vitamin",
+    "pinyin": "VI-tə-min",
+    "es": "vitamina",
+    "level": 3,
+    "ex_zh": "I take a vitamin every day.",
+    "ex_py": "ai teik ə VI-tə-min EV-ri dei",
+    "ex_es": "Tomo una vitamina todos los días."
+  },
+  {
+    "hanzi": "A&E",
+    "pinyin": "ei ənd II",
+    "es": "guardia de emergencias",
+    "level": 3,
+    "ex_zh": "He was taken to A&E.",
+    "ex_py": "hii woz TEI-kən tuu ə ii",
+    "ex_es": "Lo llevaron a la guardia."
+  },
+  {
+    "hanzi": "ambulance",
+    "pinyin": "AM-byə-ləns",
+    "es": "ambulancia",
+    "level": 3,
+    "ex_zh": "Call an ambulance, quick!",
+    "ex_py": "kool ən AM-byə-ləns kwik",
+    "ex_es": "¡Llamá a una ambulancia, rápido!"
+  },
+  {
+    "hanzi": "waiting list",
+    "pinyin": "WEI-ting list",
+    "es": "lista de espera",
+    "level": 3,
+    "ex_zh": "The waiting list is very long.",
+    "ex_py": "dhə WEI-ting list iz VE-ri long",
+    "ex_es": "La lista de espera es muy larga."
+  },
+  {
+    "hanzi": "surgery",
+    "pinyin": "SƏƏ-dji-ri",
+    "es": "consultorio; cirugía",
+    "level": 3,
+    "ex_zh": "I have an appointment at the surgery.",
+    "ex_py": "ai hav ən ə-POINT-mənt at dhə SƏƏ-dji-ri",
+    "ex_es": "Tengo un turno en el consultorio."
+  },
+  {
+    "hanzi": "blood pressure",
+    "pinyin": "blad PRE-shə",
+    "es": "presión arterial",
+    "level": 3,
+    "ex_zh": "My blood pressure is high.",
+    "ex_py": "mai blad PRE-shə iz hai",
+    "ex_es": "Mi presión arterial es alta."
+  },
+  {
+    "hanzi": "side effect",
+    "pinyin": "said i-FEKT",
+    "es": "efecto secundario",
+    "level": 3,
+    "ex_zh": "This medicine has a side effect.",
+    "ex_py": "dhis ME-di-sin haz ə said i-FEKT",
+    "ex_es": "Este medicamento tiene un efecto secundario."
+  },
+  {
+    "hanzi": "however",
+    "pinyin": "hau-E-və",
+    "es": "sin embargo",
+    "level": 3,
+    "ex_zh": "It was cold. However, we enjoyed it.",
+    "ex_py": "it woz kəuld hau-E-və wii in-DJOID it",
+    "ex_es": "Hacía frío. Sin embargo, lo disfrutamos."
+  },
+  {
+    "hanzi": "although",
+    "pinyin": "oo-DHƏU",
+    "es": "aunque",
+    "level": 3,
+    "ex_zh": "Although it rained, we had fun.",
+    "ex_py": "oo-DHƏU it reind wii had fan",
+    "ex_es": "Aunque llovió, nos divertimos."
+  },
+  {
+    "hanzi": "therefore",
+    "pinyin": "DHEƏ-foo",
+    "es": "por lo tanto",
+    "level": 3,
+    "ex_zh": "It's late; therefore, we should go.",
+    "ex_py": "its leit DHEƏ-foo wii shud gəu",
+    "ex_es": "Es tarde; por lo tanto, deberíamos irnos."
+  },
+  {
+    "hanzi": "meanwhile",
+    "pinyin": "MIIN-wail",
+    "es": "mientras tanto",
+    "level": 3,
+    "ex_zh": "Meanwhile, I'll make dinner.",
+    "ex_py": "MIIN-wail ail meik DI-nə",
+    "ex_es": "Mientras tanto, voy a preparar la cena."
+  },
+  {
+    "hanzi": "in fact",
+    "pinyin": "in FAKT",
+    "es": "de hecho",
+    "level": 3,
+    "ex_zh": "In fact, I've been there twice.",
+    "ex_py": "in fakt aiv biin dheə twais",
+    "ex_es": "De hecho, estuve ahí dos veces."
+  },
+  {
+    "hanzi": "as a result",
+    "pinyin": "az ə ri-ZALT",
+    "es": "como resultado",
+    "level": 3,
+    "ex_zh": "As a result, the train was late.",
+    "ex_py": "az ə ri-ZALT dhə trein woz leit",
+    "ex_es": "Como resultado, el tren llegó tarde."
+  },
+  {
+    "hanzi": "on the other hand",
+    "pinyin": "on dhi A-dhə hand",
+    "es": "por otro lado",
+    "level": 3,
+    "ex_zh": "On the other hand, it's cheaper.",
+    "ex_py": "on dhə A-dhə hand its CHII-pə",
+    "ex_es": "Por otro lado, es más barato."
+  },
+  {
+    "hanzi": "besides",
+    "pinyin": "bi-SAIDZ",
+    "es": "además; por otra parte",
+    "level": 3,
+    "ex_zh": "Besides, it's too far.",
+    "ex_py": "bi-SAIDZ its tuu faa",
+    "ex_es": "Además, queda muy lejos."
+  },
+  {
+    "hanzi": "firstly",
+    "pinyin": "FƏƏST-li",
+    "es": "en primer lugar",
+    "level": 3,
+    "ex_zh": "Firstly, let me introduce myself.",
+    "ex_py": "FƏƏST-li let mii in-trə-DYUUS mai-SELF",
+    "ex_es": "En primer lugar, déjenme presentarme."
+  },
+  {
+    "hanzi": "finally",
+    "pinyin": "FAI-nə-li",
+    "es": "por último; finalmente",
+    "level": 3,
+    "ex_zh": "Finally, I'd like to thank you.",
+    "ex_py": "FAI-nə-li aid laik tuu thangk yuu",
+    "ex_es": "Por último, quisiera agradecerles."
+  },
+  {
+    "hanzi": "for example",
+    "pinyin": "fər ig-ZAAM-pəl",
+    "es": "por ejemplo",
+    "level": 3,
+    "ex_zh": "For example, I like cricket.",
+    "ex_py": "foo ig-ZAAM-pəl ai laik KRI-kit",
+    "ex_es": "Por ejemplo, me gusta el críquet."
+  },
+  {
+    "hanzi": "in addition",
+    "pinyin": "in ə-DI-shən",
+    "es": "además",
+    "level": 3,
+    "ex_zh": "In addition, we offer free delivery.",
+    "ex_py": "in ə-DI-shən wii O-fə frii di-LI-və-ri",
+    "ex_es": "Además, ofrecemos envío gratis."
+  },
+  {
+    "hanzi": "Parliament",
+    "pinyin": "PAA-lə-mənt",
+    "es": "parlamento",
+    "level": 4,
+    "ex_zh": "Parliament meets in Westminster.",
+    "ex_py": "PAA-lə-mənt miits in WEST-min-stə",
+    "ex_es": "El parlamento se reúne en Westminster."
+  },
+  {
+    "hanzi": "Prime Minister",
+    "pinyin": "praim MI-ni-stə",
+    "es": "primer ministro",
+    "level": 4,
+    "ex_zh": "The Prime Minister gave a speech.",
+    "ex_py": "dhə praim MI-ni-stə geiv ə spiich",
+    "ex_es": "El primer ministro dio un discurso."
+  },
+  {
+    "hanzi": "government",
+    "pinyin": "GA-vən-mənt",
+    "es": "gobierno",
+    "level": 4,
+    "ex_zh": "The government plans new taxes.",
+    "ex_py": "dhə GA-vən-mənt planz nyuu TAK-siz",
+    "ex_es": "El gobierno planea nuevos impuestos."
+  },
+  {
+    "hanzi": "constituency",
+    "pinyin": "kən-STI-chuən-si",
+    "es": "distrito electoral",
+    "level": 4,
+    "ex_zh": "She represents a constituency in Kent.",
+    "ex_py": "shii re-pri-ZENTS ə kən-STI-chuən-si in kent",
+    "ex_es": "Ella representa un distrito electoral en Kent."
+  },
+  {
+    "hanzi": "opposition",
+    "pinyin": "o-pə-ZI-shən",
+    "es": "oposición",
+    "level": 4,
+    "ex_zh": "The opposition voted against it.",
+    "ex_py": "dhə o-pə-ZI-shən VƏU-tid ə-GENST it",
+    "ex_es": "La oposición votó en contra."
+  },
+  {
+    "hanzi": "cabinet",
+    "pinyin": "KA-bi-nit",
+    "es": "gabinete",
+    "level": 4,
+    "ex_zh": "The cabinet met on Tuesday.",
+    "ex_py": "dhə KA-bi-nit met on TYUUZ-dei",
+    "ex_es": "El gabinete se reunió el martes."
+  },
+  {
+    "hanzi": "manifesto",
+    "pinyin": "ma-ni-FE-stəu",
+    "es": "plataforma electoral",
+    "level": 4,
+    "ex_zh": "Their manifesto promises more hospitals.",
+    "ex_py": "dheə ma-ni-FE-stəu PRO-mi-siz moo HOS-pi-təlz",
+    "ex_es": "Su plataforma promete más hospitales."
+  },
+  {
+    "hanzi": "referendum",
+    "pinyin": "re-fə-REN-dəm",
+    "es": "referéndum",
+    "level": 4,
+    "ex_zh": "There was a referendum in 2016.",
+    "ex_py": "dheə woz ə re-fə-REN-dəm in",
+    "ex_es": "Hubo un referéndum en 2016."
+  },
+  {
+    "hanzi": "Brexit",
+    "pinyin": "BREK-sit",
+    "es": "Brexit",
+    "level": 4,
+    "ex_zh": "Brexit changed trade rules.",
+    "ex_py": "BREK-sit cheindjd treid ruulz",
+    "ex_es": "El Brexit cambió las reglas de comercio."
+  },
+  {
+    "hanzi": "devolution",
+    "pinyin": "dii-və-LUU-shən",
+    "es": "traspaso de poderes",
+    "level": 4,
+    "ex_zh": "Devolution gave Scotland its own parliament.",
+    "ex_py": "dii-və-LUU-shən geiv SKOT-lənd its əun PAA-lə-mənt",
+    "ex_es": "El traspaso de poderes le dio a Escocia su propio parlamento."
+  },
+  {
+    "hanzi": "MP",
+    "pinyin": "em-PII",
+    "es": "diputado; miembro del Parlamento",
+    "level": 4,
+    "ex_zh": "My MP is holding a surgery on Friday.",
+    "ex_py": "mai em-PII iz HƏUL-ding ə SƏƏ-dji-ri on FRAI-dei",
+    "ex_es": "Mi diputado atiende al público el viernes."
+  },
+  {
+    "hanzi": "election",
+    "pinyin": "i-LEK-shən",
+    "es": "elección",
+    "level": 4,
+    "ex_zh": "The election is next May.",
+    "ex_py": "dhə i-LEK-shən iz nekst mei",
+    "ex_es": "La elección es el próximo mayo."
+  },
+  {
+    "hanzi": "inflation",
+    "pinyin": "in-FLEI-shən",
+    "es": "inflación",
+    "level": 4,
+    "ex_zh": "Inflation is rising again.",
+    "ex_py": "in-FLEI-shən iz RAI-zing ə-GEN",
+    "ex_es": "La inflación vuelve a subir."
+  },
+  {
+    "hanzi": "economy",
+    "pinyin": "i-KO-nə-mi",
+    "es": "economía",
+    "level": 4,
+    "ex_zh": "The economy grew by two per cent.",
+    "ex_py": "dhə i-KO-nə-mi gruu bai tuu pə sent",
+    "ex_es": "La economía creció un dos por ciento."
+  },
+  {
+    "hanzi": "profit",
+    "pinyin": "PRO-fit",
+    "es": "ganancia; beneficio",
+    "level": 4,
+    "ex_zh": "The company made a big profit.",
+    "ex_py": "dhə KAM-pə-ni meid ə big PRO-fit",
+    "ex_es": "La empresa tuvo una gran ganancia."
+  },
+  {
+    "hanzi": "company",
+    "pinyin": "KAM-pə-ni",
+    "es": "empresa; compañía",
+    "level": 4,
+    "ex_zh": "She runs a small company.",
+    "ex_py": "shii ranz ə smool KAM-pə-ni",
+    "ex_es": "Dirige una empresa chica."
+  },
+  {
+    "hanzi": "shareholder",
+    "pinyin": "SHEƏ-həul-də",
+    "es": "accionista",
+    "level": 4,
+    "ex_zh": "The shareholders voted yesterday.",
+    "ex_py": "dhə SHEƏ-həul-dəz VƏU-tid YES-tə-dei",
+    "ex_es": "Los accionistas votaron ayer."
+  },
+  {
+    "hanzi": "recession",
+    "pinyin": "ri-SE-shən",
+    "es": "recesión",
+    "level": 4,
+    "ex_zh": "The country is in a recession.",
+    "ex_py": "dhə KAN-tri iz in ə ri-SE-shən",
+    "ex_es": "El país está en recesión."
+  },
+  {
+    "hanzi": "budget",
+    "pinyin": "BA-djit",
+    "es": "presupuesto",
+    "level": 4,
+    "ex_zh": "The government announced its budget.",
+    "ex_py": "dhə GA-vən-mənt ə-NAUNST its BA-djit",
+    "ex_es": "El gobierno anunció su presupuesto."
+  },
+  {
+    "hanzi": "unemployment",
+    "pinyin": "an-im-PLOI-mənt",
+    "es": "desempleo",
+    "level": 4,
+    "ex_zh": "Unemployment is falling slowly.",
+    "ex_py": "an-im-PLOI-mənt iz FOO-ling SLƏU-li",
+    "ex_es": "El desempleo baja lentamente."
+  },
+  {
+    "hanzi": "export",
+    "pinyin": "EK-spoot",
+    "es": "exportar; exportación",
+    "level": 4,
+    "ex_zh": "Britain exports cars and medicine.",
+    "ex_py": "BRI-tən EK-spoots kaaz and ME-di-sin",
+    "ex_es": "Gran Bretaña exporta autos y medicamentos."
+  },
+  {
+    "hanzi": "supply chain",
+    "pinyin": "sə-PLAI chein",
+    "es": "cadena de suministro",
+    "level": 4,
+    "ex_zh": "The supply chain was disrupted.",
+    "ex_py": "dhə sə-PLAI chein woz dis-RAP-tid",
+    "ex_es": "La cadena de suministro se vio alterada."
+  },
+  {
+    "hanzi": "start-up",
+    "pinyin": "STAAT-ap",
+    "es": "empresa emergente",
+    "level": 4,
+    "ex_zh": "He founded a start-up in Bristol.",
+    "ex_py": "hii FAUN-did ə staat ap in BRI-stəl",
+    "ex_es": "Fundó una empresa emergente en Bristol."
+  },
+  {
+    "hanzi": "cost of living",
+    "pinyin": "kost əv LI-ving",
+    "es": "costo de vida",
+    "level": 4,
+    "ex_zh": "The cost of living is a worry for everyone.",
+    "ex_py": "dhə kost ov LI-ving iz ə WA-ri foo EV-ri-wan",
+    "ex_es": "El costo de vida es una preocupación para todos."
+  },
+  {
+    "hanzi": "research",
+    "pinyin": "ri-SƏƏCH",
+    "es": "investigación; investigar",
+    "level": 4,
+    "ex_zh": "She does research at Cambridge.",
+    "ex_py": "shii daz ri-SƏƏCH at KEIM-bridj",
+    "ex_es": "Hace investigación en Cambridge."
+  },
+  {
+    "hanzi": "experiment",
+    "pinyin": "ik-SPE-ri-mənt",
+    "es": "experimento",
+    "level": 4,
+    "ex_zh": "The experiment failed twice.",
+    "ex_py": "dhə ik-SPE-ri-mənt feild twais",
+    "ex_es": "El experimento falló dos veces."
+  },
+  {
+    "hanzi": "evidence",
+    "pinyin": "E-vi-dəns",
+    "es": "pruebas; evidencia",
+    "level": 4,
+    "ex_zh": "There is no evidence for that.",
+    "ex_py": "dheə iz nəu E-vi-dəns foo dhat",
+    "ex_es": "No hay pruebas de eso."
+  },
+  {
+    "hanzi": "theory",
+    "pinyin": "THIƏ-ri",
+    "es": "teoría",
+    "level": 4,
+    "ex_zh": "It's only a theory.",
+    "ex_py": "its ƏUN-li ə THIƏ-ri",
+    "ex_es": "Es solo una teoría."
+  },
+  {
+    "hanzi": "breakthrough",
+    "pinyin": "BREIK-throo",
+    "es": "avance decisivo",
+    "level": 4,
+    "ex_zh": "It was a major breakthrough.",
+    "ex_py": "it woz ə MEI-djə BREIK-throo",
+    "ex_es": "Fue un gran avance."
+  },
+  {
+    "hanzi": "laboratory",
+    "pinyin": "lə-BO-rə-tə-ri",
+    "es": "laboratorio",
+    "level": 4,
+    "ex_zh": "The laboratory is very modern.",
+    "ex_py": "dhə lə-BO-rə-tə-ri iz VE-ri MO-dən",
+    "ex_es": "El laboratorio es muy moderno."
+  },
+  {
+    "hanzi": "vaccine",
+    "pinyin": "VAK-siin",
+    "es": "vacuna",
+    "level": 4,
+    "ex_zh": "The vaccine was developed in Oxford.",
+    "ex_py": "dhə VAK-siin woz di-VE-ləpt in OKS-fəd",
+    "ex_es": "La vacuna fue desarrollada en Oxford."
+  },
+  {
+    "hanzi": "data",
+    "pinyin": "DEI-tə",
+    "es": "datos",
+    "level": 4,
+    "ex_zh": "We need more data.",
+    "ex_py": "wii niid moo DEI-tə",
+    "ex_es": "Necesitamos más datos."
+  },
+  {
+    "hanzi": "hypothesis",
+    "pinyin": "hai-PO-thə-sis",
+    "es": "hipótesis",
+    "level": 4,
+    "ex_zh": "The data supports the hypothesis.",
+    "ex_py": "dhə DEI-tə sə-POOTS dhə hai-PO-thə-sis",
+    "ex_es": "Los datos respaldan la hipótesis."
+  },
+  {
+    "hanzi": "peer review",
+    "pinyin": "piə ri-VYUU",
+    "es": "revisión por pares",
+    "level": 4,
+    "ex_zh": "The article is under peer review.",
+    "ex_py": "dhə AA-ti-kəl iz AN-də piə ri-VYUU",
+    "ex_es": "El artículo está en revisión por pares."
+  },
+  {
+    "hanzi": "discovery",
+    "pinyin": "dis-KA-və-ri",
+    "es": "descubrimiento",
+    "level": 4,
+    "ex_zh": "It was an important discovery.",
+    "ex_py": "it woz ən im-POO-tənt dis-KA-və-ri",
+    "ex_es": "Fue un descubrimiento importante."
+  },
+  {
+    "hanzi": "scientist",
+    "pinyin": "SAI-ən-tist",
+    "es": "científico; científica",
+    "level": 4,
+    "ex_zh": "My aunt is a scientist.",
+    "ex_py": "mai aant iz ə SAI-ən-tist",
+    "ex_es": "Mi tía es científica."
+  },
+  {
+    "hanzi": "novel",
+    "pinyin": "NO-vəl",
+    "es": "novela",
+    "level": 4,
+    "ex_zh": "I'm reading a novel by Dickens.",
+    "ex_py": "aim RII-ding ə NO-vəl bai DI-kinz",
+    "ex_es": "Estoy leyendo una novela de Dickens."
+  },
+  {
+    "hanzi": "playwright",
+    "pinyin": "PLEI-rait",
+    "es": "dramaturgo",
+    "level": 4,
+    "ex_zh": "Shakespeare is the most famous playwright.",
+    "ex_py": "SHEIK-spiə iz dhə məust FEI-məs PLEI-rait",
+    "ex_es": "Shakespeare es el dramaturgo más famoso."
+  },
+  {
+    "hanzi": "poet",
+    "pinyin": "PƏU-it",
+    "es": "poeta",
+    "level": 4,
+    "ex_zh": "Wordsworth was a famous poet.",
+    "ex_py": "WƏƏDZ-wəəth woz ə FEI-məs PƏU-it",
+    "ex_es": "Wordsworth fue un poeta famoso."
+  },
+  {
+    "hanzi": "theatre",
+    "pinyin": "THIƏ-tə",
+    "es": "teatro",
+    "level": 4,
+    "ex_zh": "We went to the theatre last night.",
+    "ex_py": "wii went tuu dhə THIƏ-tə laast nait",
+    "ex_es": "Anoche fuimos al teatro."
+  },
+  {
+    "hanzi": "gallery",
+    "pinyin": "GA-lə-ri",
+    "es": "galería de arte",
+    "level": 4,
+    "ex_zh": "The gallery is free on Sundays.",
+    "ex_py": "dhə GA-lə-ri iz frii on SAN-deiz",
+    "ex_es": "La galería es gratuita los domingos."
+  },
+  {
+    "hanzi": "exhibition",
+    "pinyin": "ek-si-BI-shən",
+    "es": "exposición; muestra",
+    "level": 4,
+    "ex_zh": "The exhibition ends next week.",
+    "ex_py": "dhə ek-si-BI-shən endz nekst wiik",
+    "ex_es": "La muestra termina la semana que viene."
+  },
+  {
+    "hanzi": "bestseller",
+    "pinyin": "best-SE-lə",
+    "es": "éxito de ventas",
+    "level": 4,
+    "ex_zh": "Her new book is a bestseller.",
+    "ex_py": "həə nyuu buk iz ə best-SE-lə",
+    "ex_es": "Su nuevo libro es un éxito de ventas."
+  },
+  {
+    "hanzi": "stage",
+    "pinyin": "steidj",
+    "es": "escenario",
+    "level": 4,
+    "ex_zh": "The actors came on stage.",
+    "ex_py": "dhə AK-təz keim on steidj",
+    "ex_es": "Los actores salieron al escenario."
+  },
+  {
+    "hanzi": "review",
+    "pinyin": "ri-VYUU",
+    "es": "reseña; crítica",
+    "level": 4,
+    "ex_zh": "The review was excellent.",
+    "ex_py": "dhə ri-VYUU woz EK-sə-lənt",
+    "ex_es": "La crítica fue excelente."
+  },
+  {
+    "hanzi": "audience",
+    "pinyin": "OO-di-əns",
+    "es": "público; audiencia",
+    "level": 4,
+    "ex_zh": "The audience clapped loudly.",
+    "ex_py": "dhə OO-di-əns klapt LAUD-li",
+    "ex_es": "El público aplaudió con fuerza."
+  },
+  {
+    "hanzi": "Shakespeare",
+    "pinyin": "SHEIK-spiə",
+    "es": "Shakespeare",
+    "level": 4,
+    "ex_zh": "We studied Shakespeare at school.",
+    "ex_py": "wii STA-did SHEIK-spiə at skuul",
+    "ex_es": "Estudiamos a Shakespeare en el colegio."
+  },
+  {
+    "hanzi": "West End",
+    "pinyin": "west END",
+    "es": "barrio de los teatros de Londres",
+    "level": 4,
+    "ex_zh": "I saw a musical in the West End.",
+    "ex_py": "ai soo ə MYUU-zi-kəl in dhə west end",
+    "ex_es": "Vi un musical en el West End."
+  },
+  {
+    "hanzi": "look after",
+    "pinyin": "luk AAF-tə",
+    "es": "cuidar",
+    "level": 4,
+    "ex_zh": "I look after my grandmother.",
+    "ex_py": "ai luk AAF-tə mai GRAN-ma-dhə",
+    "ex_es": "Cuido a mi abuela."
+  },
+  {
+    "hanzi": "give up",
+    "pinyin": "giv AP",
+    "es": "rendirse; dejar de hacer",
+    "level": 4,
+    "ex_zh": "Don't give up!",
+    "ex_py": "dəunt giv ap",
+    "ex_es": "¡No te rindas!"
+  },
+  {
+    "hanzi": "put off",
+    "pinyin": "put OF",
+    "es": "postergar",
+    "level": 4,
+    "ex_zh": "Don't put off your homework.",
+    "ex_py": "dəunt put of yoo HƏUM-wəək",
+    "ex_es": "No pospongas la tarea."
+  },
+  {
+    "hanzi": "carry on",
+    "pinyin": "KA-ri ON",
+    "es": "seguir; continuar",
+    "level": 4,
+    "ex_zh": "Please carry on with your work.",
+    "ex_py": "pliiz KA-ri on widh yoo wəək",
+    "ex_es": "Por favor, sigan con su trabajo."
+  },
+  {
+    "hanzi": "turn up",
+    "pinyin": "təən AP",
+    "es": "aparecer; llegar",
+    "level": 4,
+    "ex_zh": "He didn't turn up at the meeting.",
+    "ex_py": "hii DI-dənt təən ap at dhə MII-ting",
+    "ex_es": "No apareció en la reunión."
+  },
+  {
+    "hanzi": "set up",
+    "pinyin": "set AP",
+    "es": "fundar; establecer",
+    "level": 4,
+    "ex_zh": "They set up a company in 2020.",
+    "ex_py": "dhei set ap ə KAM-pə-ni in",
+    "ex_es": "Fundaron una empresa en 2020."
+  },
+  {
+    "hanzi": "work out",
+    "pinyin": "wəək AUT",
+    "es": "resolver; entrenar",
+    "level": 4,
+    "ex_zh": "I can't work out the answer.",
+    "ex_py": "ai kaant wəək aut dhə AAN-sə",
+    "ex_es": "No puedo resolver la respuesta."
+  },
+  {
+    "hanzi": "run out of",
+    "pinyin": "ran AUT əv",
+    "es": "quedarse sin",
+    "level": 4,
+    "ex_zh": "We've run out of milk.",
+    "ex_py": "wiiv ran aut ov milk",
+    "ex_es": "Nos quedamos sin leche."
+  },
+  {
+    "hanzi": "find out",
+    "pinyin": "faind AUT",
+    "es": "averiguar; descubrir",
+    "level": 4,
+    "ex_zh": "I need to find out the time.",
+    "ex_py": "ai niid tuu faind aut dhə taim",
+    "ex_es": "Necesito averiguar la hora."
+  },
+  {
+    "hanzi": "get over",
+    "pinyin": "get ƏU-və",
+    "es": "superar",
+    "level": 4,
+    "ex_zh": "It took me a week to get over the flu.",
+    "ex_py": "it tuk mii ə wiik tuu get ƏU-və dhə fluu",
+    "ex_es": "Me llevó una semana superar la gripe."
+  },
+  {
+    "hanzi": "break down",
+    "pinyin": "breik DAUN",
+    "es": "averiarse; romperse",
+    "level": 4,
+    "ex_zh": "Our car broke down on the motorway.",
+    "ex_py": "auə kaa brəuk daun on dhə MƏU-tə-wei",
+    "ex_es": "Nuestro auto se averió en la autopista."
+  },
+  {
+    "hanzi": "look forward to",
+    "pinyin": "luk FOO-wəd tə",
+    "es": "esperar con ganas",
+    "level": 4,
+    "ex_zh": "I'm looking forward to the holiday.",
+    "ex_py": "aim LU-king FOO-wəd tuu dhə HO-lə-dei",
+    "ex_es": "Espero con ganas las vacaciones."
+  },
+  {
+    "hanzi": "England",
+    "pinyin": "ING-glənd",
+    "es": "Inglaterra",
+    "level": 4,
+    "ex_zh": "England is part of the United Kingdom.",
+    "ex_py": "ING-glənd iz paat ov dhə yuu-NAI-tid KING-dəm",
+    "ex_es": "Inglaterra es parte del Reino Unido."
+  },
+  {
+    "hanzi": "Scotland",
+    "pinyin": "SKOT-lənd",
+    "es": "Escocia",
+    "level": 4,
+    "ex_zh": "Edinburgh is the capital of Scotland.",
+    "ex_py": "E-din-bə-rə iz dhə KA-pi-təl ov SKOT-lənd",
+    "ex_es": "Edimburgo es la capital de Escocia."
+  },
+  {
+    "hanzi": "Wales",
+    "pinyin": "weilz",
+    "es": "Gales",
+    "level": 4,
+    "ex_zh": "Cardiff is in Wales.",
+    "ex_py": "KAA-dif iz in weilz",
+    "ex_es": "Cardiff está en Gales."
+  },
+  {
+    "hanzi": "Northern Ireland",
+    "pinyin": "NOO-dhən AIƏ-lənd",
+    "es": "Irlanda del Norte",
+    "level": 4,
+    "ex_zh": "Belfast is in Northern Ireland.",
+    "ex_py": "BEL-faast iz in NOO-dhən AIƏ-lənd",
+    "ex_es": "Belfast está en Irlanda del Norte."
+  },
+  {
+    "hanzi": "Great Britain",
+    "pinyin": "greit BRI-tən",
+    "es": "Gran Bretaña",
+    "level": 4,
+    "ex_zh": "Great Britain is an island.",
+    "ex_py": "greit BRI-tən iz ən AI-lənd",
+    "ex_es": "Gran Bretaña es una isla."
+  },
+  {
+    "hanzi": "United Kingdom",
+    "pinyin": "yuu-NAI-tid KING-dəm",
+    "es": "Reino Unido",
+    "level": 4,
+    "ex_zh": "The United Kingdom has four nations.",
+    "ex_py": "dhə yuu-NAI-tid KING-dəm haz foo NEI-shənz",
+    "ex_es": "El Reino Unido tiene cuatro naciones."
+  },
+  {
+    "hanzi": "accent",
+    "pinyin": "AK-sənt",
+    "es": "acento",
+    "level": 4,
+    "ex_zh": "She has a strong northern accent.",
+    "ex_py": "shii haz ə strong NOO-dhən AK-sənt",
+    "ex_es": "Tiene un fuerte acento del norte."
+  },
+  {
+    "hanzi": "dialect",
+    "pinyin": "DAI-ə-lekt",
+    "es": "dialecto",
+    "level": 4,
+    "ex_zh": "Scots is a dialect of English.",
+    "ex_py": "skots iz ə DAI-ə-lekt ov ING-glish",
+    "ex_es": "El scots es un dialecto del inglés."
+  },
+  {
+    "hanzi": "cockney",
+    "pinyin": "KOK-ni",
+    "es": "cockney (habla del este de Londres)",
+    "level": 4,
+    "ex_zh": "He speaks with a cockney accent.",
+    "ex_py": "hii spiiks widh ə KOK-ni AK-sənt",
+    "ex_es": "Habla con acento cockney."
+  },
+  {
+    "hanzi": "Geordie",
+    "pinyin": "DJOO-di",
+    "es": "de Newcastle",
+    "level": 4,
+    "ex_zh": "My neighbour is a Geordie.",
+    "ex_py": "mai NEI-bə iz ə DJOO-di",
+    "ex_es": "Mi vecino es de Newcastle."
+  },
+  {
+    "hanzi": "Scouse",
+    "pinyin": "skaus",
+    "es": "de Liverpool; habla de Liverpool",
+    "level": 4,
+    "ex_zh": "Scouse is hard to understand.",
+    "ex_py": "skaus iz haad tuu an-də-STAND",
+    "ex_es": "El scouse es difícil de entender."
+  },
+  {
+    "hanzi": "Received Pronunciation",
+    "pinyin": "ri-SIIVD prə-nan-si-EI-shən",
+    "es": "pronunciación estándar británica",
+    "level": 4,
+    "ex_zh": "Received Pronunciation is used by the BBC.",
+    "ex_py": "ri-SIIVD prə-nan-si-EI-shən iz yuuzd bai dhə bii-bii-SII",
+    "ex_es": "La pronunciación estándar la usa la BBC."
+  },
+  {
+    "hanzi": "claim",
+    "pinyin": "kleim",
+    "es": "afirmar; reclamar",
+    "level": 4,
+    "ex_zh": "He claims he didn't know.",
+    "ex_py": "hii kleimz hii DI-dənt nəu",
+    "ex_es": "Afirma que no sabía."
+  },
+  {
+    "hanzi": "suggest",
+    "pinyin": "sə-DJEST",
+    "es": "sugerir",
+    "level": 4,
+    "ex_zh": "I suggest we leave early.",
+    "ex_py": "ai sə-DJEST wii liiv ƏƏ-li",
+    "ex_es": "Sugiero que nos vayamos temprano."
+  },
+  {
+    "hanzi": "admit",
+    "pinyin": "əd-MIT",
+    "es": "admitir",
+    "level": 4,
+    "ex_zh": "She admitted she was wrong.",
+    "ex_py": "shii əd-MI-tid shii woz rong",
+    "ex_es": "Admitió que estaba equivocada."
+  },
+  {
+    "hanzi": "deny",
+    "pinyin": "di-NAI",
+    "es": "negar",
+    "level": 4,
+    "ex_zh": "He denied taking the money.",
+    "ex_py": "hii di-NAID teiking dhə MA-ni",
+    "ex_es": "Negó haber tomado la plata."
+  },
+  {
+    "hanzi": "insist",
+    "pinyin": "in-SIST",
+    "es": "insistir",
+    "level": 4,
+    "ex_zh": "They insisted on paying.",
+    "ex_py": "dhei in-SI-stid on PEI-ing",
+    "ex_es": "Insistieron en pagar."
+  },
+  {
+    "hanzi": "warn",
+    "pinyin": "woon",
+    "es": "advertir",
+    "level": 4,
+    "ex_zh": "The police warned drivers to be careful.",
+    "ex_py": "dhə pə-LIIS woond DRAI-vəz tuu bii KEƏ-fəl",
+    "ex_es": "La policía advirtió a los conductores que tuvieran cuidado."
+  },
+  {
+    "hanzi": "announce",
+    "pinyin": "ə-NAUNS",
+    "es": "anunciar",
+    "level": 4,
+    "ex_zh": "The company announced new jobs.",
+    "ex_py": "dhə KAM-pə-ni ə-NAUNST nyuu djobz",
+    "ex_es": "La empresa anunció nuevos empleos."
+  },
+  {
+    "hanzi": "explain",
+    "pinyin": "ik-SPLEIN",
+    "es": "explicar",
+    "level": 4,
+    "ex_zh": "Let me explain what happened.",
+    "ex_py": "let mii ik-SPLEIN wot HA-pənd",
+    "ex_es": "Dejame explicar qué pasó."
+  },
+  {
+    "hanzi": "according to",
+    "pinyin": "ə-KOO-ding tuu",
+    "es": "según",
+    "level": 4,
+    "ex_zh": "According to the news, it will snow.",
+    "ex_py": "ə-KOO-ding tuu dhə nyuuz it wil snəu",
+    "ex_es": "Según las noticias, va a nevar."
+  },
+  {
+    "hanzi": "allegedly",
+    "pinyin": "ə-LE-djid-li",
+    "es": "supuestamente",
+    "level": 4,
+    "ex_zh": "He allegedly broke the law.",
+    "ex_py": "hii ə-LE-djid-li brəuk dhə loo",
+    "ex_es": "Supuestamente rompió la ley."
+  },
+  {
+    "hanzi": "spokesperson",
+    "pinyin": "SPƏUKS-pəə-sən",
+    "es": "portavoz",
+    "level": 4,
+    "ex_zh": "The spokesperson refused to comment.",
+    "ex_py": "dhə SPƏUKS-pəə-sən ri-FYUUZD tuu KO-ment",
+    "ex_es": "El portavoz se negó a comentar."
+  },
+  {
+    "hanzi": "point out",
+    "pinyin": "point AUT",
+    "es": "señalar; hacer notar",
+    "level": 4,
+    "ex_zh": "She pointed out an important error.",
+    "ex_py": "shii pointid aut ən im-POO-tənt E-rə",
+    "ex_es": "Señaló un error importante."
+  },
+  {
+    "hanzi": "if only",
+    "pinyin": "if ƏUN-li",
+    "es": "ojalá; si tan solo",
+    "level": 4,
+    "ex_zh": "If only I had more time!",
+    "ex_py": "if ƏUN-li ai had moo taim",
+    "ex_es": "¡Si tan solo tuviera más tiempo!"
+  },
+  {
+    "hanzi": "wish",
+    "pinyin": "wish",
+    "es": "desear; ojalá",
+    "level": 4,
+    "ex_zh": "I wish I could swim.",
+    "ex_py": "ai wish ai kud swim",
+    "ex_es": "Ojalá supiera nadar."
+  },
+  {
+    "hanzi": "unless",
+    "pinyin": "an-LES",
+    "es": "a menos que",
+    "level": 4,
+    "ex_zh": "Unless you hurry, you'll miss the train.",
+    "ex_py": "an-LES yuu HA-ri yuul mis dhə trein",
+    "ex_es": "A menos que te apures, vas a perder el tren."
+  },
+  {
+    "hanzi": "provided that",
+    "pinyin": "prə-VAI-did dhat",
+    "es": "siempre que",
+    "level": 4,
+    "ex_zh": "You can go, provided that you're back by ten.",
+    "ex_py": "yuu kan gəu prə-VAI-did dhat yoo bak bai ten",
+    "ex_es": "Podés ir, siempre que vuelvas a las diez."
+  },
+  {
+    "hanzi": "supposing",
+    "pinyin": "sə-PƏU-zing",
+    "es": "suponiendo que",
+    "level": 4,
+    "ex_zh": "Supposing it rains, what then?",
+    "ex_py": "sə-PƏU-zing it reinz wot dhen",
+    "ex_es": "Suponiendo que llueva, ¿qué hacemos?"
+  },
+  {
+    "hanzi": "otherwise",
+    "pinyin": "A-dhə-waiz",
+    "es": "de lo contrario",
+    "level": 4,
+    "ex_zh": "Hurry up, otherwise we'll be late.",
+    "ex_py": "HA-ri ap A-dhə-waiz wiil bii leit",
+    "ex_es": "Apurate, de lo contrario llegamos tarde."
+  },
+  {
+    "hanzi": "in case",
+    "pinyin": "in KEIS",
+    "es": "por si acaso",
+    "level": 4,
+    "ex_zh": "Take a coat in case it gets cold.",
+    "ex_py": "teik ə kəut in keis it gets kəuld",
+    "ex_es": "Llevá un abrigo por si hace frío."
+  },
+  {
+    "hanzi": "as long as",
+    "pinyin": "az LONG az",
+    "es": "siempre que; mientras",
+    "level": 4,
+    "ex_zh": "You can stay as long as you like.",
+    "ex_py": "yuu kan stei az long az yuu laik",
+    "ex_es": "Podés quedarte todo el tiempo que quieras."
+  },
+  {
+    "hanzi": "would rather",
+    "pinyin": "wud RAA-dhə",
+    "es": "preferiría",
+    "level": 4,
+    "ex_zh": "I'd rather stay at home tonight.",
+    "ex_py": "aid RAA-dhə stei at həum tə-NAIT",
+    "ex_es": "Preferiría quedarme en casa esta noche."
+  },
+  {
+    "hanzi": "had better",
+    "pinyin": "had BE-tə",
+    "es": "más vale que",
+    "level": 4,
+    "ex_zh": "You had better call him.",
+    "ex_py": "yuu had BE-tə kool him",
+    "ex_es": "Más vale que lo llames."
+  },
+  {
+    "hanzi": "what if",
+    "pinyin": "wot IF",
+    "es": "¿y si…?",
+    "level": 4,
+    "ex_zh": "What if we miss the bus?",
+    "ex_py": "wot if wii mis dhə bas",
+    "ex_es": "¿Y si perdemos el colectivo?"
+  },
+  {
+    "hanzi": "even if",
+    "pinyin": "II-vən IF",
+    "es": "aunque; incluso si",
+    "level": 4,
+    "ex_zh": "I'll go even if it rains.",
+    "ex_py": "ail gəu II-vən if it reinz",
+    "ex_es": "Voy aunque llueva."
+  },
+  {
+    "hanzi": "London",
+    "pinyin": "LAN-dən",
+    "es": "Londres",
+    "level": 4,
+    "ex_zh": "London is a huge city.",
+    "ex_py": "LAN-dən iz ə hyuudj SI-ti",
+    "ex_es": "Londres es una ciudad enorme."
+  },
+  {
+    "hanzi": "Manchester",
+    "pinyin": "MAN-chi-stə",
+    "es": "Manchester",
+    "level": 4,
+    "ex_zh": "Manchester is famous for football.",
+    "ex_py": "MAN-chi-stə iz FEI-məs foo FUT-bool",
+    "ex_es": "Manchester es famosa por el fútbol."
+  },
+  {
+    "hanzi": "Edinburgh",
+    "pinyin": "E-din-bə-rə",
+    "es": "Edimburgo",
+    "level": 4,
+    "ex_zh": "Edinburgh has a medieval castle.",
+    "ex_py": "E-din-bə-rə haz ə me-DII-vəl KAA-səl",
+    "ex_es": "Edimburgo tiene un castillo medieval."
+  },
+  {
+    "hanzi": "suburb",
+    "pinyin": "SA-bəəb",
+    "es": "suburbio; barrio residencial",
+    "level": 4,
+    "ex_zh": "We live in a quiet suburb.",
+    "ex_py": "wii liv in ə KWAI-ət SA-bəəb",
+    "ex_es": "Vivimos en un barrio residencial tranquilo."
+  },
+  {
+    "hanzi": "city centre",
+    "pinyin": "SI-ti SEN-tə",
+    "es": "centro de la ciudad",
+    "level": 4,
+    "ex_zh": "The city centre is always busy.",
+    "ex_py": "dhə SI-ti SEN-tə iz OOL-weiz BI-zi",
+    "ex_es": "El centro de la ciudad siempre está lleno."
+  },
+  {
+    "hanzi": "borough",
+    "pinyin": "BA-rə",
+    "es": "distrito (municipio de Londres)",
+    "level": 4,
+    "ex_zh": "Camden is a London borough.",
+    "ex_py": "KAM-dən iz ə LAN-dən BA-rə",
+    "ex_es": "Camden es un distrito de Londres."
+  },
+  {
+    "hanzi": "landmark",
+    "pinyin": "LAND-maak",
+    "es": "monumento; punto de referencia",
+    "level": 4,
+    "ex_zh": "Big Ben is a famous landmark.",
+    "ex_py": "big ben iz ə FEI-məs LAND-maak",
+    "ex_es": "Big Ben es un monumento famoso."
+  },
+  {
+    "hanzi": "skyline",
+    "pinyin": "SKAI-lain",
+    "es": "silueta urbana",
+    "level": 4,
+    "ex_zh": "The skyline looks great at night.",
+    "ex_py": "dhə SKAI-lain luks greit at nait",
+    "ex_es": "La silueta de la ciudad se ve genial de noche."
+  },
+  {
+    "hanzi": "Thames",
+    "pinyin": "temz",
+    "es": "río Támesis",
+    "level": 4,
+    "ex_zh": "The Thames runs through London.",
+    "ex_py": "dhə temz ranz throo LAN-dən",
+    "ex_es": "El Támesis atraviesa Londres."
+  },
+  {
+    "hanzi": "double-decker",
+    "pinyin": "da-bəl-DE-kə",
+    "es": "colectivo de dos pisos",
+    "level": 4,
+    "ex_zh": "I love sitting upstairs on a double-decker.",
+    "ex_py": "ai lav SI-ting ap-STEƏZ on ə DA-bəl DE-kə",
+    "ex_es": "Me encanta sentarme arriba en un colectivo de dos pisos."
+  },
+  {
+    "hanzi": "black cab",
+    "pinyin": "blak KAB",
+    "es": "taxi negro de Londres",
+    "level": 4,
+    "ex_zh": "A black cab took us to the hotel.",
+    "ex_py": "ə blak kab tuk as tuu dhə həu-TEL",
+    "ex_es": "Un taxi negro nos llevó al hotel."
+  },
+  {
+    "hanzi": "Big Ben",
+    "pinyin": "big BEN",
+    "es": "Big Ben (reloj de Londres)",
+    "level": 4,
+    "ex_zh": "Big Ben is a clock tower.",
+    "ex_py": "big ben iz ə klok TAUƏ",
+    "ex_es": "Big Ben es una torre con reloj."
+  },
+  {
+    "hanzi": "inequality",
+    "pinyin": "in-i-KWO-lə-ti",
+    "es": "desigualdad",
+    "level": 4,
+    "ex_zh": "Inequality is growing in many countries.",
+    "ex_py": "in-i-KWO-lə-ti iz GRƏU-ing in ME-ni KAN-triz",
+    "ex_es": "La desigualdad crece en muchos países."
+  },
+  {
+    "hanzi": "poverty",
+    "pinyin": "PO-və-ti",
+    "es": "pobreza",
+    "level": 4,
+    "ex_zh": "Child poverty is a serious problem.",
+    "ex_py": "chaild PO-və-ti iz ə SIƏ-ri-əs PRO-bləm",
+    "ex_es": "La pobreza infantil es un problema serio."
+  },
+  {
+    "hanzi": "homelessness",
+    "pinyin": "HƏUM-lə-snəs",
+    "es": "falta de vivienda",
+    "level": 4,
+    "ex_zh": "Homelessness has risen in London.",
+    "ex_py": "HƏUM-lə-snəs haz RI-zən in LAN-dən",
+    "ex_es": "La falta de vivienda ha aumentado en Londres."
+  },
+  {
+    "hanzi": "immigration",
+    "pinyin": "i-mi-GREI-shən",
+    "es": "inmigración",
+    "level": 4,
+    "ex_zh": "Immigration is a political issue.",
+    "ex_py": "i-mi-GREI-shən iz ə pə-LI-ti-kəl I-shuu",
+    "ex_es": "La inmigración es un tema político."
+  },
+  {
+    "hanzi": "welfare",
+    "pinyin": "WEL-feə",
+    "es": "bienestar social",
+    "level": 4,
+    "ex_zh": "The welfare system helps families.",
+    "ex_py": "dhə WEL-feə SIS-təm helps FA-mə-liz",
+    "ex_es": "El sistema de bienestar social ayuda a las familias."
+  },
+  {
+    "hanzi": "benefits",
+    "pinyin": "BE-ni-fits",
+    "es": "subsidios; beneficios sociales",
+    "level": 4,
+    "ex_zh": "He receives housing benefits.",
+    "ex_py": "hii ri-SIIVZ HAU-zing BE-ni-fits",
+    "ex_es": "Recibe subsidios de vivienda."
+  },
+  {
+    "hanzi": "NHS",
+    "pinyin": "en-eitsh-ES",
+    "es": "Servicio Nacional de Salud",
+    "level": 4,
+    "ex_zh": "The NHS is free at the point of use.",
+    "ex_py": "dhə en-eitsh-ES iz frii at dhə point ov yuuz",
+    "ex_es": "El NHS es gratuito en el momento de usarlo."
+  },
+  {
+    "hanzi": "law",
+    "pinyin": "loo",
+    "es": "ley; derecho",
+    "level": 4,
+    "ex_zh": "It's against the law.",
+    "ex_py": "its ə-GENST dhə loo",
+    "ex_es": "Va contra la ley."
+  },
+  {
+    "hanzi": "police",
+    "pinyin": "pə-LIIS",
+    "es": "policía",
+    "level": 4,
+    "ex_zh": "Call the police!",
+    "ex_py": "kool dhə pə-LIIS",
+    "ex_es": "¡Llamá a la policía!"
+  },
+  {
+    "hanzi": "court",
+    "pinyin": "koot",
+    "es": "tribunal",
+    "level": 4,
+    "ex_zh": "The case goes to court next week.",
+    "ex_py": "dhə keis gəuz tuu koot nekst wiik",
+    "ex_es": "El caso va a juicio la semana próxima."
+  },
+  {
+    "hanzi": "citizen",
+    "pinyin": "SI-ti-zən",
+    "es": "ciudadano",
+    "level": 4,
+    "ex_zh": "Every citizen has the right to vote.",
+    "ex_py": "EV-ri SI-ti-zən haz dhə rait tuu vəut",
+    "ex_es": "Cada ciudadano tiene derecho a votar."
+  },
+  {
+    "hanzi": "vote",
+    "pinyin": "vəut",
+    "es": "votar; voto",
+    "level": 4,
+    "ex_zh": "You must vote in the election.",
+    "ex_py": "yuu mast vəut in dhə i-LEK-shən",
+    "ex_es": "Tenés que votar en la elección."
+  },
+  {
+    "hanzi": "argue",
+    "pinyin": "AA-gyuu",
+    "es": "discutir; argumentar",
+    "level": 4,
+    "ex_zh": "They argue about politics every Sunday.",
+    "ex_py": "dhei AA-gyuu ə-BAUT PO-lə-tiks EV-ri SAN-dei",
+    "ex_es": "Discuten de política todos los domingos."
+  },
+  {
+    "hanzi": "convince",
+    "pinyin": "kən-VINS",
+    "es": "convencer (de que algo es cierto)",
+    "level": 4,
+    "ex_zh": "I couldn't convince him.",
+    "ex_py": "ai KU-dənt kən-VINS him",
+    "ex_es": "No pude convencerlo."
+  },
+  {
+    "hanzi": "persuade",
+    "pinyin": "pə-SWEID",
+    "es": "persuadir (para actuar)",
+    "level": 4,
+    "ex_zh": "She persuaded me to join.",
+    "ex_py": "shii pə-SWEI-did mii tuu djoin",
+    "ex_es": "Me persuadió de unirme."
+  },
+  {
+    "hanzi": "debate",
+    "pinyin": "di-BEIT",
+    "es": "debate; debatir",
+    "level": 4,
+    "ex_zh": "It was a lively debate.",
+    "ex_py": "it woz ə LAIV-li di-BEIT",
+    "ex_es": "Fue un debate animado."
+  },
+  {
+    "hanzi": "point of view",
+    "pinyin": "point əv vyuu",
+    "es": "punto de vista",
+    "level": 4,
+    "ex_zh": "From my point of view, it's fine.",
+    "ex_py": "from mai point ov vyuu its fain",
+    "ex_es": "Desde mi punto de vista, está bien."
+  },
+  {
+    "hanzi": "on balance",
+    "pinyin": "on BA-ləns",
+    "es": "en definitiva; sopesando todo",
+    "level": 4,
+    "ex_zh": "On balance, I prefer the first option.",
+    "ex_py": "on BA-ləns ai pri-FƏƏ dhə fəəst OP-shən",
+    "ex_es": "En definitiva, prefiero la primera opción."
+  },
+  {
+    "hanzi": "to be fair",
+    "pinyin": "tə bii FEƏ",
+    "es": "para ser justos",
+    "level": 4,
+    "ex_zh": "To be fair, he did try.",
+    "ex_py": "tuu bii feə hii did trai",
+    "ex_es": "Para ser justos, lo intentó."
+  },
+  {
+    "hanzi": "fair enough",
+    "pinyin": "feər i-NAF",
+    "es": "está bien; tenés razón",
+    "level": 4,
+    "ex_zh": "Fair enough, I'll pay.",
+    "ex_py": "feə i-NAF ail pei",
+    "ex_es": "Está bien, pago yo."
+  },
+  {
+    "hanzi": "I take your point",
+    "pinyin": "ai teik yoo POINT",
+    "es": "entiendo tu argumento",
+    "level": 4,
+    "ex_zh": "I take your point, but I disagree.",
+    "ex_py": "ai teik yoo point bat ai dis-ə-GRII",
+    "ex_es": "Entiendo tu argumento, pero no estoy de acuerdo."
+  },
+  {
+    "hanzi": "it depends",
+    "pinyin": "it di-PENDZ",
+    "es": "depende",
+    "level": 4,
+    "ex_zh": "It depends on the weather.",
+    "ex_py": "it di-PENDZ on dhə WE-dhə",
+    "ex_es": "Depende del clima."
+  },
+  {
+    "hanzi": "to some extent",
+    "pinyin": "tə sam ik-STENT",
+    "es": "hasta cierto punto",
+    "level": 4,
+    "ex_zh": "To some extent, you're right.",
+    "ex_py": "tuu sam ik-STENT yoo rait",
+    "ex_es": "Hasta cierto punto, tenés razón."
+  },
+  {
+    "hanzi": "I see what you mean",
+    "pinyin": "ai sii wot yuu MIIN",
+    "es": "entiendo lo que querés decir",
+    "level": 4,
+    "ex_zh": "I see what you mean about the price.",
+    "ex_py": "ai sii wot yuu miin ə-BAUT dhə prais",
+    "ex_es": "Entiendo lo que querés decir sobre el precio."
+  },
+  {
+    "hanzi": "property",
+    "pinyin": "PRO-pə-ti",
+    "es": "propiedad; inmueble",
+    "level": 4,
+    "ex_zh": "Property in London is very expensive.",
+    "ex_py": "PRO-pə-ti in LAN-dən iz VE-ri ik-SPEN-siv",
+    "ex_es": "Las propiedades en Londres son muy caras."
+  },
+  {
+    "hanzi": "terraced house",
+    "pinyin": "TE-rəst haus",
+    "es": "casa en hilera",
+    "level": 4,
+    "ex_zh": "They live in a terraced house.",
+    "ex_py": "dhei liv in ə TE-rəst haus",
+    "ex_es": "Viven en una casa en hilera."
+  },
+  {
+    "hanzi": "semi-detached",
+    "pinyin": "se-mi-di-TACHT",
+    "es": "casa pareada",
+    "level": 4,
+    "ex_zh": "We have a semi-detached house.",
+    "ex_py": "wii hav ə SE-mi di-TACHT haus",
+    "ex_es": "Tenemos una casa pareada."
+  },
+  {
+    "hanzi": "detached",
+    "pinyin": "di-TACHT",
+    "es": "casa independiente",
+    "level": 4,
+    "ex_zh": "They bought a detached house.",
+    "ex_py": "dhei boot ə di-TACHT haus",
+    "ex_es": "Compraron una casa independiente."
+  },
+  {
+    "hanzi": "bungalow",
+    "pinyin": "BANG-gə-ləu",
+    "es": "casa de una sola planta",
+    "level": 4,
+    "ex_zh": "My gran lives in a bungalow.",
+    "ex_py": "mai gran livz in ə BANG-gə-ləu",
+    "ex_es": "Mi abuela vive en una casa de una planta."
+  },
+  {
+    "hanzi": "council house",
+    "pinyin": "KAUN-səl haus",
+    "es": "vivienda social",
+    "level": 4,
+    "ex_zh": "He grew up in a council house.",
+    "ex_py": "hii gruu ap in ə KAUN-səl haus",
+    "ex_es": "Creció en una vivienda social."
+  },
+  {
+    "hanzi": "tenant",
+    "pinyin": "TE-nənt",
+    "es": "inquilino",
+    "level": 4,
+    "ex_zh": "The tenant pays the rent on time.",
+    "ex_py": "dhə TE-nənt peiz dhə rent on taim",
+    "ex_es": "El inquilino paga el alquiler a tiempo."
+  },
+  {
+    "hanzi": "estate agent",
+    "pinyin": "i-STEIT EI-djənt",
+    "es": "agente inmobiliario",
+    "level": 4,
+    "ex_zh": "The estate agent showed us the house.",
+    "ex_py": "dhə i-STEIT EI-djənt shəud as dhə haus",
+    "ex_es": "El agente inmobiliario nos mostró la casa."
+  },
+  {
+    "hanzi": "first-time buyer",
+    "pinyin": "fəəst-taim BAI-ə",
+    "es": "comprador primerizo",
+    "level": 4,
+    "ex_zh": "She is a first-time buyer.",
+    "ex_py": "shii iz ə fəəst taim BAI-ə",
+    "ex_es": "Es una compradora primeriza."
+  },
+  {
+    "hanzi": "freehold",
+    "pinyin": "FRII-həuld",
+    "es": "propiedad plena",
+    "level": 4,
+    "ex_zh": "The flat is freehold.",
+    "ex_py": "dhə flat iz FRII-həuld",
+    "ex_es": "El departamento es de propiedad plena."
+  },
+  {
+    "hanzi": "leasehold",
+    "pinyin": "LIIS-həuld",
+    "es": "propiedad con plazo",
+    "level": 4,
+    "ex_zh": "A leasehold flat can be a problem.",
+    "ex_py": "ə LIIS-həuld flat kan bii ə PRO-bləm",
+    "ex_es": "Un departamento con plazo puede ser un problema."
+  },
+  {
+    "hanzi": "housing market",
+    "pinyin": "HAU-zing MAA-kit",
+    "es": "mercado inmobiliario",
+    "level": 4,
+    "ex_zh": "The housing market is very hot.",
+    "ex_py": "dhə HAU-zing MAA-kit iz VE-ri hot",
+    "ex_es": "El mercado inmobiliario está muy activo."
+  },
+  {
+    "hanzi": "nonetheless",
+    "pinyin": "na-nə-DHES",
+    "es": "no obstante; sin embargo",
+    "level": 5,
+    "ex_zh": "The task was hard; nonetheless, we finished.",
+    "ex_py": "dhə taask woz haad na-nə-DHES wii FI-nisht",
+    "ex_es": "La tarea era difícil; no obstante, la terminamos."
+  },
+  {
+    "hanzi": "notwithstanding",
+    "pinyin": "not-wi-DHSTAN-ding",
+    "es": "a pesar de",
+    "level": 5,
+    "ex_zh": "Notwithstanding the weather, the match went ahead.",
+    "ex_py": "not-wi-DHSTAN-ding dhə WE-dhə dhə mach went ə-HED",
+    "ex_es": "A pesar del clima, el partido se jugó."
+  },
+  {
+    "hanzi": "hence",
+    "pinyin": "hens",
+    "es": "de ahí que; por eso",
+    "level": 5,
+    "ex_zh": "The road was closed, hence the delay.",
+    "ex_py": "dhə rəud woz kləuzd hens dhə di-LEI",
+    "ex_es": "La ruta estaba cortada, de ahí la demora."
+  },
+  {
+    "hanzi": "whereas",
+    "pinyin": "weər-AZ",
+    "es": "mientras que",
+    "level": 5,
+    "ex_zh": "He is shy, whereas she is outgoing.",
+    "ex_py": "hii iz shai weər-AZ shii iz aut-GƏU-ing",
+    "ex_es": "Él es tímido, mientras que ella es extrovertida."
+  },
+  {
+    "hanzi": "albeit",
+    "pinyin": "ool-BII-it",
+    "es": "aunque; si bien",
+    "level": 5,
+    "ex_zh": "It was a success, albeit a small one.",
+    "ex_py": "it woz ə sək-SES ool-BII-it ə smool wan",
+    "ex_es": "Fue un éxito, aunque pequeño."
+  },
+  {
+    "hanzi": "moreover",
+    "pinyin": "moor-ƏU-və",
+    "es": "además; es más",
+    "level": 5,
+    "ex_zh": "Moreover, the price is very fair.",
+    "ex_py": "moor-ƏU-və dhə prais iz VE-ri feə",
+    "ex_es": "Además, el precio es muy justo."
+  },
+  {
+    "hanzi": "furthermore",
+    "pinyin": "fəə-dhə-MOO",
+    "es": "asimismo; por otra parte",
+    "level": 5,
+    "ex_zh": "Furthermore, the results are reliable.",
+    "ex_py": "fəə-dhə-MOO dhə ri-ZALTS aa ri-LAI-ə-bəl",
+    "ex_es": "Asimismo, los resultados son fiables."
+  },
+  {
+    "hanzi": "thereby",
+    "pinyin": "dheə-BAI",
+    "es": "con lo cual; de ese modo",
+    "level": 5,
+    "ex_zh": "He resigned, thereby ending the dispute.",
+    "ex_py": "hii ri-ZAIND dheə-BAI EN-ding dhə di-SPYUUT",
+    "ex_es": "Renunció, con lo cual terminó la disputa."
+  },
+  {
+    "hanzi": "contract",
+    "pinyin": "KON-trakt",
+    "es": "contrato",
+    "level": 5,
+    "ex_zh": "I signed the contract yesterday.",
+    "ex_py": "ai saind dhə KON-trakt YES-tə-dei",
+    "ex_es": "Firmé el contrato ayer."
+  },
+  {
+    "hanzi": "clause",
+    "pinyin": "klooz",
+    "es": "cláusula",
+    "level": 5,
+    "ex_zh": "Read clause five carefully.",
+    "ex_py": "riid klooz faiv KEƏ-fə-li",
+    "ex_es": "Leé con cuidado la cláusula cinco."
+  },
+  {
+    "hanzi": "tribunal",
+    "pinyin": "trai-BYUU-nəl",
+    "es": "tribunal",
+    "level": 5,
+    "ex_zh": "The tribunal will decide next month.",
+    "ex_py": "dhə trai-BYUU-nəl wil di-SAID nekst manth",
+    "ex_es": "El tribunal decidirá el mes próximo."
+  },
+  {
+    "hanzi": "solicitor",
+    "pinyin": "sə-LI-si-tə",
+    "es": "abogado (asesor)",
+    "level": 5,
+    "ex_zh": "My solicitor drafted the contract.",
+    "ex_py": "mai sə-LI-si-tə DRAAF-tid dhə KON-trakt",
+    "ex_es": "Mi abogado redactó el contrato."
+  },
+  {
+    "hanzi": "barrister",
+    "pinyin": "BA-ri-stə",
+    "es": "abogado litigante",
+    "level": 5,
+    "ex_zh": "The barrister addressed the court.",
+    "ex_py": "dhə BA-ri-stə ə-DREST dhə koot",
+    "ex_es": "El abogado litigante se dirigió al tribunal."
+  },
+  {
+    "hanzi": "verdict",
+    "pinyin": "VƏƏ-dikt",
+    "es": "veredicto",
+    "level": 5,
+    "ex_zh": "The jury reached a verdict.",
+    "ex_py": "dhə DJUƏ-ri riicht ə VƏƏ-dikt",
+    "ex_es": "El jurado llegó a un veredicto."
+  },
+  {
+    "hanzi": "liable",
+    "pinyin": "LAI-ə-bəl",
+    "es": "responsable legalmente",
+    "level": 5,
+    "ex_zh": "The company is liable for the damage.",
+    "ex_py": "dhə KAM-pə-ni iz LAI-ə-bəl foo dhə DA-midj",
+    "ex_es": "La empresa es responsable por el daño."
+  },
+  {
+    "hanzi": "legislation",
+    "pinyin": "le-dji-SLEI-shən",
+    "es": "legislación",
+    "level": 5,
+    "ex_zh": "New legislation comes into force in April.",
+    "ex_py": "nyuu le-dji-SLEI-shən kamz IN-tuu foos in EI-prəl",
+    "ex_es": "Una nueva legislación entra en vigor en abril."
+  },
+  {
+    "hanzi": "defendant",
+    "pinyin": "di-FEN-dənt",
+    "es": "acusado; demandado",
+    "level": 5,
+    "ex_zh": "The defendant pleaded not guilty.",
+    "ex_py": "dhə di-FEN-dənt PLII-did not GIL-ti",
+    "ex_es": "El acusado se declaró inocente."
+  },
+  {
+    "hanzi": "austerity",
+    "pinyin": "o-STE-rə-ti",
+    "es": "austeridad",
+    "level": 5,
+    "ex_zh": "Austerity cut many public services.",
+    "ex_py": "o-STE-rə-ti kat ME-ni PA-blik SƏƏ-vi-siz",
+    "ex_es": "La austeridad recortó muchos servicios públicos."
+  },
+  {
+    "hanzi": "deficit",
+    "pinyin": "DE-fi-sit",
+    "es": "déficit",
+    "level": 5,
+    "ex_zh": "The country has a large deficit.",
+    "ex_py": "dhə KAN-tri haz ə laadj DE-fi-sit",
+    "ex_es": "El país tiene un déficit grande."
+  },
+  {
+    "hanzi": "surplus",
+    "pinyin": "SƏƏ-pləs",
+    "es": "superávit; excedente",
+    "level": 5,
+    "ex_zh": "They announced a budget surplus.",
+    "ex_py": "dhei ə-NAUNST ə BA-djit SƏƏ-pləs",
+    "ex_es": "Anunciaron un superávit presupuestario."
+  },
+  {
+    "hanzi": "fiscal",
+    "pinyin": "FIS-kəl",
+    "es": "fiscal",
+    "level": 5,
+    "ex_zh": "The government changed its fiscal policy.",
+    "ex_py": "dhə GA-vən-mənt cheindjd its FIS-kəl PO-lə-si",
+    "ex_es": "El gobierno cambió su política fiscal."
+  },
+  {
+    "hanzi": "GDP",
+    "pinyin": "djii-dii-PII",
+    "es": "PBI; producto bruto",
+    "level": 5,
+    "ex_zh": "GDP grew by one per cent.",
+    "ex_py": "djii-dii-PII gruu bai wan pə sent",
+    "ex_es": "El PBI creció un uno por ciento."
+  },
+  {
+    "hanzi": "interest rate",
+    "pinyin": "IN-trəst reit",
+    "es": "tasa de interés",
+    "level": 5,
+    "ex_zh": "The interest rate is now five per cent.",
+    "ex_py": "dhə IN-trəst reit iz nau faiv pə sent",
+    "ex_es": "La tasa de interés es ahora del cinco por ciento."
+  },
+  {
+    "hanzi": "sterling",
+    "pinyin": "STƏƏ-ling",
+    "es": "libra esterlina",
+    "level": 5,
+    "ex_zh": "Sterling is stronger today.",
+    "ex_py": "STƏƏ-ling iz STRONG-gə tə-DEI",
+    "ex_es": "La libra esterlina está más fuerte hoy."
+  },
+  {
+    "hanzi": "tariff",
+    "pinyin": "TA-rif",
+    "es": "arancel",
+    "level": 5,
+    "ex_zh": "The tariff makes imports dearer.",
+    "ex_py": "dhə TA-rif meiks IM-poots DIƏ-rə",
+    "ex_es": "El arancel encarece las importaciones."
+  },
+  {
+    "hanzi": "ethics",
+    "pinyin": "E-thiks",
+    "es": "ética",
+    "level": 5,
+    "ex_zh": "Medical ethics is a complex field.",
+    "ex_py": "ME-di-kəl E-thiks iz ə KOM-pleks fiild",
+    "ex_es": "La ética médica es un campo complejo."
+  },
+  {
+    "hanzi": "liberty",
+    "pinyin": "LI-bə-ti",
+    "es": "libertad",
+    "level": 5,
+    "ex_zh": "Liberty has limits.",
+    "ex_py": "LI-bə-ti haz LI-mits",
+    "ex_es": "La libertad tiene límites."
+  },
+  {
+    "hanzi": "justice",
+    "pinyin": "DJA-stis",
+    "es": "justicia",
+    "level": 5,
+    "ex_zh": "Justice must be equal for all.",
+    "ex_py": "DJA-stis mast bii II-kwəl foo ool",
+    "ex_es": "La justicia debe ser igual para todos."
+  },
+  {
+    "hanzi": "conscience",
+    "pinyin": "KON-shəns",
+    "es": "conciencia moral",
+    "level": 5,
+    "ex_zh": "He has a clear conscience.",
+    "ex_py": "hii haz ə kliə KON-shəns",
+    "ex_es": "Tiene la conciencia tranquila."
+  },
+  {
+    "hanzi": "notion",
+    "pinyin": "NƏU-shən",
+    "es": "noción; idea",
+    "level": 5,
+    "ex_zh": "It's a strange notion.",
+    "ex_py": "its ə streindj NƏU-shən",
+    "ex_es": "Es una idea extraña."
+  },
+  {
+    "hanzi": "virtue",
+    "pinyin": "VƏƏ-chuu",
+    "es": "virtud",
+    "level": 5,
+    "ex_zh": "Patience is a virtue.",
+    "ex_py": "PEI-shəns iz ə VƏƏ-chuu",
+    "ex_es": "La paciencia es una virtud."
+  },
+  {
+    "hanzi": "scepticism",
+    "pinyin": "SKEP-ti-si-zəm",
+    "es": "escepticismo",
+    "level": 5,
+    "ex_zh": "Her scepticism was understandable.",
+    "ex_py": "həə SKEP-ti-si-zəm woz an-də-STAN-də-bəl",
+    "ex_es": "Su escepticismo era comprensible."
+  },
+  {
+    "hanzi": "empiricism",
+    "pinyin": "em-PI-ri-si-zəm",
+    "es": "empirismo",
+    "level": 5,
+    "ex_zh": "Empiricism values experience.",
+    "ex_py": "em-PI-ri-si-zəm VAL-yuuz ik-SPIƏ-ri-əns",
+    "ex_es": "El empirismo valora la experiencia."
+  },
+  {
+    "hanzi": "subtle",
+    "pinyin": "SA-təl",
+    "es": "sutil",
+    "level": 5,
+    "ex_zh": "There is a subtle difference.",
+    "ex_py": "dheə iz ə SA-təl DI-frəns",
+    "ex_es": "Hay una diferencia sutil."
+  },
+  {
+    "hanzi": "nuance",
+    "pinyin": "NYUU-aans",
+    "es": "matiz",
+    "level": 5,
+    "ex_zh": "She understood every nuance.",
+    "ex_py": "shii an-də-STUD EV-ri NYUU-aans",
+    "ex_es": "Entendió cada matiz."
+  },
+  {
+    "hanzi": "connotation",
+    "pinyin": "ko-nə-TEI-shən",
+    "es": "connotación",
+    "level": 5,
+    "ex_zh": "The word has a negative connotation.",
+    "ex_py": "dhə wəəd haz ə NE-gə-tiv ko-nə-TEI-shən",
+    "ex_es": "La palabra tiene una connotación negativa."
+  },
+  {
+    "hanzi": "euphemism",
+    "pinyin": "YUU-fə-mi-zəm",
+    "es": "eufemismo",
+    "level": 5,
+    "ex_zh": "'Passed away' is a euphemism for 'died'.",
+    "ex_py": "paast ə-WEI iz ə YUU-fə-mi-zəm foo daid",
+    "ex_es": "'Passed away' es un eufemismo de 'died'."
+  },
+  {
+    "hanzi": "understatement",
+    "pinyin": "an-də-STEIT-mənt",
+    "es": "subestimación deliberada",
+    "level": 5,
+    "ex_zh": "'A bit damp' is a typical understatement.",
+    "ex_py": "ə bit damp iz ə TI-pi-kəl an-də-STEIT-mənt",
+    "ex_es": "'Un poco húmedo' es una subestimación típica."
+  },
+  {
+    "hanzi": "tongue-in-cheek",
+    "pinyin": "tang-in-CHIIK",
+    "es": "en broma; con ironía",
+    "level": 5,
+    "ex_zh": "It was a tongue-in-cheek comment.",
+    "ex_py": "it woz ə tang in chiik KO-ment",
+    "ex_es": "Fue un comentario en tono de broma."
+  },
+  {
+    "hanzi": "deadpan",
+    "pinyin": "DED-pan",
+    "es": "inexpresivo (humor)",
+    "level": 5,
+    "ex_zh": "He told the joke completely deadpan.",
+    "ex_py": "hii təuld dhə djəuk kəm-PLIIT-li DED-pan",
+    "ex_es": "Contó el chiste con total seriedad."
+  },
+  {
+    "hanzi": "inference",
+    "pinyin": "IN-fə-rəns",
+    "es": "inferencia; deducción",
+    "level": 5,
+    "ex_zh": "That's a fair inference.",
+    "ex_py": "dhats ə feə IN-fə-rəns",
+    "ex_es": "Es una deducción razonable."
+  },
+  {
+    "hanzi": "thesis",
+    "pinyin": "THII-sis",
+    "es": "tesis",
+    "level": 5,
+    "ex_zh": "She is writing her thesis.",
+    "ex_py": "shii iz RAI-ting həə THII-sis",
+    "ex_es": "Está escribiendo su tesis."
+  },
+  {
+    "hanzi": "abstract",
+    "pinyin": "AB-strakt",
+    "es": "resumen (de un trabajo)",
+    "level": 5,
+    "ex_zh": "Write a short abstract first.",
+    "ex_py": "rait ə shoot AB-strakt fəəst",
+    "ex_es": "Primero escribí un resumen breve."
+  },
+  {
+    "hanzi": "dissertation",
+    "pinyin": "di-sə-TEI-shən",
+    "es": "trabajo final; tesina",
+    "level": 5,
+    "ex_zh": "My dissertation is due in May.",
+    "ex_py": "mai di-sə-TEI-shən iz dyuu in mei",
+    "ex_es": "Mi trabajo final es para mayo."
+  },
+  {
+    "hanzi": "bibliography",
+    "pinyin": "bi-bli-O-grə-fi",
+    "es": "bibliografía",
+    "level": 5,
+    "ex_zh": "Add the book to your bibliography.",
+    "ex_py": "ad dhə buk tuu yoo bi-bli-O-grə-fi",
+    "ex_es": "Agregá el libro a tu bibliografía."
+  },
+  {
+    "hanzi": "footnote",
+    "pinyin": "FUT-nəut",
+    "es": "nota al pie",
+    "level": 5,
+    "ex_zh": "The footnote explains the date.",
+    "ex_py": "dhə FUT-nəut ik-SPLEINZ dhə deit",
+    "ex_es": "La nota al pie explica la fecha."
+  },
+  {
+    "hanzi": "methodology",
+    "pinyin": "me-thə-DO-lə-dji",
+    "es": "metodología",
+    "level": 5,
+    "ex_zh": "The methodology is clearly described.",
+    "ex_py": "dhə me-thə-DO-lə-dji iz KLIƏ-li di-SKRAIBD",
+    "ex_es": "La metodología está claramente descrita."
+  },
+  {
+    "hanzi": "proofread",
+    "pinyin": "PRUUF-riid",
+    "es": "revisar; corregir pruebas",
+    "level": 5,
+    "ex_zh": "Please proofread your essay.",
+    "ex_py": "pliiz PRUUF-riid yoo E-sei",
+    "ex_es": "Por favor, corregí tu ensayo."
+  },
+  {
+    "hanzi": "plagiarism",
+    "pinyin": "PLEI-djə-ri-zəm",
+    "es": "plagio",
+    "level": 5,
+    "ex_zh": "Plagiarism is a serious offence.",
+    "ex_py": "PLEI-djə-ri-zəm iz ə SIƏ-ri-əs ə-FENS",
+    "ex_es": "El plagio es una falta grave."
+  },
+  {
+    "hanzi": "a piece of cake",
+    "pinyin": "ə piis əv KEIK",
+    "es": "pan comido; muy fácil",
+    "level": 5,
+    "ex_zh": "The exam was a piece of cake.",
+    "ex_py": "dhə ig-ZAM woz ə piis ov keik",
+    "ex_es": "El examen fue pan comido."
+  },
+  {
+    "hanzi": "under the weather",
+    "pinyin": "AN-də dhə WE-dhə",
+    "es": "indispuesto; mal",
+    "level": 5,
+    "ex_zh": "I'm a bit under the weather today.",
+    "ex_py": "aim ə bit AN-də dhə WE-dhə tə-DEI",
+    "ex_es": "Hoy ando un poco indispuesto."
+  },
+  {
+    "hanzi": "bite the bullet",
+    "pinyin": "bait dhə BU-lit",
+    "es": "tragarse el orgullo; hacer lo difícil",
+    "level": 5,
+    "ex_zh": "I just had to bite the bullet.",
+    "ex_py": "ai djast had tuu bait dhə BU-lit",
+    "ex_es": "Tuve que hacer de tripas corazón."
+  },
+  {
+    "hanzi": "spill the beans",
+    "pinyin": "spil dhə BIINZ",
+    "es": "contar un secreto",
+    "level": 5,
+    "ex_zh": "Don't spill the beans about the party.",
+    "ex_py": "dəunt spil dhə biinz ə-BAUT dhə PAA-ti",
+    "ex_es": "No cuentes el secreto de la fiesta."
+  },
+  {
+    "hanzi": "break the ice",
+    "pinyin": "breik dhi AIS",
+    "es": "romper el hielo",
+    "level": 5,
+    "ex_zh": "A joke helped to break the ice.",
+    "ex_py": "ə djəuk helpt tuu breik dhə ais",
+    "ex_es": "Un chiste ayudó a romper el hielo."
+  },
+  {
+    "hanzi": "once in a blue moon",
+    "pinyin": "wans in ə bluu MUUN",
+    "es": "muy de vez en cuando",
+    "level": 5,
+    "ex_zh": "We go out once in a blue moon.",
+    "ex_py": "wii gəu aut wans in ə bluu muun",
+    "ex_es": "Salimos muy de vez en cuando."
+  },
+  {
+    "hanzi": "hit the nail on the head",
+    "pinyin": "hit dhə NEIL on dhə HED",
+    "es": "dar en el clavo",
+    "level": 5,
+    "ex_zh": "You hit the nail on the head.",
+    "ex_py": "yuu hit dhə neil on dhə hed",
+    "ex_es": "Diste en el clavo."
+  },
+  {
+    "hanzi": "cost an arm and a leg",
+    "pinyin": "kost ən AAM ənd ə LEG",
+    "es": "costar un ojo de la cara",
+    "level": 5,
+    "ex_zh": "That watch cost an arm and a leg.",
+    "ex_py": "dhat woch kost ən aam and ə leg",
+    "ex_es": "Ese reloj costó un ojo de la cara."
+  },
+  {
+    "hanzi": "empire",
+    "pinyin": "EM-paiə",
+    "es": "imperio",
+    "level": 5,
+    "ex_zh": "The British Empire was huge.",
+    "ex_py": "dhə BRI-tish EM-paiə woz hyuudj",
+    "ex_es": "El Imperio Británico fue enorme."
+  },
+  {
+    "hanzi": "Victorian",
+    "pinyin": "vik-TOO-ri-ən",
+    "es": "victoriano",
+    "level": 5,
+    "ex_zh": "It's a lovely Victorian house.",
+    "ex_py": "its ə LAV-li vik-TOO-ri-ən haus",
+    "ex_es": "Es una hermosa casa victoriana."
+  },
+  {
+    "hanzi": "medieval",
+    "pinyin": "me-DII-vəl",
+    "es": "medieval",
+    "level": 5,
+    "ex_zh": "The castle is medieval.",
+    "ex_py": "dhə KAA-səl iz me-DII-vəl",
+    "ex_es": "El castillo es medieval."
+  },
+  {
+    "hanzi": "Tudor",
+    "pinyin": "TYUU-də",
+    "es": "Tudor (dinastía)",
+    "level": 5,
+    "ex_zh": "Henry VIII was a Tudor king.",
+    "ex_py": "HEN-ri eithth woz ə TYUU-də king",
+    "ex_es": "Enrique VIII fue un rey Tudor."
+  },
+  {
+    "hanzi": "Industrial Revolution",
+    "pinyin": "in-DA-stri-əl re-və-LUU-shən",
+    "es": "Revolución Industrial",
+    "level": 5,
+    "ex_zh": "The Industrial Revolution began in Britain.",
+    "ex_py": "dhə in-DA-stri-əl re-və-LUU-shən bi-GAN in BRI-tən",
+    "ex_es": "La Revolución Industrial empezó en Gran Bretaña."
+  },
+  {
+    "hanzi": "Magna Carta",
+    "pinyin": "MAG-nə KAA-tə",
+    "es": "Carta Magna",
+    "level": 5,
+    "ex_zh": "Magna Carta was signed in 1215.",
+    "ex_py": "MAG-nə KAA-tə woz saind in",
+    "ex_es": "La Carta Magna se firmó en 1215."
+  },
+  {
+    "hanzi": "Blitz",
+    "pinyin": "blits",
+    "es": "bombardeo de Londres (1940-41)",
+    "level": 5,
+    "ex_zh": "My grandmother remembers the Blitz.",
+    "ex_py": "mai GRAN-ma-dhə ri-MEM-bəz dhə blits",
+    "ex_es": "Mi abuela recuerda el Blitz."
+  },
+  {
+    "hanzi": "dynasty",
+    "pinyin": "DI-nə-sti",
+    "es": "dinastía",
+    "level": 5,
+    "ex_zh": "The Tudor dynasty ended in 1603.",
+    "ex_py": "dhə TYUU-də DI-nə-sti EN-did in",
+    "ex_es": "La dinastía Tudor terminó en 1603."
+  },
+  {
+    "hanzi": "resilience",
+    "pinyin": "ri-ZI-li-əns",
+    "es": "resiliencia",
+    "level": 5,
+    "ex_zh": "Resilience helps in hard times.",
+    "ex_py": "ri-ZI-li-əns helps in haad taimz",
+    "ex_es": "La resiliencia ayuda en tiempos difíciles."
+  },
+  {
+    "hanzi": "anxiety",
+    "pinyin": "ang-ZAI-ə-ti",
+    "es": "ansiedad",
+    "level": 5,
+    "ex_zh": "She suffers from anxiety.",
+    "ex_py": "shii SA-fəz from ang-ZAI-ə-ti",
+    "ex_es": "Sufre de ansiedad."
+  },
+  {
+    "hanzi": "empathy",
+    "pinyin": "EM-pə-thi",
+    "es": "empatía",
+    "level": 5,
+    "ex_zh": "Empathy is key in teaching.",
+    "ex_py": "EM-pə-thi iz kii in TII-ching",
+    "ex_es": "La empatía es clave en la enseñanza."
+  },
+  {
+    "hanzi": "motivation",
+    "pinyin": "məu-ti-VEI-shən",
+    "es": "motivación",
+    "level": 5,
+    "ex_zh": "He lost his motivation.",
+    "ex_py": "hii lost hiz məu-ti-VEI-shən",
+    "ex_es": "Perdió la motivación."
+  },
+  {
+    "hanzi": "burnout",
+    "pinyin": "BƏƏN-aut",
+    "es": "agotamiento extremo",
+    "level": 5,
+    "ex_zh": "Burnout is common among nurses.",
+    "ex_py": "BƏƏN-aut iz KO-mən ə-MANG NƏƏ-siz",
+    "ex_es": "El agotamiento extremo es común entre los enfermeros."
+  },
+  {
+    "hanzi": "wellbeing",
+    "pinyin": "wel-BII-ing",
+    "es": "bienestar",
+    "level": 5,
+    "ex_zh": "Staff wellbeing is a priority.",
+    "ex_py": "staaf wel-BII-ing iz ə prai-O-rə-ti",
+    "ex_es": "El bienestar del personal es una prioridad."
+  },
+  {
+    "hanzi": "mindset",
+    "pinyin": "MAIND-set",
+    "es": "mentalidad",
+    "level": 5,
+    "ex_zh": "A positive mindset helps.",
+    "ex_py": "ə PO-zi-tiv MAIND-set helps",
+    "ex_es": "Una mentalidad positiva ayuda."
+  },
+  {
+    "hanzi": "cope",
+    "pinyin": "kəup",
+    "es": "afrontar; arreglárselas",
+    "level": 5,
+    "ex_zh": "I can't cope with this pressure.",
+    "ex_py": "ai kaant kəup widh dhis PRE-shə",
+    "ex_es": "No puedo afrontar esta presión."
+  },
+  {
+    "hanzi": "biodiversity",
+    "pinyin": "bai-əu-dai-VƏƏ-sə-ti",
+    "es": "biodiversidad",
+    "level": 5,
+    "ex_zh": "Biodiversity is declining fast.",
+    "ex_py": "bai-əu-dai-VƏƏ-sə-ti iz di-KLAI-ning faast",
+    "ex_es": "La biodiversidad está disminuyendo rápido."
+  },
+  {
+    "hanzi": "deforestation",
+    "pinyin": "dii-fo-ri-STEI-shən",
+    "es": "deforestación",
+    "level": 5,
+    "ex_zh": "Deforestation threatens many species.",
+    "ex_py": "dii-fo-ri-STEI-shən THRE-tənz ME-ni SPII-shiiz",
+    "ex_es": "La deforestación amenaza a muchas especies."
+  },
+  {
+    "hanzi": "emissions",
+    "pinyin": "i-MI-shənz",
+    "es": "emisiones",
+    "level": 5,
+    "ex_zh": "We must cut emissions.",
+    "ex_py": "wii mast kat i-MI-shənz",
+    "ex_es": "Tenemos que reducir las emisiones."
+  },
+  {
+    "hanzi": "renewable",
+    "pinyin": "ri-NYUU-ə-bəl",
+    "es": "renovable",
+    "level": 5,
+    "ex_zh": "Wind is a renewable energy.",
+    "ex_py": "wind iz ə ri-NYUU-ə-bəl E-nə-dji",
+    "ex_es": "El viento es una energía renovable."
+  },
+  {
+    "hanzi": "net zero",
+    "pinyin": "net ZIƏ-rəu",
+    "es": "cero emisiones netas",
+    "level": 5,
+    "ex_zh": "Britain aims for net zero by 2050.",
+    "ex_py": "BRI-tən eimz foo net ZIƏ-rəu bai",
+    "ex_es": "Gran Bretaña apunta a cero emisiones netas en 2050."
+  },
+  {
+    "hanzi": "conservation",
+    "pinyin": "kon-sə-VEI-shən",
+    "es": "conservación",
+    "level": 5,
+    "ex_zh": "Conservation protects wildlife.",
+    "ex_py": "kon-sə-VEI-shən prə-TEKTS WAILD-laif",
+    "ex_es": "La conservación protege la fauna."
+  },
+  {
+    "hanzi": "landfill",
+    "pinyin": "LAND-fil",
+    "es": "vertedero",
+    "level": 5,
+    "ex_zh": "Too much rubbish goes to landfill.",
+    "ex_py": "tuu mach RA-bish gəuz tuu LAND-fil",
+    "ex_es": "Demasiada basura va al vertedero."
+  },
+  {
+    "hanzi": "carbon footprint",
+    "pinyin": "KAA-bən FUT-print",
+    "es": "huella de carbono",
+    "level": 5,
+    "ex_zh": "Reduce your carbon footprint.",
+    "ex_py": "ri-DYUUS yoo KAA-bən FUT-print",
+    "ex_es": "Reducí tu huella de carbono."
+  },
+  {
+    "hanzi": "polite",
+    "pinyin": "pə-LAIT",
+    "es": "educado; cortés",
+    "level": 5,
+    "ex_zh": "He is always very polite.",
+    "ex_py": "hii iz OOL-weiz VE-ri pə-LAIT",
+    "ex_es": "Siempre es muy educado."
+  },
+  {
+    "hanzi": "courteous",
+    "pinyin": "KƏƏ-ti-əs",
+    "es": "cortés; atento",
+    "level": 5,
+    "ex_zh": "The staff were courteous.",
+    "ex_py": "dhə staaf wəə KƏƏ-ti-əs",
+    "ex_es": "El personal fue cortés."
+  },
+  {
+    "hanzi": "tact",
+    "pinyin": "takt",
+    "es": "tacto",
+    "level": 5,
+    "ex_zh": "She handled it with great tact.",
+    "ex_py": "shii HAN-dəld it widh greit takt",
+    "ex_es": "Lo manejó con mucho tacto."
+  },
+  {
+    "hanzi": "etiquette",
+    "pinyin": "E-ti-ket",
+    "es": "etiqueta; normas sociales",
+    "level": 5,
+    "ex_zh": "It's bad etiquette to interrupt.",
+    "ex_py": "its bad E-ti-ket tuu in-tə-RAPT",
+    "ex_es": "Es mala educación interrumpir."
+  },
+  {
+    "hanzi": "stiff upper lip",
+    "pinyin": "stif A-pə LIP",
+    "es": "contención emocional",
+    "level": 5,
+    "ex_zh": "He kept a stiff upper lip.",
+    "ex_py": "hii kept ə stif A-pə lip",
+    "ex_es": "Mantuvo la compostura."
+  },
+  {
+    "hanzi": "apologise",
+    "pinyin": "ə-PO-lə-djaiz",
+    "es": "disculparse; pedir perdón",
+    "level": 5,
+    "ex_zh": "I must apologise for the delay.",
+    "ex_py": "ai mast ə-PO-lə-djaiz foo dhə di-LEI",
+    "ex_es": "Debo disculparme por la demora."
+  },
+  {
+    "hanzi": "awkward",
+    "pinyin": "OO-kwəd",
+    "es": "incómodo; torpe",
+    "level": 5,
+    "ex_zh": "It was an awkward silence.",
+    "ex_py": "it woz ən OO-kwəd SAI-ləns",
+    "ex_es": "Fue un silencio incómodo."
+  },
+  {
+    "hanzi": "reserved",
+    "pinyin": "ri-ZƏƏVD",
+    "es": "reservado",
+    "level": 5,
+    "ex_zh": "The English can be quite reserved.",
+    "ex_py": "dhə ING-glish kan bii kwait ri-ZƏƏVD",
+    "ex_es": "Los ingleses pueden ser bastante reservados."
+  },
+  {
+    "hanzi": "blunt",
+    "pinyin": "blant",
+    "es": "directo; brusco",
+    "level": 5,
+    "ex_zh": "Don't be so blunt.",
+    "ex_py": "dəunt bii səu blant",
+    "ex_es": "No seas tan directo."
+  },
+  {
+    "hanzi": "eloquent",
+    "pinyin": "E-lə-kwənt",
+    "es": "elocuente",
+    "level": 5,
+    "ex_zh": "She gave an eloquent speech.",
+    "ex_py": "shii geiv ən E-lə-kwənt spiich",
+    "ex_es": "Dio un discurso elocuente."
+  },
+  {
+    "hanzi": "rhetoric",
+    "pinyin": "RE-tə-rik",
+    "es": "retórica",
+    "level": 5,
+    "ex_zh": "His rhetoric inspired many.",
+    "ex_py": "hiz RE-tə-rik in-SPAIƏD ME-ni",
+    "ex_es": "Su retórica inspiró a muchos."
+  },
+  {
+    "hanzi": "concise",
+    "pinyin": "kən-SAIS",
+    "es": "conciso",
+    "level": 5,
+    "ex_zh": "Please be concise.",
+    "ex_py": "pliiz bii kən-SAIS",
+    "ex_es": "Por favor, sé conciso."
+  },
+  {
+    "hanzi": "articulate",
+    "pinyin": "aa-TI-kyə-lət",
+    "es": "que se expresa con claridad",
+    "level": 5,
+    "ex_zh": "She is very articulate.",
+    "ex_py": "shii iz VE-ri aa-TI-kyə-lət",
+    "ex_es": "Se expresa con mucha claridad."
+  },
+  {
+    "hanzi": "persuasive",
+    "pinyin": "pə-SWEI-siv",
+    "es": "persuasivo",
+    "level": 5,
+    "ex_zh": "It was a persuasive argument.",
+    "ex_py": "it woz ə pə-SWEI-siv AA-gyə-mənt",
+    "ex_es": "Fue un argumento persuasivo."
+  },
+  {
+    "hanzi": "emphasise",
+    "pinyin": "EM-fə-saiz",
+    "es": "destacar; enfatizar",
+    "level": 5,
+    "ex_zh": "I want to emphasise this point.",
+    "ex_py": "ai wont tuu EM-fə-saiz dhis point",
+    "ex_es": "Quiero destacar este punto."
+  },
+  {
+    "hanzi": "rebuttal",
+    "pinyin": "ri-BA-təl",
+    "es": "refutación",
+    "level": 5,
+    "ex_zh": "His rebuttal was devastating.",
+    "ex_py": "hiz ri-BA-təl woz DE-və-stei-ting",
+    "ex_es": "Su refutación fue devastadora."
+  },
+  {
+    "hanzi": "coherent",
+    "pinyin": "kəu-HIƏ-rənt",
+    "es": "coherente",
+    "level": 5,
+    "ex_zh": "Make your argument coherent.",
+    "ex_py": "meik yoo AA-gyə-mənt kəu-HIƏ-rənt",
+    "ex_es": "Hacé que tu argumento sea coherente."
+  },
+  {
+    "hanzi": "irony",
+    "pinyin": "AI-rə-ni",
+    "es": "ironía",
+    "level": 6,
+    "ex_zh": "There is a lot of irony in his speech.",
+    "ex_py": "dheə iz ə lot ov AI-rə-ni in hiz spiich",
+    "ex_es": "Hay mucha ironía en su discurso."
+  },
+  {
+    "hanzi": "sarcasm",
+    "pinyin": "SAA-ka-zəm",
+    "es": "sarcasmo",
+    "level": 6,
+    "ex_zh": "Her sarcasm was quite biting.",
+    "ex_py": "həə SAA-ka-zəm woz kwait BAI-ting",
+    "ex_es": "Su sarcasmo era bastante mordaz."
+  },
+  {
+    "hanzi": "banter",
+    "pinyin": "BAN-tə",
+    "es": "bromas entre amigos",
+    "level": 6,
+    "ex_zh": "We enjoy a bit of banter at work.",
+    "ex_py": "wii in-DJOI ə bit ov BAN-tə at wəək",
+    "ex_es": "Nos gusta un poco de chanza en el trabajo."
+  },
+  {
+    "hanzi": "wit",
+    "pinyin": "wit",
+    "es": "ingenio",
+    "level": 6,
+    "ex_zh": "He is known for his quick wit.",
+    "ex_py": "hii iz nəun foo hiz kwik wit",
+    "ex_es": "Es conocido por su ingenio rápido."
+  },
+  {
+    "hanzi": "satire",
+    "pinyin": "SA-taiə",
+    "es": "sátira",
+    "level": 6,
+    "ex_zh": "The show is a satire of politics.",
+    "ex_py": "dhə shəu iz ə SA-taiə ov PO-lə-tiks",
+    "ex_es": "El programa es una sátira de la política."
+  },
+  {
+    "hanzi": "pun",
+    "pinyin": "pan",
+    "es": "juego de palabras",
+    "level": 6,
+    "ex_zh": "That was a terrible pun.",
+    "ex_py": "dhat woz ə TE-rə-bəl pan",
+    "ex_es": "Fue un juego de palabras terrible."
+  },
+  {
+    "hanzi": "dry humour",
+    "pinyin": "drai HYUU-mə",
+    "es": "humor seco",
+    "level": 6,
+    "ex_zh": "She has a very dry humour.",
+    "ex_py": "shii haz ə VE-ri drai HYUU-mə",
+    "ex_es": "Tiene un humor muy seco."
+  },
+  {
+    "hanzi": "Monty Python",
+    "pinyin": "MON-ti PAI-thən",
+    "es": "Monty Python (grupo de humor)",
+    "level": 6,
+    "ex_zh": "We watched a Monty Python film.",
+    "ex_py": "wii wocht ə MON-ti PAI-thən film",
+    "ex_es": "Vimos una película de Monty Python."
+  },
+  {
+    "hanzi": "not bad",
+    "pinyin": "not BAD",
+    "es": "bastante bien; muy bien",
+    "level": 6,
+    "ex_zh": "'How was the film?' 'Not bad.'",
+    "ex_py": "hau woz dhə film not bad",
+    "ex_es": "'¿Cómo estuvo la película?' 'No estuvo mal.'"
+  },
+  {
+    "hanzi": "rather",
+    "pinyin": "RAA-dhə",
+    "es": "bastante; más bien",
+    "level": 6,
+    "ex_zh": "It's rather cold today.",
+    "ex_py": "its RAA-dhə kəuld tə-DEI",
+    "ex_es": "Hoy hace bastante frío."
+  },
+  {
+    "hanzi": "I'm afraid",
+    "pinyin": "aim ə-FREID",
+    "es": "lamentablemente; me temo que",
+    "level": 6,
+    "ex_zh": "I'm afraid I can't help.",
+    "ex_py": "aim ə-FREID ai kaant help",
+    "ex_es": "Me temo que no puedo ayudar."
+  },
+  {
+    "hanzi": "with respect",
+    "pinyin": "widh ri-SPEKT",
+    "es": "con todo respeto",
+    "level": 6,
+    "ex_zh": "With respect, I think you're wrong.",
+    "ex_py": "widh ri-SPEKT ai thingk yoo rong",
+    "ex_es": "Con todo respeto, creo que te equivocás."
+  },
+  {
+    "hanzi": "if you don't mind",
+    "pinyin": "if yuu dəunt MAIND",
+    "es": "si no te molesta",
+    "level": 6,
+    "ex_zh": "If you don't mind, I'll sit here.",
+    "ex_py": "if yuu dəunt maind ail sit hiə",
+    "ex_es": "Si no te molesta, me siento acá."
+  },
+  {
+    "hanzi": "a bit",
+    "pinyin": "ə BIT",
+    "es": "un poco",
+    "level": 6,
+    "ex_zh": "I'm a bit tired.",
+    "ex_py": "aim ə bit taiəd",
+    "ex_es": "Estoy un poco cansado."
+  },
+  {
+    "hanzi": "I suppose",
+    "pinyin": "ai sə-PƏUZ",
+    "es": "supongo",
+    "level": 6,
+    "ex_zh": "I suppose we could go.",
+    "ex_py": "ai sə-PƏUZ wii kud gəu",
+    "ex_es": "Supongo que podríamos ir."
+  },
+  {
+    "hanzi": "quite",
+    "pinyin": "kwait",
+    "es": "bastante; completamente",
+    "level": 6,
+    "ex_zh": "It was quite brilliant.",
+    "ex_py": "it woz kwait BRIL-yənt",
+    "ex_es": "Fue realmente brillante."
+  },
+  {
+    "hanzi": "raining cats and dogs",
+    "pinyin": "REI-ning kats ənd DOGZ",
+    "es": "llover a cántaros",
+    "level": 6,
+    "ex_zh": "It's raining cats and dogs outside.",
+    "ex_py": "its REI-ning kats and dogz aut-SAID",
+    "ex_es": "Afuera llueve a cántaros."
+  },
+  {
+    "hanzi": "a storm in a teacup",
+    "pinyin": "ə stoom in ə TII-kap",
+    "es": "tormenta en un vaso de agua",
+    "level": 6,
+    "ex_zh": "It was just a storm in a teacup.",
+    "ex_py": "it woz djast ə stoom in ə TII-kap",
+    "ex_es": "Fue solo una tormenta en un vaso de agua."
+  },
+  {
+    "hanzi": "the ball is in your court",
+    "pinyin": "dhə bool iz in yoo KOOT",
+    "es": "ahora te toca a vos",
+    "level": 6,
+    "ex_zh": "I've made my offer; the ball is in your court.",
+    "ex_py": "aiv meid mai O-fə dhə bool iz in yoo koot",
+    "ex_es": "Hice mi oferta; ahora te toca a vos."
+  },
+  {
+    "hanzi": "barking up the wrong tree",
+    "pinyin": "BAA-king ap dhə rong TRII",
+    "es": "equivocarse de camino",
+    "level": 6,
+    "ex_zh": "You're barking up the wrong tree.",
+    "ex_py": "yoo BAA-king ap dhə rong trii",
+    "ex_es": "Estás buscando por donde no es."
+  },
+  {
+    "hanzi": "cut corners",
+    "pinyin": "kat KOO-nəz",
+    "es": "hacer algo a medias",
+    "level": 6,
+    "ex_zh": "Don't cut corners on safety.",
+    "ex_py": "dəunt kat KOO-nəz on SEIF-ti",
+    "ex_es": "No hagas las cosas a medias con la seguridad."
+  },
+  {
+    "hanzi": "get the wrong end of the stick",
+    "pinyin": "get dhə rong end əv dhə STIK",
+    "es": "malinterpretar",
+    "level": 6,
+    "ex_zh": "I think you got the wrong end of the stick.",
+    "ex_py": "ai thingk yuu got dhə rong end ov dhə stik",
+    "ex_es": "Creo que entendiste mal."
+  },
+  {
+    "hanzi": "back to square one",
+    "pinyin": "bak tə skweə WAN",
+    "es": "volver a empezar",
+    "level": 6,
+    "ex_zh": "We're back to square one.",
+    "ex_py": "wiə bak tuu skweə wan",
+    "ex_es": "Estamos otra vez en el punto de partida."
+  },
+  {
+    "hanzi": "the elephant in the room",
+    "pinyin": "dhi E-li-fənt in dhə RUUM",
+    "es": "el problema evidente que nadie nombra",
+    "level": 6,
+    "ex_zh": "Money is the elephant in the room.",
+    "ex_py": "MA-ni iz dhə E-li-fənt in dhə ruum",
+    "ex_es": "La plata es el elefante en la habitación."
+  },
+  {
+    "hanzi": "hereby",
+    "pinyin": "hiə-BAI",
+    "es": "por la presente",
+    "level": 6,
+    "ex_zh": "I hereby resign from my post.",
+    "ex_py": "ai hiə-BAI ri-ZAIN from mai pəust",
+    "ex_es": "Por la presente renuncio a mi cargo."
+  },
+  {
+    "hanzi": "aforementioned",
+    "pinyin": "ə-FOO-men-shənd",
+    "es": "antes mencionado",
+    "level": 6,
+    "ex_zh": "The aforementioned person is absent.",
+    "ex_py": "dhə ə-FOO-men-shənd PƏƏ-sən iz AB-sənt",
+    "ex_es": "La persona antes mencionada está ausente."
+  },
+  {
+    "hanzi": "pursuant to",
+    "pinyin": "pə-SYUU-ənt tuu",
+    "es": "conforme a",
+    "level": 6,
+    "ex_zh": "Pursuant to the contract, you must pay.",
+    "ex_py": "pə-SYUU-ənt tuu dhə KON-trakt yuu mast pei",
+    "ex_es": "Conforme al contrato, debe pagar."
+  },
+  {
+    "hanzi": "kindly",
+    "pinyin": "KAIND-li",
+    "es": "amablemente; tenga a bien",
+    "level": 6,
+    "ex_zh": "Kindly confirm your attendance.",
+    "ex_py": "KAIND-li kən-FƏƏM yoo ə-TEN-dəns",
+    "ex_es": "Tenga a bien confirmar su asistencia."
+  },
+  {
+    "hanzi": "regarding",
+    "pinyin": "ri-GAA-ding",
+    "es": "con respecto a",
+    "level": 6,
+    "ex_zh": "I'm writing regarding your invoice.",
+    "ex_py": "aim RAI-ting ri-GAA-ding yoo IN-vois",
+    "ex_es": "Escribo con respecto a su factura."
+  },
+  {
+    "hanzi": "enclosed",
+    "pinyin": "in-KLƏUZD",
+    "es": "adjunto; incluido",
+    "level": 6,
+    "ex_zh": "Please find enclosed my CV.",
+    "ex_py": "pliiz faind in-KLƏUZD mai sii-VII",
+    "ex_es": "Encontrará adjunto mi currículum."
+  },
+  {
+    "hanzi": "yours sincerely",
+    "pinyin": "yooz sin-SIƏ-li",
+    "es": "atentamente (cuando se nombra al destinatario)",
+    "level": 6,
+    "ex_zh": "Yours sincerely, Anna Brown.",
+    "ex_py": "yooz sin-SIƏ-li A-nə braun",
+    "ex_es": "Atentamente, Anna Brown."
+  },
+  {
+    "hanzi": "yours faithfully",
+    "pinyin": "yooz FEIDH-fə-li",
+    "es": "atentamente (carta a «Sir or Madam»)",
+    "level": 6,
+    "ex_zh": "Yours faithfully, J. Green.",
+    "ex_py": "yooz FEITH-fə-li djei griin",
+    "ex_es": "Atentamente, J. Green."
+  },
+  {
+    "hanzi": "to whom it may concern",
+    "pinyin": "tə huum it mei kən-SƏƏN",
+    "es": "a quien corresponda",
+    "level": 6,
+    "ex_zh": "To whom it may concern, I am writing to apply.",
+    "ex_py": "tuu huum it mei kən-SƏƏN ai am RAI-ting tuu ə-PLAI",
+    "ex_es": "A quien corresponda, escribo para postularme."
+  },
+  {
+    "hanzi": "scone",
+    "pinyin": "skon",
+    "es": "scone (panecillo dulce)",
+    "level": 6,
+    "ex_zh": "I'd like a scone with jam and cream.",
+    "ex_py": "aid laik ə skon widh djam and kriim",
+    "ex_es": "Quisiera un scone con mermelada y crema."
+  },
+  {
+    "hanzi": "crumpet",
+    "pinyin": "KRAM-pit",
+    "es": "panqueque esponjoso",
+    "level": 6,
+    "ex_zh": "A crumpet with butter is delicious.",
+    "ex_py": "ə KRAM-pit widh BA-tə iz di-LI-shəs",
+    "ex_es": "Un crumpet con manteca es delicioso."
+  },
+  {
+    "hanzi": "Marmite",
+    "pinyin": "MAA-mait",
+    "es": "Marmite (pasta de levadura)",
+    "level": 6,
+    "ex_zh": "I love Marmite on toast.",
+    "ex_py": "ai lav MAA-mait on təust",
+    "ex_es": "Me encanta el Marmite en tostadas."
+  },
+  {
+    "hanzi": "Yorkshire pudding",
+    "pinyin": "YOO-shə PU-ding",
+    "es": "masa horneada de Yorkshire",
+    "level": 6,
+    "ex_zh": "Yorkshire pudding goes with roast beef.",
+    "ex_py": "YOO-shə PU-ding gəuz widh rəust biif",
+    "ex_es": "El Yorkshire pudding va con el rosbif."
+  },
+  {
+    "hanzi": "trifle",
+    "pinyin": "TRAI-fəl",
+    "es": "postre en capas (trifle)",
+    "level": 6,
+    "ex_zh": "We always have trifle at Christmas.",
+    "ex_py": "wii OOL-weiz hav TRAI-fəl at KRIS-məs",
+    "ex_es": "Siempre comemos trifle en Navidad."
+  },
+  {
+    "hanzi": "afternoon tea",
+    "pinyin": "aaf-tə-NUUN TII",
+    "es": "té de la tarde",
+    "level": 6,
+    "ex_zh": "We had afternoon tea at the Ritz.",
+    "ex_py": "wii had aaf-tə-NUUN tii at dhə rits",
+    "ex_es": "Tomamos el té de la tarde en el Ritz."
+  },
+  {
+    "hanzi": "Sunday roast",
+    "pinyin": "SAN-dei RƏUST",
+    "es": "asado dominical",
+    "level": 6,
+    "ex_zh": "Sunday roast is my favourite meal.",
+    "ex_py": "SAN-dei rəust iz mai FEI-və-rit miil",
+    "ex_es": "El asado dominical es mi comida favorita."
+  },
+  {
+    "hanzi": "Full English",
+    "pinyin": "ful ING-glish",
+    "es": "desayuno inglés completo",
+    "level": 6,
+    "ex_zh": "I'll have the Full English, please.",
+    "ex_py": "ail hav dhə ful ING-glish pliiz",
+    "ex_es": "Voy a pedir el desayuno inglés completo, por favor."
+  },
+  {
+    "hanzi": "sonnet",
+    "pinyin": "SO-nit",
+    "es": "soneto",
+    "level": 6,
+    "ex_zh": "Shakespeare wrote 154 sonnets.",
+    "ex_py": "SHEIK-spiə rəut SO-nits",
+    "ex_es": "Shakespeare escribió 154 sonetos."
+  },
+  {
+    "hanzi": "prose",
+    "pinyin": "prəuz",
+    "es": "prosa",
+    "level": 6,
+    "ex_zh": "The novel is written in simple prose.",
+    "ex_py": "dhə NO-vəl iz RI-tən in SIM-pəl prəuz",
+    "ex_es": "La novela está escrita en prosa sencilla."
+  },
+  {
+    "hanzi": "verse",
+    "pinyin": "vəəs",
+    "es": "verso; poesía",
+    "level": 6,
+    "ex_zh": "She writes verse in her spare time.",
+    "ex_py": "shii raits vəəs in həə speə taim",
+    "ex_es": "Escribe versos en su tiempo libre."
+  },
+  {
+    "hanzi": "metaphor",
+    "pinyin": "ME-tə-faa",
+    "es": "metáfora",
+    "level": 6,
+    "ex_zh": "'Time is a thief' is a metaphor.",
+    "ex_py": "taim iz ə thiif iz ə ME-tə-faa",
+    "ex_es": "'El tiempo es un ladrón' es una metáfora."
+  },
+  {
+    "hanzi": "allegory",
+    "pinyin": "A-lə-gə-ri",
+    "es": "alegoría",
+    "level": 6,
+    "ex_zh": "Animal Farm is a political allegory.",
+    "ex_py": "A-ni-məl faam iz ə pə-LI-ti-kəl A-lə-gə-ri",
+    "ex_es": "Rebelión en la granja es una alegoría política."
+  },
+  {
+    "hanzi": "idiom",
+    "pinyin": "I-di-əm",
+    "es": "modismo",
+    "level": 6,
+    "ex_zh": "'Piece of cake' is an idiom.",
+    "ex_py": "piis ov keik iz ən I-di-əm",
+    "ex_es": "'Piece of cake' es un modismo."
+  },
+  {
+    "hanzi": "alliteration",
+    "pinyin": "ə-li-tə-REI-shən",
+    "es": "aliteración",
+    "level": 6,
+    "ex_zh": "Alliteration repeats the same sound.",
+    "ex_py": "ə-li-tə-REI-shən ri-PIITS dhə seim saund",
+    "ex_es": "La aliteración repite el mismo sonido."
+  },
+  {
+    "hanzi": "oxymoron",
+    "pinyin": "ok-si-MOO-ron",
+    "es": "oxímoron",
+    "level": 6,
+    "ex_zh": "'Deafening silence' is an oxymoron.",
+    "ex_py": "DE-fə-ning SAI-ləns iz ən ok-si-MOO-ron",
+    "ex_es": "'Silencio ensordecedor' es un oxímoron."
+  },
+  {
+    "hanzi": "posh",
+    "pinyin": "posh",
+    "es": "elegante; de clase alta",
+    "level": 6,
+    "ex_zh": "She speaks in a very posh accent.",
+    "ex_py": "shii spiiks in ə VE-ri posh AK-sənt",
+    "ex_es": "Habla con un acento muy elegante."
+  },
+  {
+    "hanzi": "working class",
+    "pinyin": "WƏƏ-king klaas",
+    "es": "clase trabajadora",
+    "level": 6,
+    "ex_zh": "He comes from a working class family.",
+    "ex_py": "hii kamz from ə WƏƏ-king klaas FA-mə-li",
+    "ex_es": "Viene de una familia de clase trabajadora."
+  },
+  {
+    "hanzi": "middle class",
+    "pinyin": "MI-dəl klaas",
+    "es": "clase media",
+    "level": 6,
+    "ex_zh": "They are a middle class family.",
+    "ex_py": "dhei aa ə MI-dəl klaas FA-mə-li",
+    "ex_es": "Son una familia de clase media."
+  },
+  {
+    "hanzi": "upper class",
+    "pinyin": "A-pə klaas",
+    "es": "clase alta",
+    "level": 6,
+    "ex_zh": "The upper class owns large estates.",
+    "ex_py": "dhə A-pə klaas əunz laadj i-STEITS",
+    "ex_es": "La clase alta posee grandes propiedades."
+  },
+  {
+    "hanzi": "toff",
+    "pinyin": "tof",
+    "es": "aristócrata (coloquial)",
+    "level": 6,
+    "ex_zh": "He's a bit of a toff.",
+    "ex_py": "hiiz ə bit ov ə tof",
+    "ex_es": "Es un poco aristócrata."
+  },
+  {
+    "hanzi": "social mobility",
+    "pinyin": "SƏU-shəl məu-BI-lə-ti",
+    "es": "movilidad social",
+    "level": 6,
+    "ex_zh": "Social mobility is a key political issue.",
+    "ex_py": "SƏU-shəl məu-BI-lə-ti iz ə kii pə-LI-ti-kəl I-shuu",
+    "ex_es": "La movilidad social es un tema político central."
+  },
+  {
+    "hanzi": "public school",
+    "pinyin": "PA-blik skuul",
+    "es": "colegio privado de elite",
+    "level": 6,
+    "ex_zh": "He went to a public school.",
+    "ex_py": "hii went tuu ə PA-blik skuul",
+    "ex_es": "Fue a un colegio privado de elite."
+  },
+  {
+    "hanzi": "old school tie",
+    "pinyin": "əuld skuul TAI",
+    "es": "red de contactos de colegio de elite",
+    "level": 6,
+    "ex_zh": "The old school tie helps in business.",
+    "ex_py": "dhə əuld skuul tai helps in BIZ-nis",
+    "ex_es": "La red de contactos del colegio ayuda en los negocios."
+  },
+  {
+    "hanzi": "innit",
+    "pinyin": "I-nit",
+    "es": "¿no? (isn't it)",
+    "level": 6,
+    "ex_zh": "Nice day, innit?",
+    "ex_py": "nais dei I-nit",
+    "ex_es": "Lindo día, ¿no?"
+  },
+  {
+    "hanzi": "knackered",
+    "pinyin": "NA-kəd",
+    "es": "agotado; muerto de cansancio",
+    "level": 6,
+    "ex_zh": "I'm absolutely knackered.",
+    "ex_py": "aim AB-sə-luut-li NA-kəd",
+    "ex_es": "Estoy agotadísimo."
+  },
+  {
+    "hanzi": "cheeky",
+    "pinyin": "CHII-ki",
+    "es": "descarado (simpático)",
+    "level": 6,
+    "ex_zh": "That's a cheeky question.",
+    "ex_py": "dhats ə CHII-ki KWES-chən",
+    "ex_es": "Es una pregunta descarada."
+  },
+  {
+    "hanzi": "daft",
+    "pinyin": "daaft",
+    "es": "tonto; bobo",
+    "level": 6,
+    "ex_zh": "Don't be daft!",
+    "ex_py": "dəunt bii daaft",
+    "ex_es": "¡No seas bobo!"
+  },
+  {
+    "hanzi": "bloke",
+    "pinyin": "bləuk",
+    "es": "tipo; hombre",
+    "level": 6,
+    "ex_zh": "He's a nice bloke.",
+    "ex_py": "hiiz ə nais bləuk",
+    "ex_es": "Es un buen tipo."
+  },
+  {
+    "hanzi": "fiver",
+    "pinyin": "FAI-və",
+    "es": "billete de cinco libras",
+    "level": 6,
+    "ex_zh": "Can you lend me a fiver?",
+    "ex_py": "kan yuu lend mii ə FAI-və",
+    "ex_es": "¿Me prestás cinco libras?"
+  },
+  {
+    "hanzi": "tenner",
+    "pinyin": "TE-nə",
+    "es": "billete de diez libras",
+    "level": 6,
+    "ex_zh": "It costs a tenner.",
+    "ex_py": "it kosts ə TE-nə",
+    "ex_es": "Cuesta diez libras."
+  },
+  {
+    "hanzi": "skint",
+    "pinyin": "skint",
+    "es": "sin plata; pelado",
+    "level": 6,
+    "ex_zh": "I'm skint until Friday.",
+    "ex_py": "aim skint ən-TIL FRAI-dei",
+    "ex_es": "Estoy pelado hasta el viernes."
+  },
+  {
+    "hanzi": "dodgy",
+    "pinyin": "DO-dji",
+    "es": "sospechoso; dudoso",
+    "level": 6,
+    "ex_zh": "That looks a bit dodgy.",
+    "ex_py": "dhat luks ə bit DO-dji",
+    "ex_es": "Eso se ve un poco sospechoso."
+  },
+  {
+    "hanzi": "gobsmacked",
+    "pinyin": "GOB-smakt",
+    "es": "boquiabierto",
+    "level": 6,
+    "ex_zh": "I was completely gobsmacked.",
+    "ex_py": "ai woz kəm-PLIIT-li GOB-smakt",
+    "ex_es": "Me quedé completamente boquiabierto."
+  },
+  {
+    "hanzi": "Hogmanay",
+    "pinyin": "HOG-mə-nei",
+    "es": "Nochevieja escocesa",
+    "level": 6,
+    "ex_zh": "We spent Hogmanay in Edinburgh.",
+    "ex_py": "wii spent HOG-mə-nei in E-din-bə-rə",
+    "ex_es": "Pasamos el Hogmanay en Edimburgo."
+  },
+  {
+    "hanzi": "Burns Night",
+    "pinyin": "bəənz NAIT",
+    "es": "Noche de Burns (25 de enero)",
+    "level": 6,
+    "ex_zh": "We eat haggis on Burns Night.",
+    "ex_py": "wii iit HA-gis on bəənz nait",
+    "ex_es": "Comemos haggis en la Noche de Burns."
+  },
+  {
+    "hanzi": "Remembrance Day",
+    "pinyin": "ri-MEM-brəns DEI",
+    "es": "Día del Recuerdo (11 de noviembre)",
+    "level": 6,
+    "ex_zh": "People wear poppies for Remembrance Day.",
+    "ex_py": "PII-pəl weə PO-piz foo ri-MEM-brəns dei",
+    "ex_es": "La gente usa amapolas por el Día del Recuerdo."
+  },
+  {
+    "hanzi": "Guy Fawkes",
+    "pinyin": "GAI FOOKS",
+    "es": "Guy Fawkes (conspirador de 1605)",
+    "level": 6,
+    "ex_zh": "Guy Fawkes tried to blow up Parliament.",
+    "ex_py": "gai fooks traid tuu bləu ap PAA-lə-mənt",
+    "ex_es": "Guy Fawkes intentó volar el Parlamento."
+  },
+  {
+    "hanzi": "May Day",
+    "pinyin": "MEI dei",
+    "es": "Primero de Mayo; fiesta de la primavera",
+    "level": 6,
+    "ex_zh": "Villages dance on May Day.",
+    "ex_py": "VI-li-djiz daans on mei dei",
+    "ex_es": "Los pueblos bailan el Primero de Mayo."
+  },
+  {
+    "hanzi": "maypole",
+    "pinyin": "MEI-pəul",
+    "es": "palo de mayo (con cintas)",
+    "level": 6,
+    "ex_zh": "The children danced around the maypole.",
+    "ex_py": "dhə CHIL-drən daanst ə-RAUND dhə MEI-pəul",
+    "ex_es": "Los chicos bailaron alrededor del palo de mayo."
+  },
+  {
+    "hanzi": "morris dancing",
+    "pinyin": "MO-ris DAAN-sing",
+    "es": "danza folclórica inglesa",
+    "level": 6,
+    "ex_zh": "Morris dancing is very old.",
+    "ex_py": "MO-ris DAAN-sing iz VE-ri əuld",
+    "ex_es": "La danza morris es muy antigua."
+  },
+  {
+    "hanzi": "Trooping the Colour",
+    "pinyin": "TRUU-ping dhə KA-lə",
+    "es": "desfile del cumpleaños oficial del monarca",
+    "level": 6,
+    "ex_zh": "Trooping the Colour takes place in June.",
+    "ex_py": "TRUU-ping dhə KA-lə teiks pleis in djuun",
+    "ex_es": "El Trooping the Colour se hace en junio."
+  },
+  {
+    "hanzi": "subjunctive",
+    "pinyin": "səb-DJANK-tiv",
+    "es": "subjuntivo",
+    "level": 6,
+    "ex_zh": "I suggest that he be present.",
+    "ex_py": "ai sə-DJEST dhat hii bii PRE-zənt",
+    "ex_es": "Sugiero que esté presente."
+  },
+  {
+    "hanzi": "inversion",
+    "pinyin": "in-VƏƏ-shən",
+    "es": "inversión (gramatical)",
+    "level": 6,
+    "ex_zh": "Inversion adds emphasis.",
+    "ex_py": "in-VƏƏ-shən adz EM-fə-sis",
+    "ex_es": "La inversión añade énfasis."
+  },
+  {
+    "hanzi": "ellipsis",
+    "pinyin": "i-LIP-sis",
+    "es": "elipsis",
+    "level": 6,
+    "ex_zh": "Ellipsis avoids repetition.",
+    "ex_py": "i-LIP-sis ə-VOIDZ re-pə-TI-shən",
+    "ex_es": "La elipsis evita la repetición."
+  },
+  {
+    "hanzi": "hedging",
+    "pinyin": "HE-djing",
+    "es": "atenuación (en el discurso)",
+    "level": 6,
+    "ex_zh": "Hedging is typical of academic writing.",
+    "ex_py": "HE-djing iz TI-pi-kəl ov a-kə-DE-mik RAI-ting",
+    "ex_es": "La atenuación es típica de la escritura académica."
+  },
+  {
+    "hanzi": "nominalisation",
+    "pinyin": "no-mi-nə-lai-ZEI-shən",
+    "es": "nominalización",
+    "level": 6,
+    "ex_zh": "Nominalisation makes a text more formal.",
+    "ex_py": "no-mi-nə-lai-ZEI-shən meiks ə tekst moo FOO-məl",
+    "ex_es": "La nominalización hace un texto más formal."
+  },
+  {
+    "hanzi": "passive voice",
+    "pinyin": "PA-siv VOIS",
+    "es": "voz pasiva",
+    "level": 6,
+    "ex_zh": "Use the passive voice here.",
+    "ex_py": "yuuz dhə PA-siv vois hiə",
+    "ex_es": "Usá la voz pasiva acá."
+  },
+  {
+    "hanzi": "register",
+    "pinyin": "RE-dji-stə",
+    "es": "registro (nivel de formalidad)",
+    "level": 6,
+    "ex_zh": "Choose the right register.",
+    "ex_py": "chuuz dhə rait RE-dji-stə",
+    "ex_es": "Elegí el registro adecuado."
+  },
+  {
+    "hanzi": "colloquial",
+    "pinyin": "kə-LƏU-kwi-əl",
+    "es": "coloquial",
+    "level": 6,
+    "ex_zh": "That word is quite colloquial.",
+    "ex_py": "dhat wəəd iz kwait kə-LƏU-kwi-əl",
+    "ex_es": "Esa palabra es bastante coloquial."
+  },
+  {
+    "hanzi": "archaic",
+    "pinyin": "aa-KEI-ik",
+    "es": "arcaico",
+    "level": 6,
+    "ex_zh": "'Thou' is an archaic word.",
+    "ex_py": "dhau iz ən aa-KEI-ik wəəd",
+    "ex_es": "'Thou' es una palabra arcaica."
+  },
+  {
+    "hanzi": "fallacy",
+    "pinyin": "FA-lə-si",
+    "es": "falacia",
+    "level": 6,
+    "ex_zh": "That argument is a fallacy.",
+    "ex_py": "dhat AA-gyə-mənt iz ə FA-lə-si",
+    "ex_es": "Ese argumento es una falacia."
+  },
+  {
+    "hanzi": "premise",
+    "pinyin": "PRE-mis",
+    "es": "premisa",
+    "level": 6,
+    "ex_zh": "The premise is false.",
+    "ex_py": "dhə PRE-mis iz fools",
+    "ex_es": "La premisa es falsa."
+  },
+  {
+    "hanzi": "counterargument",
+    "pinyin": "KAUN-tə-aa-gyə-mənt",
+    "es": "contraargumento",
+    "level": 6,
+    "ex_zh": "She raised a strong counterargument.",
+    "ex_py": "shii reizd ə strong KAUN-tə-aa-gyə-mənt",
+    "ex_es": "Presentó un contraargumento sólido."
+  },
+  {
+    "hanzi": "bias",
+    "pinyin": "BAI-əs",
+    "es": "sesgo",
+    "level": 6,
+    "ex_zh": "The study shows a clear bias.",
+    "ex_py": "dhə STA-di shəuz ə kliə BAI-əs",
+    "ex_es": "El estudio muestra un sesgo claro."
+  },
+  {
+    "hanzi": "scrutiny",
+    "pinyin": "SKRUU-tə-ni",
+    "es": "escrutinio",
+    "level": 6,
+    "ex_zh": "The plan is under scrutiny.",
+    "ex_py": "dhə plan iz AN-də SKRUU-tə-ni",
+    "ex_es": "El plan está bajo escrutinio."
+  },
+  {
+    "hanzi": "rigorous",
+    "pinyin": "RI-gə-rəs",
+    "es": "riguroso",
+    "level": 6,
+    "ex_zh": "The analysis is rigorous.",
+    "ex_py": "dhə ə-NA-lə-sis iz RI-gə-rəs",
+    "ex_es": "El análisis es riguroso."
+  },
+  {
+    "hanzi": "nuanced",
+    "pinyin": "NYUU-aanst",
+    "es": "matizado",
+    "level": 6,
+    "ex_zh": "It was a nuanced debate.",
+    "ex_py": "it woz ə NYUU-aanst di-BEIT",
+    "ex_es": "Fue un debate matizado."
+  },
+  {
+    "hanzi": "critique",
+    "pinyin": "kri-TIIK",
+    "es": "análisis crítico",
+    "level": 6,
+    "ex_zh": "Write a critique of the article.",
+    "ex_py": "rait ə kri-TIIK ov dhə AA-ti-kəl",
+    "ex_es": "Escribí un análisis crítico del artículo."
+  },
+  {
+    "hanzi": "congratulations",
+    "pinyin": "kən-gra-chə-LEI-shənz",
+    "es": "felicitaciones",
+    "level": 6,
+    "ex_zh": "Congratulations on passing the exam!",
+    "ex_py": "kən-gra-chə-LEI-shənz on PAA-sing dhə ig-ZAM",
+    "ex_es": "¡Felicitaciones por aprobar el examen!"
+  },
+  {
+    "hanzi": "milestone",
+    "pinyin": "MAIL-stəun",
+    "es": "hito; logro importante",
+    "level": 6,
+    "ex_zh": "Today is an important milestone.",
+    "ex_py": "tə-DEI iz ən im-POO-tənt MAIL-stəun",
+    "ex_es": "Hoy es un hito importante."
+  },
+  {
+    "hanzi": "journey",
+    "pinyin": "DJƏƏ-ni",
+    "es": "viaje; recorrido",
+    "level": 6,
+    "ex_zh": "Learning a language is a long journey.",
+    "ex_py": "LƏƏ-ning ə LANG-gwidj iz ə long DJƏƏ-ni",
+    "ex_es": "Aprender un idioma es un largo recorrido."
+  },
+  {
+    "hanzi": "achievement",
+    "pinyin": "ə-CHIIV-mənt",
+    "es": "logro",
+    "level": 6,
+    "ex_zh": "Finishing the course is a great achievement.",
+    "ex_py": "FI-ni-shing dhə koos iz ə greit ə-CHIIV-mənt",
+    "ex_es": "Terminar el curso es un gran logro."
+  },
+  {
+    "hanzi": "fluent",
+    "pinyin": "FLUU-ənt",
+    "es": "fluido; con fluidez",
+    "level": 6,
+    "ex_zh": "She is fluent in three languages.",
+    "ex_py": "shii iz FLUU-ənt in thrii LANG-gwi-djiz",
+    "ex_es": "Habla con fluidez tres idiomas."
+  },
+  {
+    "hanzi": "keep going",
+    "pinyin": "kiip GƏU-ing",
+    "es": "seguí adelante",
+    "level": 6,
+    "ex_zh": "Keep going, you're nearly there.",
+    "ex_py": "kiip GƏU-ing yoo NIƏ-li dheə",
+    "ex_es": "Seguí adelante, ya casi llegás."
+  },
+  {
+    "hanzi": "well done",
+    "pinyin": "wel DAN",
+    "es": "bien hecho",
+    "level": 6,
+    "ex_zh": "Well done! That was perfect.",
+    "ex_py": "wel dan dhat woz PƏƏ-fikt",
+    "ex_es": "¡Bien hecho! Estuvo perfecto."
+  },
+  {
+    "hanzi": "cheerio",
+    "pinyin": "chiə-ri-ƏU",
+    "es": "chau; hasta luego (informal británico)",
+    "level": 6,
+    "ex_zh": "Cheerio! See you next week.",
+    "ex_py": "chiə-ri-ƏU sii yuu nekst wiik",
+    "ex_es": "¡Chau! Nos vemos la semana próxima."
+  },
+  {
+    "hanzi": "farewell",
+    "pinyin": "feə-WEL",
+    "es": "adiós; despedida",
+    "level": 6,
+    "ex_zh": "They said a warm farewell.",
+    "ex_py": "dhei sed ə woom feə-WEL",
+    "ex_es": "Se dieron una cálida despedida."
+  }
+]

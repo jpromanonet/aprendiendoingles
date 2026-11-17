@@ -1,0 +1,583 @@
+[
+  {
+    "number": 1,
+    "title": "Conectores formales",
+    "summary": "Nonetheless, notwithstanding, whereas y la precisión del registro escrito.",
+    "body": [
+      "En el registro escrito y en el debate, but y so se quedan cortos. Nonetheless y notwithstanding marcan oposición con peso formal: Nonetheless, the plan succeeded. Notwithstanding se usa antes de un sustantivo: notwithstanding the cost. Hence significa «de ahí que» y suele ir sin verbo conjugado: Hence the delay.",
+      "Whereas contrasta dos hechos en la misma frase: Jack likes tea, whereas Anna prefers coffee. Albeit es «aunque» en estilo elevado: a small, albeit significant, change. Moreover y furthermore suman argumentos con tono académico. Thereby indica el resultado de una acción: He signed the contract, thereby accepting the terms.",
+      "En un texto formal británico se evita sobrecargar de conectores. Uno bien puesto vale más que cinco mal elegidos. Leé la prensa seria, como The Guardian o The Times, y vas a ver cómo se usan."
+    ],
+    "pins": [
+      "nonetheless",
+      "notwithstanding",
+      "hence",
+      "whereas",
+      "albeit",
+      "moreover",
+      "furthermore",
+      "thereby"
+    ],
+    "quiz": [
+      {
+        "prompt": "Whereas introduce…",
+        "options": [
+          "un contraste",
+          "una causa",
+          "un ejemplo",
+          "una pregunta"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Notwithstanding significa…",
+        "options": [
+          "a pesar de",
+          "gracias a",
+          "durante",
+          "después de"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Moreover equivale a…",
+        "options": [
+          "además",
+          "mientras",
+          "sin embargo",
+          "por lo tanto"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Albeit es un sinónimo formal de…",
+        "options": [
+          "although",
+          "because",
+          "unless",
+          "perhaps"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Thereby indica…",
+        "options": [
+          "el resultado de una acción",
+          "un deseo",
+          "una condición",
+          "un lugar"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "title": "Lenguaje jurídico",
+    "summary": "Contract, clause, solicitor, barrister y el sistema legal inglés.",
+    "body": [
+      "Un contract tiene clauses, cláusulas, y se firma ante un solicitor, el abogado que asesora a clientes y prepara documentos. El barrister es el abogado que litiga ante los tribunales superiores; usa peluca y toga en las audiencias. La distinción entre solicitor y barrister no existe en América Latina.",
+      "Si hay un conflicto, se va al tribunal. En el proceso hay un defendant (acusado) y se llega a un verdict, la decisión del jurado. Cuando alguien es liable, es legalmente responsable. La legislation es el conjunto de leyes que sanciona el Parlamento. Un tribunal laboral es un employment tribunal.",
+      "El lenguaje legal inglés conserva fórmulas muy antiguas, pero hay un movimiento por simplificarlo, el «Plain English». Una cláusula típica de contrato: «The tenant shall pay the rent monthly in advance»."
+    ],
+    "pins": [
+      "contract",
+      "clause",
+      "tribunal",
+      "solicitor",
+      "barrister",
+      "verdict",
+      "liable",
+      "legislation",
+      "defendant"
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Economía avanzada",
+    "summary": "Austerity, deficit, fiscal, GDP y el lenguaje de los mercados.",
+    "body": [
+      "Un país puede tener deficit o surplus en su presupuesto. La austerity es una política de recorte del gasto público; en Gran Bretaña se aplicó con fuerza tras la crisis de 2008. La política fiscal (fiscal) se refiere a impuestos y gasto del Estado. El GDP, o PBI, mide la riqueza producida en un año.",
+      "La moneda se llama sterling, la libra esterlina. Cuando los diarios hablan de «the pound» en los mercados, se refieren a ella. El interest rate es la tasa de interés, fijada por el Bank of England. Un tariff es un arancel, el impuesto que se cobra por las importaciones.",
+      "Un ejemplo de titular: «Sterling falls as GDP figures disappoint». Aprender este lenguaje te permite leer el Financial Times y seguir debates económicos con seguridad."
+    ],
+    "pins": [
+      "austerity",
+      "deficit",
+      "surplus",
+      "fiscal",
+      "GDP",
+      "interest rate",
+      "sterling",
+      "tariff"
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Ideas y filosofía",
+    "summary": "Ethics, liberty, justice y la tradición empirista británica.",
+    "body": [
+      "La ethics orienta la decisión sobre qué está bien o mal. La liberty y la justice son valores que se discuten sin fin. La conscience es lo que sabe que algo está bien o mal; también existe el sentido de «conciencia» como estar enterado, que se dice consciousness. Una notion es una idea vaga o general.",
+      "Los filósofos británicos fundaron una tradición importante: el empiricism de Locke, Hume y Berkeley sostiene que el conocimiento viene de la experiencia. El scepticism (escrito con «c» en inglés británico; en Estados Unidos, skepticism) es la actitud de dudar de lo que no se puede probar. Una virtue es una cualidad moral.",
+      "Una frase típica de un ensayo: «Hume's scepticism undermines the notion of causality». Este vocabulario te sirve para leer a los pensadores británicos en su idioma original."
+    ],
+    "pins": [
+      "ethics",
+      "liberty",
+      "justice",
+      "conscience",
+      "notion",
+      "virtue",
+      "scepticism",
+      "empiricism"
+    ],
+    "quiz": [
+      {
+        "prompt": "Scepticism con «c» es la ortografía…",
+        "options": [
+          "británica",
+          "norteamericana",
+          "alemana",
+          "francesa"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Empiricism sostiene que el conocimiento viene de…",
+        "options": [
+          "la experiencia",
+          "la razón pura",
+          "la fe",
+          "la tradición"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Conscience es…",
+        "options": [
+          "la conciencia moral",
+          "la ciencia",
+          "la consciencia física",
+          "la conferencia"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Virtue significa…",
+        "options": [
+          "virtud",
+          "virus",
+          "viaje",
+          "valor monetario"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Liberty es…",
+        "options": [
+          "libertad",
+          "libro",
+          "libertinaje",
+          "librería"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "title": "Matices del discurso",
+    "summary": "Nuance, connotation, understatement y el arte de decir sin decir.",
+    "body": [
+      "En C1 se espera que captés los matices. Una nuance es una diferencia sutil. Subtle significa sutil, delicado. La connotation es el sentido adicional que una palabra carga además de su significado literal: «home» y «house» denotan lo mismo pero connotan cosas distintas. Un euphemism es una forma suave de decir algo duro: «passed away» en vez de «died».",
+      "El humor británico se apoya en el understatement, quitarle importancia a algo importante: «It's a bit damp» para una tormenta. El estilo tongue-in-cheek es dicho en broma, sin que se note, y el deadpan es contar un chiste con cara seria. Una inference es lo que deducís de lo que se dice, sin que se diga.",
+      "El peligro para un hispanohablante es tomar todo literal. Si un inglés dice «That's an interesting idea», puede significar «No me convence». Aprender a leer entre líneas es parte esencial del nivel C1."
+    ],
+    "pins": [
+      "subtle",
+      "nuance",
+      "connotation",
+      "euphemism",
+      "understatement",
+      "tongue-in-cheek",
+      "deadpan",
+      "inference"
+    ]
+  },
+  {
+    "number": 6,
+    "title": "Escritura académica",
+    "summary": "Thesis, dissertation, footnote y el estilo de un trabajo universitario.",
+    "body": [
+      "Escribir en un entorno universitario británico sigue convenciones precisas. Un trabajo final de grado se llama dissertation, y una tesis doctoral es una thesis. Cada uno incluye un abstract, el resumen inicial. Al final aparece la bibliography, la lista de fuentes consultadas, y en el cuerpo se agregan footnotes, notas a pie de página.",
+      "La methodology explica cómo se hizo la investigación. Antes de entregar hay que proofread, es decir, releer buscando errores. Y hay una falta grave: el plagiarism, copiar sin citar, que puede llevar a la expulsión.",
+      "El estilo académico británico es impersonal: se prefiere «It can be argued that…» a «I think that…». Un ejemplo: «This dissertation examines the impact of austerity on local services»."
+    ],
+    "pins": [
+      "thesis",
+      "abstract",
+      "dissertation",
+      "bibliography",
+      "footnote",
+      "methodology",
+      "proofread",
+      "plagiarism"
+    ],
+    "quiz": [
+      {
+        "prompt": "Plagiarism es…",
+        "options": [
+          "copiar sin citar",
+          "una forma de citar",
+          "un tipo de tesis",
+          "una nota al pie"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Bibliography es…",
+        "options": [
+          "la lista de fuentes",
+          "un libro de ficción",
+          "un resumen",
+          "un índice"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Abstract en un trabajo es…",
+        "options": [
+          "el resumen inicial",
+          "la conclusión",
+          "el título",
+          "un apéndice"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Footnote es…",
+        "options": [
+          "una nota a pie de página",
+          "un pie de foto",
+          "una huella",
+          "un apéndice"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Dissertation en el Reino Unido es…",
+        "options": [
+          "un trabajo final",
+          "una conferencia",
+          "un debate",
+          "una clase"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "title": "Modismos útiles",
+    "summary": "Piece of cake, under the weather, break the ice y las expresiones del día a día.",
+    "body": [
+      "Los idioms son expresiones cuyo significado no se deduce de las palabras. Si alguien dice «It's a piece of cake», no habla de torta: significa que es muy fácil. «I'm under the weather» no es sobre el clima: dice que te sentís mal. Hay que aprenderlos como frases completas.",
+      "Otros ejemplos con equivalente en español: bite the bullet (hacer algo difícil sin quejarse), spill the beans (contar un secreto), break the ice (romper el hielo en una situación incómoda), once in a blue moon (muy de vez en cuando), hit the nail on the head (dar en el clavo) y cost an arm and a leg (costar un ojo de la cara).",
+      "Los británicos usan los idioms con naturalidad, a menudo con humor. Prestá atención a cómo se los usa en series como Fawlty Towers o The Office. Usarlos bien te hace sonar fluido; usarlos mal puede resultar cómico."
+    ],
+    "pins": [
+      "a piece of cake",
+      "under the weather",
+      "bite the bullet",
+      "spill the beans",
+      "break the ice",
+      "once in a blue moon",
+      "hit the nail on the head",
+      "cost an arm and a leg"
+    ],
+    "dialogue": [
+      {
+        "zh": "How was the interview?",
+        "py": "hau woz dhə IN-tə-vyuu",
+        "es": "¿Cómo fue la entrevista?"
+      },
+      {
+        "zh": "A piece of cake! I think I hit the nail on the head.",
+        "py": "ə piis ov keik ai thingk ai hit dhə neil on dhə hed",
+        "es": "¡Pan comido! Creo que di en el clavo."
+      },
+      {
+        "zh": "Well done! Don't spill the beans yet.",
+        "py": "wel dan dəunt spil dhə biinz yet",
+        "es": "¡Bien hecho! No cuentes el secreto todavía."
+      },
+      {
+        "zh": "I won't. I'm still a bit under the weather.",
+        "py": "ai wəunt aim stil ə bit AN-də dhə WE-dhə",
+        "es": "No voy a contarlo. Todavía ando algo indispuesto."
+      },
+      {
+        "zh": "Take it easy. Let's celebrate once in a blue moon.",
+        "py": "teik it II-zi lets SE-lə-breit wans in ə bluu muun",
+        "es": "Tomátelo con calma. Celebremos de vez en cuando."
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "title": "Historia británica",
+    "summary": "Empire, Victorian, Tudor, the Blitz y los períodos que marcaron al país.",
+    "body": [
+      "La historia británica tiene capítulos reconocidos. El período medieval, medieval, vio la firma de la Magna Carta en 1215, que limitó el poder del rey. La dinastía Tudor, con Enrique VIII e Isabel I, dejó una época de esplendor cultural. Una dynasty es una familia que gobierna durante varias generaciones.",
+      "El empire británico llegó a ser el más grande de la historia, con colonias en todos los continentes. La era Victorian, durante el reinado de la reina Victoria (1837-1901), coincidió con la Industrial Revolution, que transformó la economía y la sociedad. Esa herencia imperial sigue siendo tema de debate hoy, en museos, escuelas y medios.",
+      "En el siglo XX, el Blitz fue la campaña de bombardeos alemanes sobre Londres durante la Segunda Guerra Mundial. Es una época que los británicos recuerdan con orgullo y emoción. Una frase típica: «Keep calm and carry on», el lema de 1939."
+    ],
+    "pins": [
+      "empire",
+      "Victorian",
+      "medieval",
+      "Tudor",
+      "Industrial Revolution",
+      "Magna Carta",
+      "Blitz",
+      "dynasty"
+    ],
+    "quiz": [
+      {
+        "prompt": "Victorian se refiere a…",
+        "options": [
+          "la era de la reina Victoria",
+          "una victoria militar",
+          "una ciudad",
+          "una calle"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Magna Carta limitó…",
+        "options": [
+          "el poder del rey",
+          "los impuestos locales",
+          "la libertad religiosa",
+          "el comercio"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Blitz fue…",
+        "options": [
+          "una campaña de bombardeos sobre Londres",
+          "una batalla naval",
+          "una invasión",
+          "una epidemia"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Tudor es…",
+        "options": [
+          "una dinastía",
+          "una ciudad",
+          "un puente",
+          "una universidad"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Industrial Revolution empezó en…",
+        "options": [
+          "Gran Bretaña",
+          "Francia",
+          "Alemania",
+          "España"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "title": "Psicología y emociones",
+    "summary": "Resilience, anxiety, empathy, burnout y el vocabulario del bienestar.",
+    "body": [
+      "La salud mental ocupa mucho espacio en la conversación británica actual. La resilience es la capacidad de sobreponerse a las dificultades. La anxiety es la ansiedad, un problema muy frecuente. El burnout es el agotamiento extremo por exceso de trabajo y estrés.",
+      "La empathy es ponerse en el lugar del otro. La motivation es lo que te mueve a actuar. Un mindset es una mentalidad, una forma habitual de pensar: growth mindset es la actitud de aprender de los errores. El wellbeing (bienestar) es la salud física y emocional en conjunto. Cope with significa afrontar un problema.",
+      "En las empresas británicas se habla mucho de wellbeing: hay días de salud mental y espacios de descanso. Una frase útil: «I'm finding it hard to cope with the pressure», «Me cuesta afrontar la presión»."
+    ],
+    "pins": [
+      "resilience",
+      "anxiety",
+      "empathy",
+      "motivation",
+      "burnout",
+      "wellbeing",
+      "mindset",
+      "cope"
+    ]
+  },
+  {
+    "number": 10,
+    "title": "Sostenibilidad y ecología",
+    "summary": "Biodiversity, net zero, emissions y el futuro del planeta.",
+    "body": [
+      "El vocabulario ecológico avanza rápido. La biodiversity es la variedad de formas de vida, y la deforestation es la tala masiva de bosques. Las emissions son los gases que se liberan a la atmósfera, y un carbon footprint es la huella de carbono que deja cada persona o empresa.",
+      "Las energías renewable (solar, eólica) reemplazan al carbón y al petróleo. El Reino Unido se comprometió a alcanzar net zero (cero emisiones netas) en 2050. La conservation busca proteger los espacios naturales. Y el landfill es el vertedero de basura, algo que se intenta reducir con el reciclaje.",
+      "Son temas políticos de primer orden. Una frase típica de un informe: «We must reduce emissions to protect biodiversity». Seguir este vocabulario es indispensable para leer la prensa británica actual."
+    ],
+    "pins": [
+      "biodiversity",
+      "deforestation",
+      "emissions",
+      "renewable",
+      "net zero",
+      "conservation",
+      "landfill",
+      "carbon footprint"
+    ],
+    "quiz": [
+      {
+        "prompt": "Net zero significa…",
+        "options": [
+          "cero emisiones netas",
+          "cero residuos",
+          "cero impuestos",
+          "cero población"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Landfill es…",
+        "options": [
+          "un vertedero",
+          "un tipo de energía",
+          "una selva",
+          "un río"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Deforestation es…",
+        "options": [
+          "tala masiva de bosques",
+          "reforestación",
+          "contaminación del aire",
+          "sequía"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Renewable se dice de…",
+        "options": [
+          "energías que se renuevan",
+          "cosas caras",
+          "productos viejos",
+          "residuos"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Biodiversity es…",
+        "options": [
+          "la variedad de vida",
+          "una enfermedad",
+          "un tipo de combustible",
+          "un parque"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "title": "Cortesía y etiqueta",
+    "summary": "Polite, tact, stiff upper lip y las reglas no escritas de la sociedad británica.",
+    "body": [
+      "Ser polite es esencial en la vida británica. Courteous es más formal: «a courteous reply». El etiquette son las normas sociales. Un buen británico tiene tact, la habilidad de decir las cosas sin herir. Se pide perdón con apologise (ortografía británica con «s»), incluso cuando no es necesario.",
+      "La stiff upper lip es una expresión que describe la contención emocional: no mostrar los sentimientos en público. Muchos ingleses son reserved, es decir, reservados; hablan poco de sí mismos con extraños. Ser blunt, es decir, muy directo, puede considerarse maleducado. Una situación awkward es incómoda, y los británicos hacen casi cualquier cosa para evitarla.",
+      "Consejo cultural: si un inglés te dice «Perhaps you could…», puede significar «Hacelo ya». La cortesía británica es indirecta y vale la pena aprender a leerla."
+    ],
+    "pins": [
+      "polite",
+      "courteous",
+      "tact",
+      "etiquette",
+      "stiff upper lip",
+      "apologise",
+      "awkward",
+      "reserved",
+      "blunt"
+    ]
+  },
+  {
+    "number": 12,
+    "title": "Retórica y oratoria",
+    "summary": "Eloquent, rhetoric, rebuttal y cómo hablar en público con eficacia.",
+    "body": [
+      "Hablar bien en público es una tradición muy respetada en Gran Bretaña, desde Churchill hasta el debate parlamentario. La rhetoric es el arte de persuadir con las palabras. Alguien eloquent habla con fluidez y fuerza. Alguien articulate expresa sus ideas con claridad.",
+      "Un discurso eficaz es concise, es decir, breve y sin relleno, y coherent, con ideas ordenadas. Un argumento persuasive convence al público. Para destacar un punto se usa emphasise (con «s»). En un debate, el rebuttal es la respuesta que refuta al rival.",
+      "Una técnica clásica de Churchill: la repetición. «We shall fight on the beaches, we shall fight on the landing grounds». Practicá en voz alta: la oratoria se aprende hablando."
+    ],
+    "pins": [
+      "eloquent",
+      "rhetoric",
+      "concise",
+      "articulate",
+      "persuasive",
+      "emphasise",
+      "rebuttal",
+      "coherent"
+    ],
+    "quiz": [
+      {
+        "prompt": "Concise significa…",
+        "options": [
+          "breve y claro",
+          "largo y detallado",
+          "confuso",
+          "ruidoso"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Rebuttal es…",
+        "options": [
+          "una refutación",
+          "una promesa",
+          "una felicitación",
+          "un aplauso"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Eloquent describe a alguien que…",
+        "options": [
+          "habla con fluidez y fuerza",
+          "habla poco",
+          "grita mucho",
+          "habla despacio"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Persuasive es…",
+        "options": [
+          "persuasivo",
+          "persistente",
+          "persona",
+          "pesimista"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Rhetoric es…",
+        "options": [
+          "el arte de persuadir",
+          "una forma de bailar",
+          "un tipo de poema",
+          "una asignatura de matemática"
+        ],
+        "correct": 0
+      }
+    ]
+  }
+]

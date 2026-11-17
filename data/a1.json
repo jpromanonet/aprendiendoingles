@@ -1,0 +1,709 @@
+[
+  {
+    "number": 1,
+    "title": "Sonidos y guía de pronunciación",
+    "summary": "Cómo leer la guía del curso: th, sh, ch, vocales largas y la r que se calla.",
+    "body": [
+      "Este curso enseña inglés británico: el de Inglaterra, el de Londres, el de la BBC. La ortografía inglesa no te dice cómo suena una palabra: cut y put se escriben parecido y suenan distinto, y though y thought casi no tienen nada en común. Por eso, debajo de cada palabra vas a ver una guía escrita para hispanohablantes, y además podés escucharla.",
+      "Consonantes: th sorda = th (la lengua entre los dientes, sin vibrar: think = thingk). th sonora = dh (igual, pero vibrando: this = dhis). sh es la «sh» rioplatense de «calle»; ch es la de «chico»; dj es una «y» fuerte (jam = djam); ng es la nasal de «sing»; h es una j muy suave, casi un soplido; w es una «u» rápida antes de la vocal (water, we).",
+      "Vocales: a es la «a» abierta de cat y también la «a» corta de cup (la de cat es un poco más abierta). o es la «o» corta y redonda de hot. u es la «u» corta de book (buk). ə es la vocal neutra, muy corta y floja, la más frecuente del inglés: about = ə-BAUT. Las vocales largas se escriben dobles: ii (see = sii), uu (moon = muun), aa (car = kaa), oo (thought = thoot), əə (bird = bəəd). Los diptongos son ei, ai, oi, əu, au, iə, eə y uə: day = dei, my = mai, go = gəu, now = nau.",
+      "En el inglés británico la r solo suena delante de una vocal. Al final de palabra o antes de una consonante se calla: car = kaa, park = paak, but red = red y very = VE-ri. Por eso un londinense dice «kaa paak» y no «car park» con la r bien marcada.",
+      "En la guía las MAYÚSCULAS marcan la sílaba tónica (solo en palabras de dos o más sílabas) y los guiones separan sílabas: water = WOO-tə. Tres trampas de hispanohablantes: no agregues una «e» antes de s (school = skuul, no «eskuul»), pronunciá las consonantes finales y no confundas la v con la b: en inglés la v se hace con el labio inferior contra los dientes."
+    ],
+    "pins": [
+      "cat",
+      "cup",
+      "hot",
+      "ship",
+      "cheese",
+      "think",
+      "this",
+      "car",
+      "bird",
+      "thought",
+      "moon",
+      "water"
+    ],
+    "quiz": [
+      {
+        "prompt": "¿Cómo suena la «th» de think?",
+        "options": [
+          "Con la lengua entre los dientes, sin vibrar",
+          "Como una «t» seca",
+          "Como una «s» silbante",
+          "Como una «f»"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "En la guía, ¿qué marca «ii» en sii?",
+        "options": [
+          "Una «i» larga",
+          "Una «i» doble que se repite",
+          "Que la palabra es plural",
+          "Que la sílaba se omite"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "¿Cómo se pronuncia car en inglés británico?",
+        "options": [
+          "kaa (la r se calla)",
+          "kar con r fuerte",
+          "kaar con r vibrante",
+          "ker"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "¿Qué indican las MAYÚSCULAS en WOO-tə?",
+        "options": [
+          "La sílaba tónica",
+          "Que es un nombre propio",
+          "Que es una pregunta",
+          "Que se grita"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "¿Qué representa el símbolo ə?",
+        "options": [
+          "Una vocal neutra, corta y floja",
+          "Una «e» larga",
+          "Una «u» fuerte",
+          "Una consonante muda"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "title": "Saludos",
+    "summary": "Hello, good morning, cheers, sorry y las fórmulas de cortesía de todos los días.",
+    "body": [
+      "Hello es el saludo estándar y hi es la versión informal. Good morning se usa hasta el mediodía, good afternoon hasta que empieza a oscurecer y good evening a la tarde-noche, al llegar. Good night solo se dice al despedirse, antes de dormir.",
+      "Goodbye cierra la charla, y entre amigos se dice bye. How are you? es un saludo, no una pregunta médica: se responde «Fine, thanks, and you?» aunque no estés tan bien. En Londres y en el norte vas a oír «You alright?» como saludo, y la respuesta es «Yeah, you alright?».",
+      "Thank you y thanks agradecen; cheers también significa «gracias» en el habla cotidiana, además de ser el brindis. Los británicos dicen please y sorry todo el tiempo: pedís un café con please, y si alguien te pisa, el que dice «sorry» es muchas veces el pisado. Excuse me sirve para llamar la atención o pasar entre la gente. A thank you se responde con «You're welcome» o con «No problem»."
+    ],
+    "pins": [
+      "hello",
+      "hi",
+      "good morning",
+      "good afternoon",
+      "good evening",
+      "goodbye",
+      "how are you",
+      "thank you",
+      "cheers",
+      "please",
+      "sorry",
+      "excuse me",
+      "you're welcome"
+    ],
+    "dialogue": [
+      {
+        "zh": "Hello! How are you?",
+        "py": "hə-LƏU hau aa yuu",
+        "es": "¡Hola! ¿Cómo estás?"
+      },
+      {
+        "zh": "Fine, thanks. And you?",
+        "py": "fain thangks and yuu",
+        "es": "Bien, gracias. ¿Y vos?"
+      },
+      {
+        "zh": "Not bad, cheers.",
+        "py": "not bad chiəz",
+        "es": "No está mal, gracias."
+      },
+      {
+        "zh": "Excuse me, I have to go. Goodbye!",
+        "py": "ik-SKYUUZ mii ai hav tuu gəu gud-BAI",
+        "es": "Permiso, tengo que irme. ¡Chau!"
+      },
+      {
+        "zh": "Bye! See you soon.",
+        "py": "bai sii yuu suun",
+        "es": "¡Chau! Nos vemos pronto."
+      }
+    ],
+    "quiz": [
+      {
+        "prompt": "¿Qué saludo usás a las nueve de la mañana?",
+        "options": [
+          "Good morning",
+          "Good night",
+          "Good evening",
+          "Cheers"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "¿Qué respondés a «Thank you»?",
+        "options": [
+          "You're welcome",
+          "Hello",
+          "Excuse me",
+          "Good night"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Cheers en el habla cotidiana puede significar…",
+        "options": [
+          "gracias",
+          "chau",
+          "cuenta",
+          "perdón"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "¿Cómo pedís permiso para pasar entre la gente?",
+        "options": [
+          "Excuse me",
+          "Goodbye",
+          "Please",
+          "Hello"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "«How are you?» es sobre todo…",
+        "options": [
+          "un saludo",
+          "una consulta médica",
+          "una despedida",
+          "un pedido de plata"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Presentarse",
+    "summary": "I, you, he, she, we, they y las primeras frases con be.",
+    "body": [
+      "En inglés los pronombres son I (siempre con mayúscula), you, he, she, we y they. You sirve para «vos», «tú», «usted» y «ustedes»: no hay un «vos» inglés, así que no tenés que pensar en formalidad. Tampoco hay género en los adjetivos ni en el posesivo.",
+      "El verbo be se conjuga así: I am, you are, he is, she is, we are, they are. En la charla se contrae: I'm, you're, he's, she's, we're, they're. I'm from Argentina. She's a teacher. Para decir cómo te llamás: My name is Lucas, o simplemente I'm Lucas.",
+      "Where are you from? pregunta de dónde sos y Where do you live? pregunta dónde vivís. Do you speak English? es la pregunta de supervivencia; una buena respuesta es «A little». Al conocer a alguien, Nice to meet you es lo que corresponde."
+    ],
+    "pins": [
+      "I",
+      "you",
+      "he",
+      "she",
+      "we",
+      "they",
+      "name",
+      "from",
+      "live",
+      "speak",
+      "English",
+      "nice to meet you"
+    ],
+    "dialogue": [
+      {
+        "zh": "Hi, I'm Lucas. What is your name?",
+        "py": "hai aim LUU-kəs wot iz yoo neim",
+        "es": "Hola, soy Lucas. ¿Cómo te llamás?"
+      },
+      {
+        "zh": "My name is Anna. Nice to meet you.",
+        "py": "mai neim iz A-nə nais tuu miit yuu",
+        "es": "Me llamo Anna. Mucho gusto."
+      },
+      {
+        "zh": "Where are you from?",
+        "py": "weə aa yuu from",
+        "es": "¿De dónde sos?"
+      },
+      {
+        "zh": "I'm from Argentina. I live in Buenos Aires.",
+        "py": "aim from aa-djən-TII-nə ai liv in BWE-nos AI-res",
+        "es": "Soy de Argentina. Vivo en Buenos Aires."
+      },
+      {
+        "zh": "Do you speak English?",
+        "py": "duu yuu spiik ING-glish",
+        "es": "¿Hablás inglés?"
+      },
+      {
+        "zh": "A little. I am learning.",
+        "py": "ə LI-təl ai am LƏƏ-ning",
+        "es": "Un poco. Estoy aprendiendo."
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Números",
+    "summary": "Del uno al diez, las decenas útiles y cómo se dicen los teléfonos y las horas.",
+    "body": [
+      "One, two, three, four, five, six, seven, eight, nine, ten. En inglés no cambian por género. Para el cero se usa zero en matemática, oh en los teléfonos («oh seven seven» para 077) y nought o nil en otros contextos, como los resultados de fútbol.",
+      "Twenty, hundred y thousand cubren las cantidades del día. Cuidado con la diferencia entre thirteen (thə-TIIN, con el acento al final) y thirty (THƏƏ-ti, con el acento al principio). Cuando hay números repetidos en un teléfono, los británicos dicen double: 77 es «double seven».",
+      "La moneda es la libra, pound, y en las tiendas se escriben cifras como £5. Cuando preguntes How much is it?, vas a oír respuestas como «twenty pounds» o «one hundred pounds». Los números también sirven para la hora: five o'clock, ten o'clock."
+    ],
+    "pins": [
+      "one",
+      "two",
+      "three",
+      "four",
+      "five",
+      "six",
+      "seven",
+      "eight",
+      "nine",
+      "ten",
+      "twenty",
+      "hundred",
+      "thousand"
+    ]
+  },
+  {
+    "number": 5,
+    "title": "La familia",
+    "summary": "Mum, dad, brother, sister y la forma británica de nombrar a los parientes.",
+    "body": [
+      "En inglés británico decís mum y dad (los norteamericanos dicen mom). Los chicos usan mummy y daddy. Brother y sister son hermano y hermana; son y daughter son hijo e hija; husband y wife, esposo y esposa; uncle y aunt, tío y tía.",
+      "Para los abuelos hay varias formas familiares: gran, granny o nan para la abuela, y granddad o grandad para el abuelo. Friend es amigo o amiga, sin cambio de género. My, your, his, her, our y their son los posesivos, y no cambian según lo que se posee: my brother, my sister.",
+      "Para decir cuántos hermanos tenés, los británicos usan mucho have got: I've got two sisters. También se puede decir I have two sisters. Para el posesivo con nombres se usa 's: Tom's mum, Anna's brother."
+    ],
+    "pins": [
+      "mum",
+      "dad",
+      "brother",
+      "sister",
+      "son",
+      "daughter",
+      "husband",
+      "wife",
+      "uncle",
+      "aunt",
+      "gran",
+      "friend",
+      "my"
+    ]
+  },
+  {
+    "number": 6,
+    "title": "Comer y beber",
+    "summary": "Tea, milk, biscuits, crisps y chips: la comida de todos los días en el Reino Unido.",
+    "body": [
+      "El té es casi una religión: tea with milk es la versión estándar, y si querés azúcar se pide «with sugar». También se toma coffee, pero lo más británico es una taza de tea. Milk se agrega al final y se sirve en jarrita.",
+      "Cuidado con las palabras que cambian entre Inglaterra y Estados Unidos. Biscuit es la galletita dulce (en Estados Unidos, cookie). Crisps son las papitas fritas de bolsa. Chips son las papas fritas gruesas, como las de fish and chips; las finas de McDonald's se llaman fries.",
+      "El breakfast clásico tiene egg, bacon, tomate y bread tostado con butter. El sandwich es el almuerzo más común. Un apple o un poco de chicken también aparecen mucho en los menús. En los pubs, el fish and chips es una comida típica de los viernes."
+    ],
+    "pins": [
+      "tea",
+      "milk",
+      "bread",
+      "butter",
+      "biscuit",
+      "crisps",
+      "chips",
+      "sandwich",
+      "egg",
+      "apple",
+      "chicken",
+      "fish",
+      "breakfast"
+    ],
+    "quiz": [
+      {
+        "prompt": "En inglés británico, crisps son…",
+        "options": [
+          "papas fritas de bolsa",
+          "galletitas",
+          "papas gruesas",
+          "pan tostado"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Biscuit en Inglaterra es…",
+        "options": [
+          "una galletita dulce",
+          "un pastel de carne",
+          "una bebida",
+          "una sopa"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Chips en el Reino Unido son…",
+        "options": [
+          "papas fritas gruesas",
+          "papitas de bolsa",
+          "pan frito",
+          "snacks de maíz"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "¿Qué bebida es la más típica de Inglaterra?",
+        "options": [
+          "Tea with milk",
+          "Orange juice",
+          "Hot chocolate",
+          "Red wine"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Fish and chips es…",
+        "options": [
+          "pescado frito con papas",
+          "pollo con arroz",
+          "sopa de pescado",
+          "una ensalada fría"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "title": "En el pub y el restaurante",
+    "summary": "Menu, bill, pint, pounds y cómo pedir con cortesía.",
+    "body": [
+      "En un restaurante, el waiter trae el menu. Para pedir, lo más cortés es I'd like… («quisiera…»): I'd like a coffee, please. También podés decir Could I have…? Una comida suele tener starter (entrada), main course (plato principal) y dessert (postre).",
+      "El pub funciona distinto al resto de los lugares: no te atiende un mozo en la mesa; vas a la barra, pedís una pint de cerveza y pagás en el momento. Una pint son 568 mililitros. El pub es el centro de la vida social británica.",
+      "Cuando terminás, pedís the bill (no the check, que es norteamericano). Muchos restaurantes ya incluyen un recargo por servicio. Si no, el tip habitual ronda el 10 por ciento. La moneda es la libra, pound, y se divide en 100 pence. Se paga con card o contactless: ya casi no hace falta llevar efectivo."
+    ],
+    "pins": [
+      "menu",
+      "bill",
+      "waiter",
+      "pub",
+      "pint",
+      "starter",
+      "dessert",
+      "tip",
+      "pound",
+      "pence",
+      "I'd like",
+      "how much is it",
+      "card"
+    ],
+    "dialogue": [
+      {
+        "zh": "Good evening. Could I see the menu, please?",
+        "py": "gud IIV-ning kud ai sii dhə ME-nyuu pliiz",
+        "es": "Buenas noches. ¿Puedo ver el menú, por favor?"
+      },
+      {
+        "zh": "Of course. What would you like to drink?",
+        "py": "ov koos wot wud yuu laik tuu dringk",
+        "es": "Por supuesto. ¿Qué querés tomar?"
+      },
+      {
+        "zh": "I'd like a pint of lager and a glass of water.",
+        "py": "aid laik ə paint ov LAA-gə and ə glaas ov WOO-tə",
+        "es": "Quisiera una pinta de cerveza y un vaso de agua."
+      },
+      {
+        "zh": "And for the main course?",
+        "py": "and foo dhə mein koos",
+        "es": "¿Y de plato principal?"
+      },
+      {
+        "zh": "Chicken and chips, please.",
+        "py": "CHI-kin and chips pliiz",
+        "es": "Pollo con papas fritas, por favor."
+      },
+      {
+        "zh": "The bill, please. How much is it?",
+        "py": "dhə bil pliiz hau mach iz it",
+        "es": "La cuenta, por favor. ¿Cuánto es?"
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "title": "Días y horas",
+    "summary": "Hoy, mañana, ayer, los días de la semana y la hora en inglés.",
+    "body": [
+      "Today, tomorrow y yesterday son las tres palabras básicas del tiempo. Los días de la semana se escriben siempre con mayúscula: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday y Sunday. Wednesday se pronuncia WENZ-dei, sin la «d» del medio.",
+      "Para decir «el lunes» se usa on: on Monday. Para las horas, at: at nine o'clock. En el Reino Unido la semana empieza el lunes en la mayoría de los calendarios, y el fin de semana es Saturday y Sunday.",
+      "Para la hora hay formas muy cómodas: it's five o'clock (las cinco en punto), it's half past five (las cinco y media), a quarter past, a quarter to. What time is it? pregunta la hora. En horarios de trenes y avisos oficiales se usa también la hora de 24 horas."
+    ],
+    "pins": [
+      "today",
+      "tomorrow",
+      "yesterday",
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday",
+      "week",
+      "o'clock",
+      "half past"
+    ]
+  },
+  {
+    "number": 9,
+    "title": "En la ciudad",
+    "summary": "Street, bus, train, underground y cómo pedir direcciones.",
+    "body": [
+      "Para moverte por una ciudad británica necesitás algunas palabras clave. La street es la calle, el pavement es la vereda (en Estados Unidos, sidewalk) y la station es la estación. En Londres el metro se llama the Underground o the Tube.",
+      "Bus, train y underground son los tres medios principales. Un ticket se compra en máquina o con tarjeta; en Londres alcanza con pagar con contactless. Si querés ahorrar tiempo, memorizá: «Mind the gap» es el aviso de siempre para no tropezar entre el tren y el andén.",
+      "Para orientarte: left es izquierda, right es derecha, straight on es todo derecho, near es cerca y far es lejos. Una pregunta típica es Excuse me, where is the station? Y la respuesta: Go straight on, then turn left. Y una palabra muy británica: queue, la cola; los ingleses hacen fila para todo y odian que alguien se cuele."
+    ],
+    "pins": [
+      "street",
+      "bus",
+      "train",
+      "underground",
+      "ticket",
+      "station",
+      "pavement",
+      "left",
+      "right",
+      "straight on",
+      "near",
+      "far",
+      "queue"
+    ],
+    "dialogue": [
+      {
+        "zh": "Excuse me, where is the station?",
+        "py": "ik-SKYUUZ mii weə iz dhə STEI-shən",
+        "es": "Permiso, ¿dónde queda la estación?"
+      },
+      {
+        "zh": "Go straight on, then turn left.",
+        "py": "gəu streit on dhen təən left",
+        "es": "Andá todo derecho y después doblá a la izquierda."
+      },
+      {
+        "zh": "Is it far from here?",
+        "py": "iz it faa from hiə",
+        "es": "¿Queda lejos de acá?"
+      },
+      {
+        "zh": "No, it's near. Five minutes on foot.",
+        "py": "nəu its niə faiv MI-nits on fut",
+        "es": "No, queda cerca. Cinco minutos a pie."
+      },
+      {
+        "zh": "Thank you very much. Cheers!",
+        "py": "thangk yuu VE-ri mach chiəz",
+        "es": "Muchas gracias. ¡Gracias!"
+      }
+    ],
+    "quiz": [
+      {
+        "prompt": "Pavement en inglés británico es…",
+        "options": [
+          "la vereda",
+          "el pavimento de la calle",
+          "un puente",
+          "una plaza"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "The Tube es…",
+        "options": [
+          "el metro de Londres",
+          "un tipo de taxi",
+          "una calle",
+          "un tren de larga distancia"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Turn left significa…",
+        "options": [
+          "doblá a la izquierda",
+          "doblá a la derecha",
+          "andá derecho",
+          "dá la vuelta"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Queue significa…",
+        "options": [
+          "cola; fila",
+          "cuenta",
+          "boleto",
+          "calle"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "¿Qué advierte «Mind the gap»?",
+        "options": [
+          "El espacio entre tren y andén",
+          "Que hay un perro",
+          "Que el tren no para",
+          "Que se cierra la puerta"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "title": "Colores y adjetivos",
+    "summary": "Colour, red, blue, big, small y cómo se ubican los adjetivos.",
+    "body": [
+      "Colour se escribe con «ou» en inglés británico (en Estados Unidos, color). Los colores básicos son red, blue, green, yellow, black, white y grey (también con ortografía propia: grey, no gray). El cielo de Inglaterra suele ser grey.",
+      "Los adjetivos en inglés van antes del sustantivo y no cambian: a red bus, two red buses, a small flat, small flats. No hay género ni plural en los adjetivos. Eso hace todo más simple que en español. Para intensificar usás very: very big, very small.",
+      "Big y small miden el tamaño; new y old, la edad o novedad; cold y warm, la temperatura. Hot ya lo viste en la primera clase. Para decir cómo es algo: It is a big city. The tea is warm. My coat is old."
+    ],
+    "pins": [
+      "colour",
+      "red",
+      "blue",
+      "green",
+      "yellow",
+      "black",
+      "white",
+      "grey",
+      "big",
+      "small",
+      "new",
+      "old",
+      "cold",
+      "warm"
+    ]
+  },
+  {
+    "number": 11,
+    "title": "Verbos básicos",
+    "summary": "Have, do, go, come, want, need y el verbo can.",
+    "body": [
+      "Los verbos más usados del inglés son pocos. Have es tener (también se dice have got); do es hacer y también sirve para armar preguntas: Do you like tea? Go es ir, come es venir, want es querer y need es necesitar. See es ver, know es saber o conocer.",
+      "El presente es simple: I work, you work, we work, they work. Solo la tercera persona del singular lleva -s: he works, she goes, it does. Para negar y preguntar se usa do: I don't understand, Do you understand? Con he/she/it se usa does: Does he work here?",
+      "Can es el verbo de la habilidad y del permiso: I can swim, Can I sit here? No cambia y no lleva -s. Y una frase útil de supervivencia: I don't understand. Can you say that again, please? Con los verbos work y study hablás de tu rutina: I work in an office. I study English."
+    ],
+    "pins": [
+      "have",
+      "do",
+      "go",
+      "come",
+      "want",
+      "need",
+      "like",
+      "see",
+      "know",
+      "work",
+      "study",
+      "can",
+      "understand"
+    ]
+  },
+  {
+    "number": 12,
+    "title": "Casa, clima y planes",
+    "summary": "Flat, house, weather, cinema y cómo proponer algo.",
+    "body": [
+      "En Inglaterra la mayoría de la gente vive en una house (casa) o en un flat (departamento; apartment es la palabra norteamericana). En casa hay kitchen, bedroom, bathroom y garden. El toilet en una casa suele ser una habitación aparte, y en la charla se le dice «the loo».",
+      "El weather es tema de conversación nacional. Si no sabés qué decir, empezá con «Lovely day, isn't it?» o con «It's raining again». Vas a necesitar rain (lluvia) y sunny (soleado), y con cold y warm de la clase anterior ya describís cualquier día. Un dog es un perro; los británicos aman a sus mascotas.",
+      "Para proponer un plan se usa Let's: Let's go to the cinema. Y para responder, Yes, let's o No, sorry. Together significa «juntos». Con estas frases ya podés hacer planes con amigos ingleses. Yes y no son las respuestas más cortas, pero siempre acompañalas con please o thank you."
+    ],
+    "pins": [
+      "flat",
+      "house",
+      "kitchen",
+      "bedroom",
+      "toilet",
+      "garden",
+      "dog",
+      "weather",
+      "rain",
+      "sunny",
+      "cinema",
+      "together",
+      "yes",
+      "no"
+    ],
+    "dialogue": [
+      {
+        "zh": "Let's go to the cinema today.",
+        "py": "lets gəu tuu dhə SI-nə-mə tə-DEI",
+        "es": "Vamos al cine hoy."
+      },
+      {
+        "zh": "Sorry, I can't. It's going to rain.",
+        "py": "SO-ri ai kaant its GƏU-ing tuu rein",
+        "es": "Perdón, no puedo. Va a llover."
+      },
+      {
+        "zh": "Then let's go tomorrow.",
+        "py": "dhen lets gəu tə-MO-rəu",
+        "es": "Entonces vamos mañana."
+      },
+      {
+        "zh": "Yes, tomorrow is fine. What time?",
+        "py": "yes tə-MO-rəu iz fain wot taim",
+        "es": "Sí, mañana está bien. ¿A qué hora?"
+      },
+      {
+        "zh": "At eight o'clock. Let's go together by bus.",
+        "py": "at eit ə-KLOK lets gəu tə-GE-dhə bai bas",
+        "es": "A las ocho. Vamos juntos en colectivo."
+      }
+    ],
+    "quiz": [
+      {
+        "prompt": "Flat en inglés británico es…",
+        "options": [
+          "departamento",
+          "piso de arriba",
+          "jardín",
+          "cocina"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Let's go to the cinema significa…",
+        "options": [
+          "Vamos al cine",
+          "Voy a casa",
+          "Tengo frío",
+          "Doblá a la izquierda"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Together quiere decir…",
+        "options": [
+          "juntos",
+          "lejos",
+          "caro",
+          "ayer"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "¿De qué hablan los británicos todo el tiempo?",
+        "options": [
+          "Del clima",
+          "Del sueldo",
+          "De política exterior",
+          "De la comida típica"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Dog es…",
+        "options": [
+          "perro",
+          "lluvia",
+          "boleto",
+          "queso"
+        ],
+        "correct": 0
+      }
+    ]
+  }
+]

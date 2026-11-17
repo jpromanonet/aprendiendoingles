@@ -1,0 +1,604 @@
+[
+  {
+    "number": 1,
+    "title": "Educación",
+    "summary": "School, university, GCSEs, A-levels y el sistema educativo británico.",
+    "body": [
+      "El sistema educativo de Inglaterra tiene una estructura muy propia. Los chicos van al colegio primario hasta los once años y después al secundario. A los dieciséis rinden los GCSE, unos exámenes nacionales, y a los dieciocho los A-levels, que se necesitan para entrar a la university. La carrera de grado, o degree, dura tres años en la mayoría de los casos.",
+      "En el colegio los alumnos usan uniform y hacen homework todas las noches. El año se divide en tres terms (trimestres). Antes de los exámenes viene la revision, que en inglés británico es el período de repaso (los norteamericanos dicen studying o review). El profesor universitario es un lecturer, y el director de un colegio, el headteacher.",
+      "Atención con un falso amigo: en el Reino Unido, public school significa un colegio privado de elite (como Eton), no uno estatal. El colegio público de verdad se llama state school."
+    ],
+    "pins": [
+      "school",
+      "university",
+      "lecturer",
+      "degree",
+      "exam",
+      "revision",
+      "term",
+      "headteacher",
+      "uniform",
+      "homework",
+      "GCSE",
+      "A-levels"
+    ]
+  },
+  {
+    "number": 2,
+    "title": "Carrera y trabajo",
+    "summary": "Career, CV, deadline, pay rise y las palabras de la vida laboral.",
+    "body": [
+      "Una career es la trayectoria profesional. Para postularte, preparás un CV (en Estados Unidos se dice resume) y completás una application. Después viene el interview, que ya conocés. El employer es la empresa o persona que contrata; el que trabaja por su cuenta es self-employed, o freelance si trabaja por proyectos.",
+      "Cada proyecto tiene un deadline, la fecha límite. Si todo va bien, puede haber una promotion (ascenso) y un pay rise (aumento de sueldo). Las horas extra se llaman overtime. Pero también existe la redundancy: un despido por motivos económicos, muy distinto de ser despedido por mal desempeño.",
+      "Para ir al trabajo, los británicos hacen el commute: el viaje diario, a veces de una hora o más. Una frase de oficina: «I'm working to a tight deadline», «Tengo un plazo muy ajustado»."
+    ],
+    "pins": [
+      "career",
+      "CV",
+      "application",
+      "employer",
+      "deadline",
+      "promotion",
+      "redundancy",
+      "pay rise",
+      "overtime",
+      "self-employed",
+      "commute",
+      "freelance"
+    ],
+    "quiz": [
+      {
+        "prompt": "CV es…",
+        "options": [
+          "el currículum",
+          "una carta de presentación",
+          "una entrevista",
+          "un contrato"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Self-employed significa…",
+        "options": [
+          "que trabaja por su cuenta",
+          "desempleado",
+          "jubilado",
+          "estudiante"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Pay rise es…",
+        "options": [
+          "un aumento de sueldo",
+          "una multa",
+          "un impuesto",
+          "un feriado"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Redundancy es…",
+        "options": [
+          "despido por motivos económicos",
+          "renuncia voluntaria",
+          "ascenso",
+          "licencia"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Commute es…",
+        "options": [
+          "el viaje diario al trabajo",
+          "una reunión",
+          "un descanso",
+          "un contrato"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Dinero y bancos",
+    "summary": "Bank account, cashpoint, mortgage, quid y las finanzas de todos los días.",
+    "body": [
+      "Para vivir en el Reino Unido necesitás un bank account (cuenta bancaria). Con la debit card sacás cash en un cashpoint (el cajero automático; en Estados Unidos se llama ATM) o pagás directo con contactless, apoyando la tarjeta en el lector, sin PIN para montos chicos.",
+      "Los savings son tus ahorros y un loan es un préstamo. Todo préstamo cobra interest. Un overdraft es el descubierto: gastás más de lo que tenés en la cuenta. Una mortgage es la hipoteca, y la mayoría de los compradores de una casa la necesita. Los impuestos se llaman tax.",
+      "En el habla coloquial, la libra se llama quid: «It costs ten quid». La palabra no cambia en plural. Si querés sonar británico, decí quid y no pounds cuando hablás con amigos."
+    ],
+    "pins": [
+      "bank account",
+      "cash",
+      "cashpoint",
+      "debit card",
+      "contactless",
+      "mortgage",
+      "savings",
+      "loan",
+      "interest",
+      "tax",
+      "quid",
+      "overdraft"
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Tecnología",
+    "summary": "Mobile, laptop, password, wi-fi y el vocabulario digital diario.",
+    "body": [
+      "En inglés británico el teléfono celular es mobile (en Estados Unidos, cell phone). Un laptop es una notebook, y la screen es la pantalla. Si necesitás enchufar algo, necesitás un charger; si el teléfono se apaga, dirás «My battery is dead». Para conectarte, la red es wi-fi (se pronuncia WAI-fai).",
+      "Cada cuenta tiene su password (contraseña). Un website es un sitio web y una app es una aplicación para el teléfono. Se puede download (descargar) casi todo. Si no hay signal (señal), no podés llamar. Un text message es un mensaje de texto, y los británicos dicen «text me» en vez de «mandame un mensaje».",
+      "Los emails llegan por todas partes, y una frase habitual del trabajo es «I'll send you an email». La tecnología ya es parte de la vida: casi cualquier trámite se hace en línea."
+    ],
+    "pins": [
+      "mobile",
+      "laptop",
+      "password",
+      "website",
+      "download",
+      "app",
+      "signal",
+      "charger",
+      "screen",
+      "wi-fi",
+      "text message",
+      "email",
+      "battery"
+    ],
+    "dialogue": [
+      {
+        "zh": "Excuse me, what's the wi-fi password?",
+        "py": "ik-SKYUUZ mii wots dhə wai fai PAAS-wəəd",
+        "es": "Permiso, ¿cuál es la contraseña del wifi?"
+      },
+      {
+        "zh": "It's on the screen behind the bar.",
+        "py": "its on dhə skriin bi-HAIND dhə baa",
+        "es": "Está en la pantalla detrás de la barra."
+      },
+      {
+        "zh": "Thanks. I've got no signal on my mobile.",
+        "py": "thangks aiv got nəu SIG-nəl on mai MƏU-bail",
+        "es": "Gracias. No tengo señal en mi celular."
+      },
+      {
+        "zh": "No problem. Do you need a charger too?",
+        "py": "nəu PRO-bləm duu yuu niid ə CHAA-djə tuu",
+        "es": "No hay problema. ¿Necesitás un cargador también?"
+      },
+      {
+        "zh": "Yes, please. My battery is almost dead.",
+        "py": "yes pliiz mai BA-tə-ri iz OOL-məust ded",
+        "es": "Sí, por favor. Mi batería está casi muerta."
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "title": "Transporte y problemas",
+    "summary": "Delay, platform, timetable y cómo enfrentar un tren demorado.",
+    "body": [
+      "En Gran Bretaña el tren es el medio de transporte más popular para viajes largos, pero también el más propenso a los problemas. Un delay es una demora, y una cancellation, una cancelación. Los avisos de la estación suelen hablar de signal failure, strike o engineering works (obras en las vías).",
+      "Para viajar necesitás saber leer el timetable (el horario) y buscar la platform (el andén) correcta. Si querés ida y vuelta, pedí un return ticket; si solo vas, un single. Quien viaja todos los días puede comprar un season ticket (abono) o una railcard, que da descuentos. En la hora pico, o rush hour, los trenes van llenísimos.",
+      "En Londres se usa la tube, el subte. Una frase de estación que vas a oír mucho: «The 8.15 to Manchester is delayed by ten minutes», «El de las ocho y cuarto a Manchester viene demorado diez minutos»."
+    ],
+    "pins": [
+      "delay",
+      "platform",
+      "timetable",
+      "return ticket",
+      "single",
+      "cancellation",
+      "railcard",
+      "season ticket",
+      "rush hour",
+      "tube",
+      "strike",
+      "engineering works"
+    ],
+    "quiz": [
+      {
+        "prompt": "Single en un boleto de tren es…",
+        "options": [
+          "solo ida",
+          "ida y vuelta",
+          "abono mensual",
+          "para un grupo"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Platform significa…",
+        "options": [
+          "andén",
+          "plataforma de internet",
+          "tablero de horarios",
+          "vagón"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Rush hour es…",
+        "options": [
+          "hora pico",
+          "hora de almorzar",
+          "fin del turno",
+          "hora de cierre"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Timetable es…",
+        "options": [
+          "el horario",
+          "el boleto",
+          "el andén",
+          "la tarifa"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "The tube se refiere a…",
+        "options": [
+          "el subte de Londres",
+          "un túnel de autos",
+          "una calle",
+          "un tipo de tren de lujo"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "title": "Opiniones y sentimientos",
+    "summary": "I reckon, annoyed, gutted, chuffed y cómo expresar lo que sentís.",
+    "body": [
+      "Para dar tu opinion: In my view… (en mi opinión), I reckon… (yo creo, informal, muy británico). Para coincidir: I agree. Para no coincidir: I disagree. Los británicos suelen suavizar el desacuerdo con frases como «I'm not sure about that» o «That's one way of looking at it».",
+      "Con los sentimientos hay palabras estándar: worried (preocupado), annoyed (molesto), delighted (encantado). Y hay palabras coloquiales muy británicas: fed up (harto), gutted (destrozado, decepcionado), chuffed (contentísimo) y brilliant (genial). Un británico puede decir «I'm absolutely gutted!» tras perder un partido o «I'm chuffed to bits!» tras un ascenso.",
+      "Practicá con estas frases: «I reckon it's going to rain», «I'm a bit worried about the exam», «I'm fed up with the traffic». Son muy naturales y te harán sonar mucho más cercano."
+    ],
+    "pins": [
+      "opinion",
+      "agree",
+      "disagree",
+      "annoyed",
+      "worried",
+      "delighted",
+      "fed up",
+      "I reckon",
+      "in my view",
+      "brilliant",
+      "gutted",
+      "chuffed"
+    ],
+    "dialogue": [
+      {
+        "zh": "Did you see the match last night?",
+        "py": "did yuu sii dhə mach laast nait",
+        "es": "¿Viste el partido anoche?"
+      },
+      {
+        "zh": "Yes, I'm absolutely gutted. We lost.",
+        "py": "yes aim AB-sə-luut-li GA-tid wii lost",
+        "es": "Sí, estoy realmente destrozado. Perdimos."
+      },
+      {
+        "zh": "I reckon the referee was the problem.",
+        "py": "ai REK-ən dhə re-fə-RII woz dhə PRO-bləm",
+        "es": "Creo que el árbitro fue el problema."
+      },
+      {
+        "zh": "I agree. I'm really fed up with him.",
+        "py": "ai ə-GRII aim RIƏ-li fed ap widh him",
+        "es": "Estoy de acuerdo. Estoy harto de él."
+      },
+      {
+        "zh": "Never mind. There's another match on Saturday.",
+        "py": "NE-və maind dheəz ə-NA-dhə mach on SA-tə-dei",
+        "es": "No importa. El sábado hay otro partido."
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "title": "Vida social",
+    "summary": "Mate, flatmate, pub quiz, round y cómo se hace amigos en el Reino Unido.",
+    "body": [
+      "Un mate es un amigo, un compañero; se usa mucho en el habla familiar. Un flatmate es quien comparte el departamento con vos, y un partner es tu pareja, sin importar el género. Los británicos hacen amigos en el pub, en el trabajo o en el club deportivo.",
+      "Algunos verbos compuestos útiles: get on with significa llevarse bien (I get on with my neighbours); fall out es pelearse (we fell out last week); hang out es pasar el rato; catch up es ponerse al día. Si organizás una party, tenés que invite a la gente: inviting es dar una invitación.",
+      "En el pub hay una costumbre sagrada: la round. Cuando un grupo sale a tomar algo, cada uno compra una ronda de bebidas para todos, por turnos. No participar es de mala educación. Otro clásico es el pub quiz, una noche de preguntas y respuestas en equipos, con premios divertidos."
+    ],
+    "pins": [
+      "partner",
+      "flatmate",
+      "mate",
+      "get on with",
+      "fall out",
+      "hang out",
+      "catch up",
+      "invite",
+      "party",
+      "pub quiz",
+      "round"
+    ],
+    "quiz": [
+      {
+        "prompt": "Mate significa…",
+        "options": [
+          "amigo; compañero",
+          "enemigo",
+          "vecino",
+          "jefe"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Get on with significa…",
+        "options": [
+          "llevarse bien con",
+          "terminar con",
+          "seguir con",
+          "subir a"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "In a pub, a round es…",
+        "options": [
+          "una ronda de bebidas para todos",
+          "una vuelta al bar",
+          "una apuesta",
+          "un juego de cartas"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Fall out significa…",
+        "options": [
+          "pelearse",
+          "caerse",
+          "salir",
+          "irse"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Flatmate es…",
+        "options": [
+          "compañero de departamento",
+          "dueño del departamento",
+          "vecino del piso de arriba",
+          "portero"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "title": "Fiestas y fechas",
+    "summary": "Bank holiday, Christmas, Bonfire Night y el calendario británico.",
+    "body": [
+      "El calendar británico está lleno de fechas especiales. Un month tiene cuatro semanas, pero a dos semanas se les dice fortnight (palabra muy británica: «see you in a fortnight»). Un year tiene doce meses. El birthday se festeja con torta y una tarjeta.",
+      "Una bank holiday es un feriado nacional que siempre cae lunes, así que se forma un fin de semana largo. Las más famosas son Easter (Pascua) y Christmas (Navidad). El día después de Navidad es Boxing Day, un feriado muy esperado con liquidaciones y partidos de fútbol. El New Year se festeja en Nochevieja con fuegos artificiales.",
+      "Hay tradiciones muy propias: el 5 de noviembre se celebra Bonfire Night con hogueras y fuegos artificiales, en recuerdo de un complot de 1605. El martes antes de la Cuaresma se come Pancake Day: tortitas dulces con limón y azúcar."
+    ],
+    "pins": [
+      "month",
+      "year",
+      "fortnight",
+      "birthday",
+      "bank holiday",
+      "Christmas",
+      "Easter",
+      "New Year",
+      "Bonfire Night",
+      "Boxing Day",
+      "calendar",
+      "Pancake Day"
+    ]
+  },
+  {
+    "number": 9,
+    "title": "Medio ambiente",
+    "summary": "Climate, recycling, flood, energy y los temas verdes del Reino Unido.",
+    "body": [
+      "El medio ambiente es un tema central en la agenda británica. La pollution (contaminación) y el climate change preocupan a todos. Se habla de global warming (calentamiento global) y de reducir las emisiones de carbon. El Reino Unido tiene un objetivo de neutralidad de carbono para 2050.",
+      "En casa, el recycling se organiza con cestos de colores: cada municipio tiene su sistema. Se separan plástico, papel, vidrio y residuos de comida. El uso de plastic de un solo uso baja cada año. Para ir al trabajo, se promueve el public transport y la bicicleta, y en general lo sustainable.",
+      "La naturaleza británica tiene su atractivo: la countryside con sus campos verdes, y el wildlife (fauna silvestre) que incluye zorros, erizos y ciervos. Las floods, es decir las inundaciones, son cada vez más frecuentes en invierno. Y la energy renovable crece sin parar, sobre todo la eólica marina."
+    ],
+    "pins": [
+      "pollution",
+      "recycling",
+      "climate",
+      "energy",
+      "wildlife",
+      "countryside",
+      "flood",
+      "global warming",
+      "carbon",
+      "plastic",
+      "sustainable",
+      "public transport"
+    ]
+  },
+  {
+    "number": 10,
+    "title": "Noticias y medios",
+    "summary": "Newspaper, headline, BBC, programme y el paisaje mediático del Reino Unido.",
+    "body": [
+      "Los medios británicos tienen fama mundial. La BBC es la televisión y radio pública, financiada por un impuesto. Un channel es un canal, y un programme (con ortografía británica «mme») es un programa. Los noticieros se interrumpen con breaking news, noticias de último momento.",
+      "En la prensa, los newspapers se dividen en dos grandes categorías: los broadsheets, serios y de gran formato, y los tabloids, más sensacionalistas y de formato chico. Cada diario tiene su headline, el titular grande de la primera plana, escrito para llamar la atención. Un journalist es un periodista y un reporter, un cronista.",
+      "Los británicos aman los documentaries y las soap operas, esos dramas diarios sobre vecinos y familias, como EastEnders, que se ven desde hace décadas. Para hablar de tus programas favoritos: «Did you watch the news last night?»."
+    ],
+    "pins": [
+      "newspaper",
+      "headline",
+      "broadcast",
+      "BBC",
+      "channel",
+      "programme",
+      "journalist",
+      "tabloid",
+      "documentary",
+      "soap opera",
+      "reporter",
+      "breaking news"
+    ],
+    "quiz": [
+      {
+        "prompt": "Tabloid es…",
+        "options": [
+          "un diario sensacionalista",
+          "un diario serio",
+          "una revista de moda",
+          "un canal de TV"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Programme es…",
+        "options": [
+          "programa (ortografía británica)",
+          "programa en EE. UU.",
+          "una pantalla",
+          "un horario"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Headline es…",
+        "options": [
+          "el titular",
+          "el pie de foto",
+          "la firma",
+          "la contratapa"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "BBC es…",
+        "options": [
+          "la televisión y radio pública",
+          "un diario",
+          "un banco",
+          "una cadena de pubs"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Breaking news es…",
+        "options": [
+          "noticia de último momento",
+          "noticia vieja",
+          "noticia policial",
+          "noticia deportiva"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "title": "Salud y estilo de vida",
+    "summary": "Diet, healthy, A&E, ambulance y cómo cuidar el cuerpo.",
+    "body": [
+      "Una diet es el conjunto de alimentos que comés (también significa «régimen para adelgazar»). Una dieta balanced incluye frutas, verduras, proteínas y cereales. Las vitamins son suplementos que se toman cuando falta algo. El exercise (ejercicio) es clave: caminar, correr o nadar. Y el stress, que en el trabajo es una causa frecuente de enfermedad.",
+      "Para estar healthy, los británicos recomiendan cinco porciones de frutas y verduras por día. Si hay una emergencia, se llama al 999 y viene la ambulance. El hospital tiene un departamento de A&E (Accident & Emergency), la guardia. Para consultas menores, se va a la surgery, que es el consultorio del GP.",
+      "El sistema NHS es público y gratuito, pero hay una waiting list (lista de espera) para muchos tratamientos. Si tomás medicinas, siempre preguntá por los side effects, los efectos secundarios, y controlá la blood pressure, la presión arterial."
+    ],
+    "pins": [
+      "diet",
+      "exercise",
+      "stress",
+      "healthy",
+      "balanced",
+      "vitamin",
+      "A&E",
+      "ambulance",
+      "waiting list",
+      "surgery",
+      "blood pressure",
+      "side effect"
+    ]
+  },
+  {
+    "number": 12,
+    "title": "Conectores de la narración",
+    "summary": "However, although, therefore y cómo unir ideas con claridad.",
+    "body": [
+      "Para pasar de B1 a B2 necesitás conectar ideas con claridad. However significa «sin embargo» y se pone al principio de la frase, seguido de coma: The film was long. However, it was excellent. Although introduce una oposición dentro de la misma frase: Although it was raining, we went out.",
+      "Therefore expresa consecuencia (por lo tanto), y as a result también (como resultado). Meanwhile indica algo que ocurre al mismo tiempo (mientras tanto). In fact introduce un dato real que refuerza o corrige lo anterior. Besides agrega un argumento (además).",
+      "Para organizar un texto: firstly (en primer lugar), for example (por ejemplo), in addition (además) y finally (por último). Para contrastar: on the other hand. Un buen texto británico usa los conectores justos: pocos, claros y sin exagerar."
+    ],
+    "pins": [
+      "however",
+      "although",
+      "therefore",
+      "meanwhile",
+      "in fact",
+      "as a result",
+      "on the other hand",
+      "besides",
+      "firstly",
+      "finally",
+      "for example",
+      "in addition"
+    ],
+    "quiz": [
+      {
+        "prompt": "However significa…",
+        "options": [
+          "sin embargo",
+          "además",
+          "por lo tanto",
+          "mientras"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Therefore significa…",
+        "options": [
+          "por lo tanto",
+          "sin embargo",
+          "mientras",
+          "por ejemplo"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "¿Qué conector usás para dar un ejemplo?",
+        "options": [
+          "for example",
+          "however",
+          "meanwhile",
+          "although"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "Meanwhile quiere decir…",
+        "options": [
+          "mientras tanto",
+          "finalmente",
+          "en fin",
+          "en primer lugar"
+        ],
+        "correct": 0
+      },
+      {
+        "prompt": "On the other hand es…",
+        "options": [
+          "por otro lado",
+          "por un lado",
+          "por ejemplo",
+          "por último"
+        ],
+        "correct": 0
+      }
+    ]
+  }
+]
