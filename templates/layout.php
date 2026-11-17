@@ -24,7 +24,7 @@ $here = request_path();
         <span class="brand-mark" aria-hidden="true">E</span>
         <span class="brand-text">
           <strong>Inglés</strong>
-          <em>Inglés de Inglaterra</em>
+          <em>Aprendiendo inglés</em>
         </span>
       </a>
       <button type="button" class="menu-toggle" aria-expanded="false" aria-controls="site-nav">

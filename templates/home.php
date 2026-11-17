@@ -4,9 +4,9 @@
   </div>
   <div class="home-hero-scrim" aria-hidden="true"></div>
   <div class="home-hero-inner">
-    <p class="eyebrow light">Inglés de Inglaterra</p>
+    <p class="eyebrow light">Inglés</p>
     <h1 class="home-hero-brand"><span class="hero-es">Aprendiendo</span><span class="hero-lang">Inglés</span></h1>
-    <p class="home-hero-line">Inglés británico: clases, audios y diccionario de A1 a C2.</p>
+    <p class="home-hero-line">Clases, audios y un diccionario con las palabras de A1 a C2.</p>
     <div class="home-hero-actions">
       <a class="primary-btn" href="#clases">Ver clases</a>
     </div>
@@ -34,7 +34,7 @@
   <section class="system" id="sistema">
     <p class="eyebrow">El sistema</p>
     <h2>Seis niveles, tres etapas</h2>
-    <p class="lede">El inglés británico se ordena con el MCER (CEFR), el Common European Framework of Reference: seis niveles y tres etapas. A1 y A2 son la etapa inicial. B1 y B2, la media. C1 y C2, la avanzada. En cada nivel hay clases con audio, práctica y una autoevaluación. Se cursan en ese orden.</p>
+    <p class="lede">El inglés se ordena con el MCER (CEFR), el Common European Framework of Reference: seis niveles y tres etapas. A1 y A2 son la etapa inicial. B1 y B2, la media. C1 y C2, la avanzada. En cada nivel hay clases con audio, práctica y una autoevaluación. Se cursan en ese orden.</p>
     <p class="cert-note">Al completar todas las clases de un nivel, el certificado queda en Certificados. No tiene validez oficial: solo deja constancia de que terminaste ese nivel acá.</p>
     <div class="stage-grid">
       <article>

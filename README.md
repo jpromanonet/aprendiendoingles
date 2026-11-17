@@ -1,6 +1,6 @@
 # Aprendiendo inglés
 
-Curso de inglés británico (Inglaterra) para hispanohablantes, de A1 a C2. Clases, audios, diccionario, libros y certificados. La interfaz sigue el mismo recorrido del template: tres etapas, práctica escrita y autoevaluación.
+Curso de inglés para hispanohablantes, de A1 a C2. Clases, audios, diccionario, libros y certificados. La interfaz sigue el mismo recorrido del template: tres etapas, práctica escrita y autoevaluación.
 
 ## Local
 
